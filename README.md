@@ -109,12 +109,10 @@ Capítulo III: Requirements Specification
 - 2.3.5. As-is Scenario Mapping.
 
 ## Capítulo III: Requirements Specification
-### 3.1. To-Be Scenario Mapping.
-### 3.2. User Stories.
-### 3.3. Impact Mapping.
-### 3.4. Product Backlog.# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible *offline!*
+- 3.1. To-Be Scenario Mapping.
+- 3.2. User Stories.
+- 3.3. Impact Mapping.
+- 3.4. Product Backlog.
 
 ## Create files and folders
 
@@ -207,5 +205,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODEwMzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjc1MzcyMTEsLTEzODEwMzc2MjBdfQ
+==
 -->
