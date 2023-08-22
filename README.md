@@ -18,7 +18,7 @@ Ciclo: 2023-1
 
 | Version | Fecha| Autor | Descripcion de la Modificacion |
 |-----------|-----------|-----------|-----------|
-| 1.0 | 22/08/2023 | Fila 1, C3 | Fila 1, C4 |
+| 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
 | Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 |
 | Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 |
 | Fila 4, C1 | Fila 4, C2 | Fila 4, C3 | Fila 4, C4 |
@@ -224,5 +224,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDAyMzM0MCw4NjMzNTM3OTldfQ==
+eyJoaXN0b3J5IjpbLTE2OTEwMTk5MjBdfQ==
 -->
