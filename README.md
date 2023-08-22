@@ -16,6 +16,12 @@ Ciclo: 2023-1
 
 ## Registro de Versiones del Informe
 
+| Version | Fecha| Autor | Descripcion de la Modificacion |
+|-----------|-----------|-----------|-----------|
+| 1.0 | 22/08/2023 | Fila 1, C3 | Fila 1, C4 |
+| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 |
+| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 |
+| Fila 4, C1 | Fila 4, C2 | Fila 4, C3 | Fila 4, C4 |
 
 ## Project Report Collaboration Insights
 
@@ -218,5 +224,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NzM3MjY5LDg2MzM1Mzc5OV19
+eyJoaXN0b3J5IjpbMTc1NDAyMzM0MCw4NjMzNTM3OTldfQ==
 -->
