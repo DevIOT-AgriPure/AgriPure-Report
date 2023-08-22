@@ -16,7 +16,7 @@ Ciclo: 2023-1
 | Version | Fecha| Autor | Descripcion de la Modificacion |
 |-----------|-----------|-----------|-----------|
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
-|  |  |  | Fila 2, C4 |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -178,6 +178,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkwODEyMDAsLTIwOTA3NzUwNTldfQ
+eyJoaXN0b3J5IjpbLTIxNDA3NDEzNDMsLTIwOTA3NzUwNTldfQ
 ==
 -->
