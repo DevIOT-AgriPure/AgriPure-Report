@@ -1,9 +1,7 @@
 
 # Carátula
 
-<div align="center">
   ![Universidad Aplicada de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
-</div>
 
 Carrera: Ingenieria de Software
 Nombre del curso: Desarrollo de Soluciones IOT
@@ -15,9 +13,6 @@ Nombre del producto: AgriPure
 Relación de integrantes
 Mes y año
 Ciclo: 2023-1
-```
-
-Este código centrará la imagen en la parte superior y mantendrá el resto del contenido alineado a la izquierda. Puedes copiar y pegar este código en un editor de Markdown para ver cómo se ve el formato.
 
 ## Registro de Versiones del Informe
 
@@ -46,7 +41,7 @@ Este código centrará la imagen en la parte superior y mantendrá el resto del 
 
 	Mirando hacia el futuro, AGRIPURE persigue una visión audaz: convertirse en una empresa líder que desempeñe un 				papel esencial en la reducción de la prevalencia de alimentos transgénicos. Esta visión se materializa al ofrecer una plataforma fiable y accesible que permite a cualquier persona involucrarse en la creación y el cultivo de su propio alimento. Al mismo tiempo, AGRIPURE busca contribuir al mejoramiento de los cultivos a gran escala, propiciando la producción de alimentos de mayor calidad y valor nutricional.
 	
-		- 1.1.2. Perfiles de integrantes del equipo
+- 1.1.2. Perfiles de integrantes del equipo
 
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
@@ -217,5 +212,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTcyNDYzNCwtMTQxNTY5MzYyXX0=
+eyJoaXN0b3J5IjpbLTE3NTYyNjc2MjMsLTE0MTU2OTM2Ml19
 -->
