@@ -150,14 +150,14 @@ Capítulo IV: Solution Software Design
 		- 4.1.3.2. Software Architecture Container Level Diagrams.
 		- 4.1.3.3. Software Architecture Deployment Diagrams. 
 - 4.2. Tactical-Level Domain-Driven Design 
-		-4.2.X. Bounded Context: 
+	- 4.2.X. Bounded Context: 
 		- 4.2.X.1. Domain Layer. 
 		- 4.2.X.2. Interface Layer. 
-4.2.X.3. Application Layer. 
-4.2.X.4. Infrastructure Layer. 
-4.2.X.6. Bounded Context Software Architecture Component Level Diagrams. 
-4.2.X.7. Bounded Context Software Architecture Code Level Diagrams. 
-4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
+		- 4.2.X.3. Application Layer. 
+		- 4.2.X.4. Infrastructure Layer. 
+		- 4.2.X.6. Bounded Context Software Architecture Component Level Diagrams. 
+		- 4.2.X.7. Bounded Context Software Architecture Code Level Diagrams. 
+			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 4.2.X.7.2. Bounded Context Database Design Diagram.## SmartyPants
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
@@ -207,5 +207,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTU0MjQzNiwtMTIxMzUzMDg5MV19
+eyJoaXN0b3J5IjpbMTIxNjQ1ODE3OSwtMTIxMzUzMDg5MV19
 -->
