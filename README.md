@@ -1,6 +1,3 @@
-
-# Carátula
-
   ![Universidad Aplicada de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 Carrera: Ingenieria de Software
@@ -181,5 +178,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA3NzUwNTldfQ==
+eyJoaXN0b3J5IjpbNjUwMzAyNzU1LC0yMDkwNzc1MDU5XX0=
 -->
