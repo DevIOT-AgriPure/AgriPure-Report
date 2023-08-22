@@ -26,7 +26,7 @@ Ciclo: 2023-1
 ## Contenido
 - [Tabla de contenidos](#tabla-de-contenidos)
 Capítulo I: Introducción 
-1.1. Startup Profile 
+1.1. Startup Profile
 1.1.1. Descripción de la Startup 
 1.1.2. Perfiles de integrantes del equipo 
 1.2. Solution Profile 
@@ -207,6 +207,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODc0NDQyMiwtMjE0MDc0MTM0MywtMj
-A5MDc3NTA1OV19
+eyJoaXN0b3J5IjpbLTEzODEwMzc2MjBdfQ==
 -->
