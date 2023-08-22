@@ -27,7 +27,18 @@ Ciclo: 2023-1
 ## Capítulo I: Introducción
 ### 1.1. Startup Profile
 - 1.1.1. Descripción de la Startup
-- 1.1.2. Perfiles de integrantes del equipo
+Hoy en día, uno de los pilares fundamentales en nuestra sociedad que adquiere una importancia trascendental es el sector agrícola. En especial en el contexto peruano, los agricultores desempeñan un papel crucial al impulsar la economía del país. Sin embargo, es evidente que a menudo enfrentan obstáculos significativos, careciendo de las oportunidades y herramientas tecnológicas necesarias para maximizar sus ganancias y optimizar la producción.
+
+	Es ante esta coyuntura de carencias que afectan a miles de agricultores que emerge una solución innovadora: la Startup denominada "AGRIPURE". Esta iniciativa surge con el objetivo de cerrar las brechas existentes y ofrecer un apoyo sustancial a la comunidad agrícola.
+
+	AGRIPURE se presenta como una solución revolucionaria que se materializa a través de una aplicación móvil. Esta aplicación no solo actúa como una asistencia en línea para los agricultores, sino que también proporciona una serie de alternativas, guías y consejos que apuntan a elevar los estándares de la agricultura y, en consecuencia, incrementar la eficiencia y las ganancias de los agricultores.
+
+		Uno de los aspectos destacados de AGRIPURE es su capacidad para unir al agricultor con el mundo exterior, superando las barreras geográficas y facilitando un acceso fluido a información relevante y servicios de alta calidad. A través de su presencia en una Aplicación Móvil, AGRIPURE pone al alcance de los agricultores una plataforma rica en contenido y herramientas que respaldan el desarrollo y el éxito de cada usuario.
+
+		En línea con su misión, AGRIPURE tiene como propósito fundamental asistir a las personas en su empeño por llevar a cabo una siembra eficiente, ya sea en gran escala o incluso en entornos domésticos. Esto se logra a través de una plataforma segura que proporciona recomendaciones y guías adaptadas a las necesidades individuales de cada agricultor.
+
+		Mirando hacia el futuro, AGRIPURE persigue una visión audaz: convertirse en una empresa líder que desempeñe un papel esencial en la reducción de la prevalencia de alimentos transgénicos. Esta visión se materializa al ofrecer una plataforma fiable y accesible que permite a cualquier persona involucrarse en la creación y el cultivo de su propio alimento. Al mismo tiempo, AGRIPURE busca contribuir al mejoramiento de los cultivos a gran escala, propiciando la producción de alimentos de mayor calidad y valor nutricional.
+		- 1.1.2. Perfiles de integrantes del equipo
 
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
@@ -198,5 +209,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU2OTM2Ml19
+eyJoaXN0b3J5IjpbLTE4MjkwMTEwNTcsLTE0MTU2OTM2Ml19
 -->
