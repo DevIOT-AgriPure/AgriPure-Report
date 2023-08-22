@@ -16,6 +16,7 @@ Ciclo: 2023-1
 
 ## Registro de Versiones del Informe
 
+
 ## Project Report Collaboration Insights
 
 **Enlace del Project Report: [https://github.com/DevIOT-AgriPure/AgriPure-Report.git](https://github.com/DevIOT-AgriPure/AgriPure-Report.git)**
@@ -217,5 +218,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMzUzNzk5XX0=
+eyJoaXN0b3J5IjpbNzg1NzM3MjY5LDg2MzM1Mzc5OV19
 -->
