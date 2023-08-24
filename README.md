@@ -5,12 +5,19 @@ Carrera: Ingeniería de Software
 Nombre del curso: Desarrollo de  Soluciones IOT.
 
 Sección: SW71. 
+
 Nombre del profesor: Angel Augusto Velasquez Nunez.
-"Informe de Trabajo Final". 
+
+"Informe de Trabajo Final".
+ 
 Nombre del startup: DevIOT.
+
 Nombre del producto: AgriPure. 
+
 Relación de integrantes
-Mes y año: Agosto 2023.    
+
+Mes y año: Agosto 2023. 
+   
 Ciclo: 2023-2.
 
 ## Registro de Versiones del Informe
@@ -248,5 +255,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjIyNzE2Ml19
+eyJoaXN0b3J5IjpbLTE2NjAyNjc2MDAsLTQ0NjIyNzE2Ml19
 -->
