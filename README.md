@@ -101,7 +101,7 @@ Capítulo IV: Solution Software Design
 
 | Nombre| Descripcion| 
 |-----------|-----------|
-|| | Andres Christian Reynoso |
+|Andres Christian Reynoso  | |
 |  |  |
 |  |  |
 |  |  |
@@ -213,5 +213,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzM5MDE5MSwtNjE2MDUwMjEwXX0=
+eyJoaXN0b3J5IjpbMTI4NzY1MzcwMSwtNjE2MDUwMjEwXX0=
 -->
