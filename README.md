@@ -25,8 +25,8 @@ Relación de integrantes:
  - Diego Talledo Sanchez
  - Bruno Moisés Palomino Santa Cruz 
  - Andres Christian Reynoso 
- - d 
- - e
+ - Frank Yamil Alva Cordova
+ - Franchesco Alexis Soto Morales
 
 Mes y año: 
 Agosto 2023. 
@@ -269,5 +269,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjE3MjE2NiwtNDQ2MjI3MTYyXX0=
+eyJoaXN0b3J5IjpbLTE4NjI0OTIxMTFdfQ==
 -->
