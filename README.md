@@ -108,12 +108,12 @@ Capítulo IV: Solution Software Design
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
 5W y 2H
-| Who | | 
+
+|5W y 2H  |
 |-----------|-----------|
-| What ||
-| When | |
-| Why |  |
-| Where |  |
+|Who | fd |
+|  |  |
+|  |  |
 |  |  |
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
@@ -221,6 +221,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ3ODQ4NTMsMTQ3MzE3OTc2Myw3ND
-Q2NjgzNjEsMTI4NzY1MzcwMSwtNjE2MDUwMjEwXX0=
+eyJoaXN0b3J5IjpbLTM4OTIzMzc5LDE0NzMxNzk3NjMsNzQ0Nj
+Y4MzYxLDEyODc2NTM3MDEsLTYxNjA1MDIxMF19
 -->
