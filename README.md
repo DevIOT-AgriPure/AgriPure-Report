@@ -1,24 +1,38 @@
   ![Universidad Aplicada de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
-Carrera: Ingeniería de Software
+Carrera: 
+Ingeniería de Software
 
-Nombre del curso: Desarrollo de  Soluciones IOT.
+Nombre del curso: 
+Desarrollo de  Soluciones IOT.
 
-Sección: SW71. 
+Sección: 
+SW71. 
 
-Nombre del profesor: Angel Augusto Velasquez Nunez.
+Nombre del profesor: 
+Angel Augusto Velasquez Nunez.
 
 "Informe de Trabajo Final".
  
-Nombre del startup: DevIOT.
+Nombre del startup: 
+DevIOT.
 
-Nombre del producto: AgriPure. 
+Nombre del producto: 
+AgriPure. 
 
-Relación de integrantes
+Relación de integrantes:
 
-Mes y año: Agosto 2023. 
+ - Diego Talledo Sanchez
+ - Bruno Moisés Palomino Santa Cruz 
+ - Andres Christian Reynoso 
+ - d 
+ - e
+
+Mes y año: 
+Agosto 2023. 
    
-Ciclo: 2023-2.
+Ciclo: 
+2023-2.
 
 ## Registro de Versiones del Informe
 
@@ -255,5 +269,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAyNjc2MDAsLTQ0NjIyNzE2Ml19
+eyJoaXN0b3J5IjpbLTUxMjE3MjE2NiwtNDQ2MjI3MTYyXX0=
 -->
