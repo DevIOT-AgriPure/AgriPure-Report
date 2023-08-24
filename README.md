@@ -69,19 +69,19 @@ Ciclo:
 		- 2.2.2. Registro de entrevistas. 
 		- 2.2.3. Análisis de entrevistas. 
 	- 2.3. Needfinding. 
-2.3.1. User Personas. 
-2.3.2. User Task Matrix. 
-2.3.3. User Journey Mapping. 
-2.3.4. Empathy Mapping. 
-2.3.5. As-is Scenario Mapping. 
+		- 2.3.1. User Personas. 
+		- 2.3.2. User Task Matrix. 
+		- 2.3.3. User Journey Mapping. 
+		- 2.3.4. Empathy Mapping. 
+		 - 2.3.5. As-is Scenario Mapping. 
 - Capítulo III: Requirements Specification 
-3.1. To-Be Scenario Mapping. 
-3.2. User Stories. 
-3.3. Impact Mapping. 
-3.4. Product Backlog.
+	 - 3.1. To-Be Scenario Mapping. 
+	- 3.2. User Stories. 
+	- 3.3. Impact Mapping. 
+	- 3.4. Product Backlog.
 - Capítulo IV: Solution Software Design 
-4.1. Strategic-Level Domain-Driven Design. 
-4.1.1. EventStorming. 
+	- 4.1. Strategic-Level Domain-Driven Design. 
+		- 4.1.1. EventStorming. 
 4.1.1.1 Candidate Context Discovery. 
 4.1.1.2 Domain Message Flows Modeling. 
 4.1.1.3 Bounded Context Canvases. 
@@ -91,7 +91,7 @@ Ciclo:
 4.1.3.2. Software Architecture Context Level Diagrams. 
 4.1.3.2. Software Architecture Container Level Diagrams.
 4.1.3.3. Software Architecture Deployment Diagrams. 
-4.2. Tactical-Level Domain-Driven Design 
+	- 4.2. Tactical-Level Domain-Driven Design 
 4.2.X. Bounded Context: 
 4.2.X.1. Domain Layer. 
 4.2.X.2. Interface Layer. 
@@ -269,5 +269,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDA5NzE2Ml19
+eyJoaXN0b3J5IjpbLTExNTQ4MjUwMTYsLTQ3MDA5NzE2Ml19
 -->
