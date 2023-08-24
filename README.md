@@ -131,11 +131,11 @@ Capítulo IV: Solution Software Design
 ### 2.2. Entrevistas.
 - 2.2.1. Diseño de entrevistas.
 			
-			**Cuestionario para Entrevistas**
+	Cuestionario para Entrevistas
 
-¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy el estudiante de Ingeniería de Software [...] y me gustaría conversar acerca de su experiencia. 
+	¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
 
-1. ¿Podría proporcionarme su nombre, por favor?
+	1. ¿Podría proporcionarme su nombre, por favor?
 2. ¿Cuál es su ocupación actual?
 3. En relación al grupo de agricultores a los que apuntamos:
    a. ¿Dónde se ubica su área de cultivo?
@@ -238,6 +238,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzYyMjA5NCwxNDczMTc5NzYzLDc0ND
+eyJoaXN0b3J5IjpbMTIxMTkzMTY4NywxNDczMTc5NzYzLDc0ND
 Y2ODM2MSwxMjg3NjUzNzAxLC02MTYwNTAyMTBdfQ==
 -->
