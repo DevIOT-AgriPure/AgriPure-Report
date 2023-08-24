@@ -39,7 +39,7 @@ Ciclo:
 | Version | Fecha| Autor | Descripción de la Modificación |
 |-----------|-----------|-----------|-----------|
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
-|  |  |  |  |
+| 1.1 | 24/08/2023 | Andres Christian Reynoso | Se ha completado la estructura del archivo, asi mismo, se han agregado las preguntas para la entrevista, al igual que  |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -269,5 +269,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTM3MDQ3Ml19
+eyJoaXN0b3J5IjpbLTY2NzI4OTY2MywtMzk5MzcwNDcyXX0=
 -->
