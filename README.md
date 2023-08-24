@@ -1,6 +1,6 @@
   ![Universidad Aplicada de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
-Carrera: Ingeniería de Software.
+Carrera: Ingeniería de Software
 
 Nombre del curso: Desarrollo de  Soluciones IOT.
 
@@ -248,5 +248,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDQyMjQ5Nl19
+eyJoaXN0b3J5IjpbLTQ0NjIyNzE2Ml19
 -->
