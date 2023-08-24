@@ -8,8 +8,8 @@ Nombre del profesor: Angel Augusto Velasquez Nunez.
 Nombre del startup: DevIOT.
 Nombre del producto: AgriPure. 
 Relación de integrantes
-Mes y año:     
-Ciclo: 2023-1
+Mes y año: Agosto 2023.    
+Ciclo: 2023-2.
 
 ## Registro de Versiones del Informe
 
@@ -246,6 +246,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ0MzYxNDUsLTExOTk0NTE2MDksLT
-kxMjIwMzE3M119
+eyJoaXN0b3J5IjpbMTQwMTYxMTY0NF19
 -->
