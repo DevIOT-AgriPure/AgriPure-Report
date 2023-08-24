@@ -136,13 +136,16 @@ Capítulo IV: Solution Software Design
 	¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
 
 	1. ¿Podría proporcionarme su nombre, por favor?
-2. ¿Cuál es su ocupación actual?
-3. En relación al grupo de agricultores a los que apuntamos:
-   a. ¿Dónde se ubica su área de cultivo?
-   b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
-   c. ¿Cuánto tiempo dedica a sus actividades de cultivo o jardinería?
-   d. ¿Está familiarizado con el término "pH del suelo"?
-   e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
+	2. ¿Cuál es su ocupación actual?
+	
+	*Preguntas para Segmento 1: Agricultores*
+	
+	En relación al grupo de agricultores a los que apuntamos:
+		  a. ¿Dónde se ubica su área de cultivo?
+		  b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
+		  c. ¿Cuánto tiempo dedica a sus actividades de cultivo o jardinería?
+		  d. ¿Está familiarizado con el término "pH del suelo"?
+	   e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
    f. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
    g. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
    h. ¿Dispone de conocimiento sobre los fertilizantes, repelentes y pesticidas adecuados para cada tipo de planta?
@@ -238,6 +241,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTkzMTY4NywxNDczMTc5NzYzLDc0ND
+eyJoaXN0b3J5IjpbLTU5MDgxMzEwOCwxNDczMTc5NzYzLDc0ND
 Y2ODM2MSwxMjg3NjUzNzAxLC02MTYwNTAyMTBdfQ==
 -->
