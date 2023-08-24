@@ -1,7 +1,9 @@
   ![Universidad Aplicada de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 Carrera: Ingeniería de Software.
+
 Nombre del curso: Desarrollo de  Soluciones IOT.
+
 Sección: SW71. 
 Nombre del profesor: Angel Augusto Velasquez Nunez.
 "Informe de Trabajo Final". 
@@ -246,5 +248,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTYxMTY0NF19
+eyJoaXN0b3J5IjpbLTg1NDQyMjQ5Nl19
 -->
