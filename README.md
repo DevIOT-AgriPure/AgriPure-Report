@@ -103,8 +103,10 @@ Capítulo IV: Solution Software Design
 |-----------|-----------|
 |Andres Christian Reynoso  | |
 |Bruno Moisés Palomino Santa Cruz|  |
-|  |  |
-|  |  |
+|Diego Talledo Sanchez|  |
+|Franchesco Alexis Soto Morales|  |
+|Frank Yamil Alva Cordova|  |
+
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
 
@@ -128,6 +130,7 @@ Capítulo IV: Solution Software Design
 
 ### 2.2. Entrevistas.
 - 2.2.1. Diseño de entrevistas.
+
 - 2.2.2. Registro de entrevistas.
 - 2.2.3. Análisis de entrevistas.
 
@@ -214,6 +217,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzIxODcwNSwxNDczMTc5NzYzLDc0ND
+eyJoaXN0b3J5IjpbMTUyMjI0MjMxNCwxNDczMTc5NzYzLDc0ND
 Y2ODM2MSwxMjg3NjUzNzAxLC02MTYwNTAyMTBdfQ==
 -->
