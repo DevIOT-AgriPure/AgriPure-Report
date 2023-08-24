@@ -99,7 +99,7 @@ Capítulo IV: Solution Software Design
 	
 - 1.1.2. Perfiles de integrantes del equipo
 
-| Nombre| Descripcion| 
+| Nombre| Descripción| 
 |-----------|-----------|
 |Andres Christian Reynoso  | |
 |  |  |
@@ -213,5 +213,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzY1MzcwMSwtNjE2MDUwMjEwXX0=
+eyJoaXN0b3J5IjpbNzQ0NjY4MzYxLDEyODc2NTM3MDEsLTYxNj
+A1MDIxMF19
 -->
