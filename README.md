@@ -197,7 +197,7 @@ Capítulo IV: Solution Software Design
 		- 4.2.X.6. Bounded Context Software Architecture Component Level Diagrams. 
 		- 4.2.X.7. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.X.7.2. Bounded Context Database Design Diagram.## SmartyPants
+			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
@@ -246,5 +246,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjIwMzE3M119
+eyJoaXN0b3J5IjpbLTExOTk0NTE2MDksLTkxMjIwMzE3M119
 -->
