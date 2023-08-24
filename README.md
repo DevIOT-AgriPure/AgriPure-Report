@@ -107,7 +107,13 @@ Capítulo IV: Solution Software Design
 |  |  |
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
-- 1.2.2 Lean UX Process.
+5W y 2H
+|Who| | 
+| What ||
+| When | |
+| Why |  |
+| Where |  |
+|  |  |- 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
   En nuestro contexto, se hace necesario el acceso a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola. Gracias a la información proporcionada por el usuario, es posible mostrar las condiciones a las que están expuestas sus cosechas y, además, suministrar las indicaciones esenciales para llevar a cabo los procesos de cultivo adecuados para cada especie de planta.
 
@@ -213,6 +219,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NjY4MzYxLDEyODc2NTM3MDEsLTYxNj
-A1MDIxMF19
+eyJoaXN0b3J5IjpbMTQ3MzE3OTc2Myw3NDQ2NjgzNjEsMTI4Nz
+Y1MzcwMSwtNjE2MDUwMjEwXX0=
 -->
