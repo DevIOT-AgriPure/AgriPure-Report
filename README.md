@@ -1,6 +1,6 @@
   ![Universidad Aplicada de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
-Carrera: Ingenieria de Software
+Carrera: Ingeniería de Software
 Nombre del curso: Desarrollo de Soluciones IOT
 Sección: SW71
 Nombre del profesor: Angel Augusto Velasquez Nunez
@@ -13,7 +13,7 @@ Ciclo: 2023-1
 
 ## Registro de Versiones del Informe
 
-| Version | Fecha| Autor | Descripcion de la Modificacion |
+| Version | Fecha| Autor | Descripción de la Modificación |
 |-----------|-----------|-----------|-----------|
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
 |  |  |  |  |
@@ -99,6 +99,12 @@ Capítulo IV: Solution Software Design
 	
 - 1.1.2. Perfiles de integrantes del equipo
 
+| Nombre| Descripcion| 
+|-----------|-----------|
+|| | Andres Christian Reynoso |
+|  |  |
+|  |  |
+|  |  |
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
 - 1.2.2 Lean UX Process.
@@ -207,5 +213,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjA1MDIxMF19
+eyJoaXN0b3J5IjpbLTU2MzM5MDE5MSwtNjE2MDUwMjEwXX0=
 -->
