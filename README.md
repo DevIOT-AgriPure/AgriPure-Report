@@ -65,9 +65,9 @@ Ciclo:
 		- 2.1.1. Análisis competitivo. 
 		- 2.1.2. Estrategias y tácticas frente a competidores. 
 	- 2.2. Entrevistas. 
-2.2.1. Diseño de entrevistas. 
-2.2.2. Registro de entrevistas. 
-2.2.3. Análisis de entrevistas. 
+		- 2.2.1. Diseño de entrevistas. 
+		- 2.2.2. Registro de entrevistas. 
+		- 2.2.3. Análisis de entrevistas. 
 	- 2.3. Needfinding. 
 2.3.1. User Personas. 
 2.3.2. User Task Matrix. 
@@ -269,5 +269,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjM2MTI3LC0xODYyNDkyMTExXX0=
+eyJoaXN0b3J5IjpbLTQ3MDA5NzE2Ml19
 -->
