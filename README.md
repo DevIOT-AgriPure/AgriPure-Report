@@ -4,21 +4,21 @@ Carrera:
 Ingeniería de Software
 
 Nombre del curso: 
-Desarrollo de  Soluciones IOT.
+Desarrollo de  Soluciones IOT
 
 Sección: 
-SW71. 
+SW71
 
 Nombre del profesor: 
-Angel Augusto Velasquez Nunez.
+Angel Augusto Velasquez Nunez
 
-"Informe de Trabajo Final".
+"Informe de Trabajo Final"
  
 Nombre del startup: 
-DevIOT.
+DevIOT
 
 Nombre del producto: 
-AgriPure. 
+AgriPure
 
 Relación de integrantes:
 
@@ -29,17 +29,17 @@ Relación de integrantes:
  - Franchesco Alexis Soto Morales
 
 Mes y año: 
-Agosto 2023. 
+Agosto 2023
    
 Ciclo: 
-2023-2.
+2023-2
 
 ## Registro de Versiones del Informe
 
 | Version | Fecha| Autor | Descripción de la Modificación |
 |-----------|-----------|-----------|-----------|
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
-| 1.1 | 24/08/2023 | Andres Christian Reynoso | Se ha completado la estructura del archivo, asi mismo, se han agregado las preguntas para la entrevista, al igual que  |
+| 1.1 | 24/08/2023 | Andres Christian Reynoso | Se ha completado la estructura del archivo, asi mismo, se han agregado las preguntas para la entrevista, al igual que se inicio con el proceso de EventStorming |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -202,7 +202,8 @@ Ciclo:
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Domain-Driven Design. 
 	- 4.1.1. EventStorming. 
-		- 4.1.1.1 Candidate Context Discovery. 
+			Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBOamljTkwxbmdUMmVZSFM3RGRUMFkzek5SSTJkd3wzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=426406113622		
+			- 4.1.1.1 Candidate Context Discovery. 
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
 	- 4.1.2. Context Mapping. 
@@ -269,5 +270,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzI4OTY2MywtMzk5MzcwNDcyXX0=
+eyJoaXN0b3J5IjpbNTY3Njg4OTA3LC0zOTkzNzA0NzJdfQ==
 -->
