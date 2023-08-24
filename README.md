@@ -130,8 +130,29 @@ Capítulo IV: Solution Software Design
 
 ### 2.2. Entrevistas.
 - 2.2.1. Diseño de entrevistas.
+			
+			**Cuestionario para Entrevistas**
 
-- 2.2.2. Registro de entrevistas.
+¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy el estudiante de Ingeniería de Software [...] y me gustaría conversar acerca de su experiencia. 
+
+1. ¿Podría proporcionarme su nombre, por favor?
+2. ¿Cuál es su ocupación actual?
+3. En relación al grupo de agricultores a los que apuntamos:
+   a. ¿Dónde se ubica su área de cultivo?
+   b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
+   c. ¿Cuánto tiempo dedica a sus actividades de cultivo o jardinería?
+   d. ¿Está familiarizado con el término "pH del suelo"?
+   e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
+   f. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
+   g. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
+   h. ¿Dispone de conocimiento sobre los fertilizantes, repelentes y pesticidas adecuados para cada tipo de planta?
+   i. ¿Tiene en cuenta la necesidad de podar las plantas que cultiva? ¿Con qué frecuencia considera que es necesario realizar la poda?
+   j. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
+   k. En caso de lluvias inesperadas, ¿tiene algún método para prevenir que la fumigación pierda efectividad? ¿Consideraría el uso de una aplicación que le brinde información sobre el clima, humedad y viento?
+   l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
+   m. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
+   
+Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito de la agricultura. Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.- 2.2.2. Registro de entrevistas.
 - 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
@@ -217,6 +238,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjI0MjMxNCwxNDczMTc5NzYzLDc0ND
+eyJoaXN0b3J5IjpbLTUzNzYyMjA5NCwxNDczMTc5NzYzLDc0ND
 Y2ODM2MSwxMjg3NjUzNzAxLC02MTYwNTAyMTBdfQ==
 -->
