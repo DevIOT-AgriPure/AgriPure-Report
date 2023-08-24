@@ -156,6 +156,8 @@ Capítulo IV: Solution Software Design
 		l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
 		m. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
    
+	***Preguntas para Segmento 2: Especialistas***
+
 	Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito de la agricultura. Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.
 	
 - 2.2.2. Registro de entrevistas.
@@ -244,6 +246,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NTY1ODM0LDE0NzMxNzk3NjMsNzQ0Nj
-Y4MzYxLDEyODc2NTM3MDEsLTYxNjA1MDIxMF19
+eyJoaXN0b3J5IjpbLTkxMjIwMzE3M119
 -->
