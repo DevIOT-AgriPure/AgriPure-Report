@@ -136,11 +136,16 @@ Ciclo:
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
   
+  **Problem Statement 1:**
   En nuestro contexto, se hace necesario el acceso a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola. Gracias a la información proporcionada por el usuario, es posible mostrar las condiciones a las que están expuestas sus cosechas y, además, suministrar las indicaciones esenciales para llevar a cabo los procesos de cultivo adecuados para cada especie de planta.
 
 	Hemos encontrado un factor crítico que tiene un impacto significativo en los resultados finales generados por el sistema. Este factor radica en la introducción de datos inexactos o que no se ajustan a los valores correctos relativos al terreno, el clima y la siembra.
 
 	¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
+
+  **Problem Statement 2:**
+  En nuestro contexto, se hace presente el desarrollo de 
+
   - 1.2.2.2. Lean UX Assumptions.
   - 1.2.2.3. Lean UX Hypothesis Statements.
   - 1.2.2.4. Lean UX Canvas.
@@ -149,6 +154,7 @@ Ciclo:
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
+
 - 2.1.1. Análisis competitivo.
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -219,6 +225,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 		j. ¿Estaria dispuesto a invertir en dispositivos IOT para realizar el asesoramiento?
 					
 - 2.2.2. Registro de entrevistas.
+
 - 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
@@ -305,5 +312,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mzg5NzQ0XX0=
+eyJoaXN0b3J5IjpbMTUxNjUzODExMiwtOTYzODk3NDRdfQ==
 -->
