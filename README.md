@@ -161,7 +161,7 @@ Ciclo:
 		1. ¿Podría proporcionarme su nombre, por favor?
 		2. ¿Cuál es su ocupación actual?
 	
-sistema operativo, celular
+edad, datos personales, sistema operativo, celular, familiarizado con redes, marcas identificadas
 
 	***Preguntas para Segmento 1: Agricultores***
 	
@@ -284,6 +284,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyNDU4MzgwLC0xMDIxOTE0MTc5LDE0OD
-AxMjYxNTldfQ==
+eyJoaXN0b3J5IjpbLTI0MzU2MjkyMSwtMTAyMTkxNDE3OSwxND
+gwMTI2MTU5XX0=
 -->
