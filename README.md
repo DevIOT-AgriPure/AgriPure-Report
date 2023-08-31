@@ -164,8 +164,10 @@ Ciclo:
 		4. ¿Donde vive?
 		5. ¿Cuál es su ocupación actual?
 		6. ¿Que carrera estudia/estudio?	
-		7. ¿Usted es familiarizado	
-sistema operativo, celular, familiarizado con redes, marcas identificadas
+		7. ¿Usted es familiarizado con las redes sociales?
+		8. ¿Que marca de celular usa?
+		9. ¿Usted prefiere Android o iOS?
+		10. ¿Con cuales marcas se identifica usted mas?
 
 ***Preguntas para Segmento 1: Agricultores***
 	
@@ -287,5 +289,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzE5NzAwOSwtMjQzNTYyOTIxXX0=
+eyJoaXN0b3J5IjpbLTYwMzgxNTc2XX0=
 -->
