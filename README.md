@@ -191,8 +191,10 @@ Ciclo:
 		e. ¿Cuáles son los principales retos a los que se enfrentan los agricultores en la actualidad?
 		f. ¿Qué opinan de las tendencias actuales en el sector agrícola?
 		g. ¿Qué consejos les daría a los agricultores que están pensando en iniciar un nuevo proyecto de cultivo?
-		h. ¿Esta familiarizado con el uso de dispositivos?
-	
+		h. ¿Esta familiarizado con el uso de dispositivos IOT?
+		i. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
+		j. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos?
+					
 - 2.2.2. Registro de entrevistas.
 - 2.2.3. Análisis de entrevistas.
 
@@ -280,6 +282,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzAzMzA3NTUsLTEwMjE5MTQxNzksMT
-Q4MDEyNjE1OV19
+eyJoaXN0b3J5IjpbLTM4MjE1NTY5OSwtMTAyMTkxNDE3OSwxND
+gwMTI2MTU5XX0=
 -->
