@@ -162,10 +162,10 @@ Ciclo:
 		2. ¿Cuantos anios tiene?
 		3. ¿Cual es su nacionalidad?
 		4. ¿Donde vive?
-		5. 		5. 	
-		6. 3. ¿Cuál es su ocupación actual?
-	
-edad, datos personales, sistema operativo, celular, familiarizado con redes, marcas identificadas
+		5. ¿Cuál es su ocupación actual?
+		6. ¿Que carrera estudia/estudio?	
+		7. ¿Usted es familiarizado	
+sistema operativo, celular, familiarizado con redes, marcas identificadas
 
 ***Preguntas para Segmento 1: Agricultores***
 	
@@ -287,5 +287,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA5NzY5MDEsLTI0MzU2MjkyMV19
+eyJoaXN0b3J5IjpbMTEwMzE5NzAwOSwtMjQzNTYyOTIxXX0=
 -->
