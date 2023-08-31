@@ -144,13 +144,22 @@ Ciclo:
 	¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
 
   **Problem Statement 2:**
-  En nuestro contexto, se hace presente el desarrollo de 
+  En nuestro contexto,
+
+	Hemos encontrado
+	
 
   - 1.2.2.2. Lean UX Assumptions.
   - 1.2.2.3. Lean UX Hypothesis Statements.
   - 1.2.2.4. Lean UX Canvas.
+  
+  
 
 ### 1.3. Segmentos objetivo.
+
+En nuestro proyecto se hacen presente dos segmentos objetivos:
+
+- Agricultores: Son nuestro principal segmento objetivo, 
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
@@ -312,5 +321,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjUzODExMiwtOTYzODk3NDRdfQ==
+eyJoaXN0b3J5IjpbNzk5OTYyMjcsLTk2Mzg5NzQ0XX0=
 -->
