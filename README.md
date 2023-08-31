@@ -40,7 +40,7 @@ Ciclo:
 |-----------|-----------|-----------|-----------|
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
 | 1.1 | 24/08/2023 | Andres Christian Reynoso | Se ha completado la estructura del archivo, asi mismo, se han agregado las preguntas para la entrevista, al igual que se inicio con el proceso de EventStorming |
-|  |  |  |  |
+| 1.2 | 31/08/2023 | Andres Christian Reynoso | Se desarrollaron las preguntas para las entrevistas, de igual manera se esta finalizando e |
 |  |  |  |  |
 
 ## Project Report Collaboration Insights
@@ -323,5 +323,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAyNDIzMzZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTE1MDk5NTQsLTEyNTAyNDIzMzZdfQ
+==
 -->
