@@ -168,7 +168,7 @@ Ciclo:
 		a. ¿Dónde se ubica su área de cultivo?
 		b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
 		c. ¿Cuánto tiempo dedica a sus actividades de cultivo o jardinería?
-		d. ¿Está familiarizado con el término "pH del suelo"?
+		d. 
 		e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
 		f. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
 		g. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
@@ -270,5 +270,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3Njg4OTA3XX0=
+eyJoaXN0b3J5IjpbLTE2MTU5MTE1ODAsNTY3Njg4OTA3XX0=
 -->
