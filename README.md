@@ -175,8 +175,8 @@ Ciclo:
 		h. ¿Dispone de conocimiento sobre los fertilizantes, repelentes y pesticidas adecuados para cada tipo de planta?
 		i. ¿Tiene en cuenta la necesidad de podar las plantas que cultiva? ¿Con qué frecuencia considera que es necesario realizar la poda?
 		j. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
-		k. En caso de lluvias inesperadas, ¿tiene algún método para prevenir que la fumigación pierda efectividad? ¿Consideraría el uso de una aplicación que le brinde información sobre el clima, humedad y viento?
-		l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
+		k. ¿Esta familiarizado con el uso de dispositivos moviles?
+				l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
 		m. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
    
 	***Preguntas para Segmento 2: Especialistas***
@@ -270,5 +270,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU5MTE1ODAsNTY3Njg4OTA3XX0=
+eyJoaXN0b3J5IjpbLTY0ODUyNDkwNiw1Njc2ODg5MDddfQ==
 -->
