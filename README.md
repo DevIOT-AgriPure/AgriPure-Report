@@ -10,7 +10,7 @@ Sección:
 SW71
 
 Nombre del profesor: 
-Angel Augusto Velasquez Nunez
+Angel Augusto Velasquez Nuñez
 
 "Informe de Trabajo Final"
  
@@ -177,7 +177,7 @@ Presentamos 3 competidores, los cuales son:
 	¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
 
 		1. ¿Podría proporcionarme su nombre, por favor?
-		2. ¿Cuantos anios tiene?
+		2. ¿Cuantos años tiene?
 		3. ¿Cual es su nacionalidad?
 		4. ¿Donde vive?
 		5. ¿Cuál es su ocupación actual?
@@ -323,5 +323,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mzc1MTEzNV19
+eyJoaXN0b3J5IjpbLTE1MDY2MzE2NDBdfQ==
 -->
