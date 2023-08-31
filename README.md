@@ -159,7 +159,11 @@ Ciclo:
 	¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
 
 		1. ¿Podría proporcionarme su nombre, por favor?
-		2. ¿Cuál es su ocupación actual?
+		2. ¿Cuantos anios tiene?
+		3. ¿Cual es su nacionalidad?
+		4. ¿Donde vive?
+		5. 		5. 	
+		6. 3. ¿Cuál es su ocupación actual?
 	
 edad, datos personales, sistema operativo, celular, familiarizado con redes, marcas identificadas
 
@@ -283,5 +287,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjMxNjQ2OSwtMjQzNTYyOTIxXX0=
+eyJoaXN0b3J5IjpbLTE0MDA5NzY5MDEsLTI0MzU2MjkyMV19
 -->
