@@ -165,7 +165,7 @@ Ciclo:
 		4. ¿Donde vive?
 		5. ¿Cuál es su ocupación actual?
 		6. ¿Que carrera estudia/estudio?	
-		7. 
+		7. Aprendizaje guiado o autodidacta		
 		8. Banco preferido		
 		9. ¿Cuales son sus redes sociales más utilizadas?
 		10. ¿Windows, Linux o Mac?
@@ -173,18 +173,17 @@ Ciclo:
 		12. Menciona 2 otras apps (diferente a redes sociales, pueden ser juegos de celular también) que utilices frecuentemente		
 		13. ¿Con cuales marcas se identifica usted mas?
 
-• Aprendizaje guiado o autodidacta
-Si tuvieras que calificarte en donde 0 fuera inexperto y 10 experto
-¿Cómo te calificarías en el uso de los smartphones?
-¿Cómo te calificarías en el uso de computadoras?
-¿Cómo te calificarías en el uso de los navegadores de internet en
-smartphones?
-¿Cómo te calificarías en el uso de los navegadores de internet en
-computadora?
-¿Cómo te calificarías en el uso de las aplicaciones de escritorio?
-¿Cómo te calificarías en el uso de las aplicaciones móviles?
-¿Qué dispositivo utilizas? ¿Celular, Tablet o una computadora?
-¿Qué buscador conoces? ¿Google Chrome, Firefox, Internet Explorer?
+		Si tuvieras que calificarte en donde 0 fuera inexperto y 10 experto
+		¿Cómo te calificarías en el uso de los smartphones?
+		¿Cómo te calificarías en el uso de computadoras?
+		¿Cómo te calificarías en el uso de los navegadores de internet en
+		smartphones?
+		¿Cómo te calificarías en el uso de los navegadores de internet en
+		computadora?
+		¿Cómo te calificarías en el uso de las aplicaciones de escritorio?
+		¿Cómo te calificarías en el uso de las aplicaciones móviles?
+		¿Qué dispositivo utilizas? ¿Celular, Tablet o una computadora?
+		¿Qué buscador conoces? ¿Google Chrome, Firefox, Internet Explorer?
 
 ***Preguntas para Segmento 1: Agricultores***
 	
@@ -306,5 +305,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5MjA4Njk2LC01MTg1MDA4MjZdfQ==
+eyJoaXN0b3J5IjpbLTk2Mzg5NzQ0XX0=
 -->
