@@ -13,7 +13,7 @@ Nombre del profesor:
 Angel Augusto Velasquez Nuñez
 
 "Informe de Trabajo Final"
- 
+						 
 Nombre del startup: 
 DevIOT
 
@@ -26,11 +26,11 @@ Relación de integrantes:
  - Bruno Moisés Palomino Santa Cruz 
  - Andres Christian Reynoso 
  - Frank Yamil Alva Cordova
- - Franchesco Alexis Soto Morales
+- Franchesco Alexis Soto Morales
 
 Mes y año: 
 Agosto 2023
-   
+						   
 Ciclo: 
 2023-2
 
@@ -323,5 +323,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY2MzE2NDBdfQ==
+eyJoaXN0b3J5IjpbNjg0MjQ1NDg2LC0xNTA2NjMxNjQwXX0=
 -->
