@@ -191,7 +191,7 @@ Ciclo:
 		e. ¿Cuáles son los principales retos a los que se enfrentan los agricultores en la actualidad?
 		f. ¿Qué opinan de las tendencias actuales en el sector agrícola?
 		g. ¿Qué consejos les daría a los agricultores que están pensando en iniciar un nuevo proyecto de cultivo?
-
+		h. ¿Esta familiarizado con el uso de dispositivos?
 	
 - 2.2.2. Registro de entrevistas.
 - 2.2.3. Análisis de entrevistas.
@@ -280,6 +280,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY1NDc0NDUsLTEwMjE5MTQxNzksMT
+eyJoaXN0b3J5IjpbLTEyMzAzMzA3NTUsLTEwMjE5MTQxNzksMT
 Q4MDEyNjE1OV19
 -->
