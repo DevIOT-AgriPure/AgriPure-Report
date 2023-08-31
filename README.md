@@ -161,6 +161,8 @@ Ciclo:
 		1. ¿Podría proporcionarme su nombre, por favor?
 		2. ¿Cuál es su ocupación actual?
 	
+sistema operativo, celular
+
 	***Preguntas para Segmento 1: Agricultores***
 	
 	En relación al grupo de agricultores a los que apuntamos:
@@ -192,8 +194,8 @@ Ciclo:
 		f. ¿Qué opinan de las tendencias actuales en el sector agrícola?
 		g. ¿Qué consejos les daría a los agricultores que están pensando en iniciar un nuevo proyecto de cultivo?
 		h. ¿Esta familiarizado con el uso de dispositivos IOT?
-		i. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
-		j. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos?
+		i. ¿Considera que una aplicación móvil que le ayude a asesorar a multiples agricultores resultaria ser beneficiosa?
+		j. ¿Estaria dispuesto a invertir en dispositivos IOT para realizar el asesoramiento?
 					
 - 2.2.2. Registro de entrevistas.
 - 2.2.3. Análisis de entrevistas.
@@ -282,6 +284,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjE1NTY5OSwtMTAyMTkxNDE3OSwxND
-gwMTI2MTU5XX0=
+eyJoaXN0b3J5IjpbNTkyNDU4MzgwLC0xMDIxOTE0MTc5LDE0OD
+AxMjYxNTldfQ==
 -->
