@@ -184,13 +184,13 @@ Ciclo:
 	Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito de la agricultura. Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.
 	
 
-	 - ¿Cuál es su experiencia en el asesoramiento de proyectos de cultivo?
-   -   ¿Cuáles son las principales áreas de especialización de su asesoría?
-   -   ¿Cómo evalúan las necesidades de los agricultores a los que asesoran?
-   -   ¿Cuáles son las principales recomendaciones que suelen dar a los agricultores?
-   -   ¿Cuáles son los principales retos a los que se enfrentan los agricultores en la actualidad?
-   -   ¿Qué opinan de las tendencias actuales en el sector agrícola?
-   -   ¿Qué consejos les daría a los agricultores que están pensando en iniciar un nuevo proyecto de cultivo?
+		a. ¿Cuál es su experiencia en el asesoramiento de proyectos de cultivo?
+		b. ¿Cuáles son las principales áreas de especialización de su asesoría?	
+		c. ¿Cómo evalúan las necesidades de los agricultores a los que asesoran?
+		d. ¿Cuáles son las principales recomendaciones que suelen dar a los agricultores?
+		e. ¿Cuáles son los principales retos a los que se enfrentan los agricultores en la actualidad?
+		f. ¿Qué opinan de las tendencias actuales en el sector agrícola?
+		g. ¿Qué consejos les daría a los agricultores que están pensando en iniciar un nuevo proyecto de cultivo?
 
 	
 - 2.2.2. Registro de entrevistas.
@@ -280,6 +280,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE0MDI4MTAsLTEwMjE5MTQxNzksMT
+eyJoaXN0b3J5IjpbLTE3NjY1NDc0NDUsLTEwMjE5MTQxNzksMT
 Q4MDEyNjE1OV19
 -->
