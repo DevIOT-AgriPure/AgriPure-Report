@@ -152,7 +152,7 @@ Ciclo:
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
 ### 2.2. Entrevistas.
-- 2.2.1. Diseño de entrevistas.
+ - 2.2.1. Diseño de entrevistas.
 			
 	Cuestionario para Entrevistas
 
@@ -183,19 +183,15 @@ Ciclo:
 
 	Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito de la agricultura. Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.
 	
-	a. 
-	b. 
-	c. 
-	d.
-	e. 
-	f. 
-	g. 
-	h. 
-	i. 
-	j. 
-	k. 
-	l.
-	m. 
+
+	 - ¿Cuál es su experiencia en el asesoramiento de proyectos de cultivo?
+   -   ¿Cuáles son las principales áreas de especialización de su asesoría?
+   -   ¿Cómo evalúan las necesidades de los agricultores a los que asesoran?
+   -   ¿Cuáles son las principales recomendaciones que suelen dar a los agricultores?
+   -   ¿Cuáles son los principales retos a los que se enfrentan los agricultores en la actualidad?
+   -   ¿Qué opinan de las tendencias actuales en el sector agrícola?
+   -   ¿Qué consejos les daría a los agricultores que están pensando en iniciar un nuevo proyecto de cultivo?
+
 	
 - 2.2.2. Registro de entrevistas.
 - 2.2.3. Análisis de entrevistas.
@@ -284,5 +280,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE5MTQxNzksMTQ4MDEyNjE1OV19
+eyJoaXN0b3J5IjpbLTIxNDE0MDI4MTAsLTEwMjE5MTQxNzksMT
+Q4MDEyNjE1OV19
 -->
