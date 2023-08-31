@@ -159,11 +159,13 @@ Ciclo:
 
 En nuestro proyecto se hacen presente dos segmentos objetivos:
 
-- Agricultores: Son nuestro principal segmento objetivo, 
+- Agricultores: Son nuestro principal segmento objetivo
+- Asesores: 
 
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
+Presentamos 3 competidores, los cuales son: 
 - 2.1.1. Análisis competitivo.
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -321,5 +323,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5OTYyMjcsLTk2Mzg5NzQ0XX0=
+eyJoaXN0b3J5IjpbLTEyNTAyNDIzMzZdfQ==
 -->
