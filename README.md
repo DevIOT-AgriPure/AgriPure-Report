@@ -166,9 +166,29 @@ Ciclo:
 		5. ¿Cuál es su ocupación actual?
 		6. ¿Que carrera estudia/estudio?	
 		7. ¿Usted es familiarizado con las redes sociales?
-		8. ¿Que marca de celular usa?
-		9. ¿Usted prefiere Android o iOS?
-		10. ¿Con cuales marcas se identifica usted mas?
+		8. ¿Windows, Linux o Mac?
+		9. ¿Android o Apple?
+		10. Menciona 2 otras apps (diferente a redes sociales, pueden ser juegos de celular también) que utilices frecuentemente		
+		11. ¿Con cuales marcas se identifica usted mas?
+
+• Android o Apple
+• Windows, Linux o Mac
+• Aprendizaje guiado o autodidacta
+• Redes sociales más utilizadas
+• Menciona 2 otras apps (diferente a redes sociales, pueden ser
+juegos de celular también) que utilices frecuentemente
+• Banco preferido
+Si tuvieras que calificarte en donde 0 fuera inexperto y 10 experto
+¿Cómo te calificarías en el uso de los smartphones?
+¿Cómo te calificarías en el uso de computadoras?
+¿Cómo te calificarías en el uso de los navegadores de internet en
+smartphones?
+¿Cómo te calificarías en el uso de los navegadores de internet en
+computadora?
+¿Cómo te calificarías en el uso de las aplicaciones de escritorio?
+¿Cómo te calificarías en el uso de las aplicaciones móviles?
+¿Qué dispositivo utilizas? ¿Celular, Tablet o una computadora?
+¿Qué buscador conoces? ¿Google Chrome, Firefox, Internet Explorer?
 
 ***Preguntas para Segmento 1: Agricultores***
 	
@@ -290,5 +310,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODUwMDgyNl19
+eyJoaXN0b3J5IjpbMTk1ODY1MDczMCwtNTE4NTAwODI2XX0=
 -->
