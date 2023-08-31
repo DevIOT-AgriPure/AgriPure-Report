@@ -168,15 +168,15 @@ Ciclo:
 		a. ¿Dónde se ubica su área de cultivo?
 		b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
 		c. ¿Cuánto tiempo dedica a sus actividades de cultivo o jardinería?
-		d. 
+		d. Estaria dis
 		e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
 		f. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
 		g. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
 		h. ¿Dispone de conocimiento sobre los fertilizantes, repelentes y pesticidas adecuados para cada tipo de planta?
 		i. ¿Tiene en cuenta la necesidad de podar las plantas que cultiva? ¿Con qué frecuencia considera que es necesario realizar la poda?
 		j. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
-		k. ¿Esta familiarizado con el uso de dispositivos moviles?
-				l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
+		k. ¿Esta familiarizado con el uso de dispositivos que monitorean sus cultivos?
+		l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
 		m. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
    
 	***Preguntas para Segmento 2: Especialistas***
@@ -270,5 +270,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODUyNDkwNiw1Njc2ODg5MDddfQ==
+eyJoaXN0b3J5IjpbMTk3NjI5MjI3Myw1Njc2ODg5MDddfQ==
 -->
