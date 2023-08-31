@@ -163,9 +163,9 @@ Ciclo:
 	
 edad, datos personales, sistema operativo, celular, familiarizado con redes, marcas identificadas
 
-	***Preguntas para Segmento 1: Agricultores***
+***Preguntas para Segmento 1: Agricultores***
 	
-	En relación al grupo de agricultores a los que apuntamos:
+En relación al grupo de agricultores a los que apuntamos:
 	
 		a. ¿Dónde se ubica su área de cultivo?
 		b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
@@ -181,11 +181,10 @@ edad, datos personales, sistema operativo, celular, familiarizado con redes, mar
 		l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
 		m. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
    
-	***Preguntas para Segmento 2: Especialistas***
+***Preguntas para Segmento 2: Especialistas***
 
-	Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito de la agricultura. Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.
+Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y experiencia en el ámbito de la agricultura. Agradecemos su tiempo y sus respuestas, ya que contribuirán al desarrollo de nuestro proyecto.
 	
-
 		a. ¿Cuál es su experiencia en el asesoramiento de proyectos de cultivo?
 		b. ¿Cuáles son las principales áreas de especialización de su asesoría?	
 		c. ¿Cómo evalúan las necesidades de los agricultores a los que asesoran?
@@ -284,5 +283,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzU2MjkyMV19
+eyJoaXN0b3J5IjpbMTg3NjMxNjQ2OSwtMjQzNTYyOTIxXX0=
 -->
