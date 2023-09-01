@@ -24,7 +24,7 @@ Relación de integrantes:
 
  - Diego Talledo Sanchez
  - Bruno Moisés Palomino Santa Cruz 
- - Andres Christian Reynoso 
+ - Andres Christian Reynoso (U202010196)
  - Frank Yamil Alva Cordova
 - Franchesco Alexis Soto Morales
 
@@ -276,5 +276,5 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTkxNjk5Nl19
+eyJoaXN0b3J5IjpbLTExMDY0NjI0ODldfQ==
 -->
