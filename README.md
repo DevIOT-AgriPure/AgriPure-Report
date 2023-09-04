@@ -217,7 +217,7 @@ En relación al grupo de agricultores a los que apuntamos:
 		i. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
 		j. ¿Esta familiarizado con el uso de dispositivos que monitorean sus cultivos?
 		k. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
-		l. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
+		l. ¿Estarias dispuesto a utilizar una aplicación móvil que le ayude a monitorear y obtener informacion sobre sus cultivos?
    
 ***Preguntas para Segmento 2: Especialistas***
 
