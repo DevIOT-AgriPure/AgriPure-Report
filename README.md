@@ -207,14 +207,14 @@ Presentamos 3 competidores, los cuales son:
 En relación al grupo de agricultores a los que apuntamos:
 	
 		a. ¿Dónde se ubica su área de cultivo?
-		b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
+		b. ¿Tiene conocimiento sobre el tipo de suelo en el que estan sus cultivos?
 		c. ¿Cuánto tiempo dedica a sus actividades de cultivo o jardinería?
-		d. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos?
-		e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
+		d. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos? 
+		e. ¿Cómo decide la distancia adecuada entre las plantas que siembra?
 		f. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
-		g. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
+		g. ¿Sabe cuándo es necesario utilizar fertilizantes o métodos de control de plagas en sus diferentes tipos de plantas?
 		h. ¿Tiene en cuenta la necesidad de podar las plantas que cultiva? ¿Con qué frecuencia considera que es necesario realizar la poda?
-		i. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
+		i. ¿Conoce los climas propicios para realizar sus cultivos? ¿O encuentra dificultades en esta área?
 		j. ¿Esta familiarizado con el uso de dispositivos que monitorean sus cultivos?
 		k. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
 		l. ¿Estarias dispuesto a utilizar una aplicación móvil que le ayude a monitorear y obtener informacion sobre sus cultivos?
