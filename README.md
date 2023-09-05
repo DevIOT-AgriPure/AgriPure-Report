@@ -209,15 +209,15 @@ En relación al grupo de agricultores a los que apuntamos:
 		a. ¿Dónde se ubica su área de cultivo?
 		b. ¿Tiene conocimiento acerca del tipo de suelo en el que realiza sus siembras?
 		c. ¿Cuánto tiempo dedica a sus actividades de cultivo o jardinería?
-		d. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos?
-		e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
-		f. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
-		g. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
-		h. ¿Dispone de conocimiento sobre los fertilizantes, repelentes y pesticidas adecuados para cada tipo de planta?
-		i. ¿Tiene en cuenta la necesidad de podar las plantas que cultiva? ¿Con qué frecuencia considera que es necesario realizar la poda?
-		j. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
-		k. ¿Esta familiarizado con el uso de dispositivos que monitorean sus cultivos?
-		l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
+		d. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
+		e. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
+		f. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
+		g. ¿Dispone de conocimiento sobre los fertilizantes, repelentes y pesticidas adecuados para cada tipo de planta?
+		h. ¿Tiene en cuenta la necesidad de podar las plantas que cultiva? ¿Con qué frecuencia considera que es necesario realizar la poda?
+		i. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
+		j. ¿Esta familiarizado con el uso de dispositivos que monitorean sus cultivos?
+		k. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
+		l. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos?
 		m. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
    
 ***Preguntas para Segmento 2: Especialistas***
@@ -276,5 +276,5 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIzMjI1MThdfQ==
+eyJoaXN0b3J5IjpbLTg0MDUxMTIxMl19
 -->
