@@ -239,6 +239,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 ***Segmento 1: Agricultores***
 
+***Segmento 2: Especialistas***
+
 - 2.2.3. Análisis de entrevistas.
 
 ### 2.3. Needfinding.
@@ -278,5 +280,5 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzc5NjE5LC04NDA1MTEyMTJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDc2ODcwMDcsLTg0MDUxMTIxMl19
 -->
