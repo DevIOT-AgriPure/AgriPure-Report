@@ -266,8 +266,20 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
+
+***Segmento 1: Agricultores***
+
+***Segmento 2: Especialistas***
+
 - 2.3.2. User Task Matrix.
+
+***Segmento 1: Agricultores***
+
+***Segmento 2: Especialistas***
+
 - 2.3.3. User Journey Mapping.
+
+
 - 2.3.4. Empathy Mapping.
 - 2.3.5. As-is Scenario Mapping.
 
@@ -302,5 +314,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY0NDExMjddfQ==
+eyJoaXN0b3J5IjpbLTMyNjQzODc4NSwtMTgwNjQ0MTEyN119
 -->
