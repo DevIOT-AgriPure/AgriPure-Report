@@ -133,7 +133,9 @@ Ciclo:
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
 
-Para 
+Para este segmento utilizaremos la tecnica de las 5W y 2H
+
+
 
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
@@ -288,6 +290,6 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzI5NDAwOCwtMTI0NzY4NzAwNywtOD
-QwNTExMjEyXX0=
+eyJoaXN0b3J5IjpbMjA5MzA1NDYzLC0xMjQ3Njg3MDA3LC04ND
+A1MTEyMTJdfQ==
 -->
