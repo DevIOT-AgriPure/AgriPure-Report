@@ -260,6 +260,10 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 ***Segmento 1: Agricultores***
 
+Entrevista #1:
+Enlace:
+Descripcion:
+
 ***Segmento 2: Especialistas***
 
 - 2.2.3. Análisis de entrevistas.
@@ -330,5 +334,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTU2NDFdfQ==
+eyJoaXN0b3J5IjpbNDY2MzYwNzQxLDExMzk1NjQxXX0=
 -->
