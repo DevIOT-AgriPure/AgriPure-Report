@@ -133,6 +133,8 @@ Ciclo:
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
 
+Para 
+
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
   
@@ -167,6 +169,10 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 
 Presentamos 3 competidores, los cuales son: 
 
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 |
+| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 |
 
 - 2.1.1. Análisis competitivo.
 - 2.1.2. Estrategias y tácticas frente a competidores.
@@ -282,6 +288,6 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQzNzEwMDMsLTEyNDc2ODcwMDcsLT
-g0MDUxMTIxMl19
+eyJoaXN0b3J5IjpbLTgyNzI5NDAwOCwtMTI0NzY4NzAwNywtOD
+QwNTExMjEyXX0=
 -->
