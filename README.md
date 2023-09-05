@@ -279,12 +279,28 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 - 2.3.3. User Journey Mapping.
 
+***Segmento 1: Agricultores***
 
+***Segmento 2: Especialistas***
 - 2.3.4. Empathy Mapping.
+
+***Segmento 1: Agricultores***
+
+***Segmento 2: Especialistas***
+
 - 2.3.5. As-is Scenario Mapping.
+
+***Segmento 1: Agricultores***
+
+***Segmento 2: Especialistas***
 
 ## Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping.
+
+***Segmento 1: Agricultores***
+
+***Segmento 2: Especialistas***
+
 - 3.2. User Stories.
 - 3.3. Impact Mapping.
 - 3.4. Product Backlog.
@@ -314,5 +330,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjQzODc4NSwtMTgwNjQ0MTEyN119
+eyJoaXN0b3J5IjpbMTEzOTU2NDFdfQ==
 -->
