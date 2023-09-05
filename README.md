@@ -179,6 +179,17 @@ Presentamos 3 competidores, los cuales son:
 - 2.1.1. Análisis competitivo.
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
+	- Liderazgo en costes:
+	Contamos con la capacidad de producir y ofrecer nuestro producto de forma totalmente gratuita, sin añadir ninguna limitación a sus características principales. Igualmente, en lo que respecta a las suscripciones de pago, estamos en posición de ofrecer precios que son considerablemente más bajos que los de nuestros competidores, con la clara intención de hacer de nuestra aplicación una opción sumamente atractiva para los usuarios. Nuestra principal meta es satisfacer las necesidades de aquellos clientes que basan su elección en el factor precio.
+
+	- Estrategia de diferenciación:
+		Reconocemos que, para destacar de forma sobresaliente entre nuestros competidores, es imperativo que introduzcamos funcionalidades que no se encuentren disponibles en otras aplicaciones o que mejoremos sustancialmente las ya existentes. Una de las características más destacadas en nuestra aplicación que nos diferencia es nuestra completa guía de siembra, adaptada según el tipo de árbol frutal o vegetal que se esté cultivando. De esta manera, garantizamos que la calidad y producción sean óptimas. Además, proporcionamos una exhaustiva recopilación de información que permitirá a nuestros usuarios tomar decisiones informadas sobre cómo cultivar de manera adecuada sus plantas.
+
+	- Estrategia de enfoque:
+		Somos plenamente conscientes de que el auge de la tecnología y el aumento en el uso de computadoras y smartphones han dado lugar a una creciente demanda de servicios de gestión y asesoramiento agrícola. Por lo tanto, nos dirigimos exclusivamente a todas aquellas personas involucradas o interesadas en la agricultura que requieran un software que los asista en el cultivo adecuado de árboles frutales y vegetales.
+
+	- Táctica de expansión:
+		A pesar de que nuestra aplicación opera de manera gratuita, no planeamos saturarla con anuncios en cada acción que realicen los usuarios. Nuestra estrategia de expansión se fundamenta en la obtención de valoraciones positivas por parte de los usuarios y en la promoción efectiva de la aplicación.
 ### 2.2. Entrevistas.
  - 2.2.1. Diseño de entrevistas.
 			
@@ -291,6 +302,6 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNzk0NDAxLDIwOTMwNTQ2MywtMTI0Nz
-Y4NzAwNywtODQwNTExMjEyXX0=
+eyJoaXN0b3J5IjpbLTE4MDY0NDExMjcsNjYyNzk0NDAxLDIwOT
+MwNTQ2MywtMTI0NzY4NzAwNywtODQwNTExMjEyXX0=
 -->
