@@ -166,6 +166,8 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 ### 2.1. Competidores.
 
 Presentamos 3 competidores, los cuales son: 
+
+
 - 2.1.1. Análisis competitivo.
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -280,5 +282,6 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc2ODcwMDcsLTg0MDUxMTIxMl19
+eyJoaXN0b3J5IjpbLTIxMjQzNzEwMDMsLTEyNDc2ODcwMDcsLT
+g0MDUxMTIxMl19
 -->
