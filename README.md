@@ -273,6 +273,7 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.1.1.1 Candidate Context Discovery. 
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
+https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 	- 4.1.2. Context Mapping. 
 	- 4.1.3. Software Architecture. 
 		- 4.1.3.1. Software Architecture System Landscape Diagram. 
@@ -290,6 +291,6 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzA1NDYzLC0xMjQ3Njg3MDA3LC04ND
-A1MTEyMTJdfQ==
+eyJoaXN0b3J5IjpbNjYyNzk0NDAxLDIwOTMwNTQ2MywtMTI0Nz
+Y4NzAwNywtODQwNTExMjEyXX0=
 -->
