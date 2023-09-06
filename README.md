@@ -172,7 +172,27 @@ Sin embargo, uno de los desafíos identificados es la adopción y el uso efectiv
 ¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?
 
   - 1.2.2.2. Lean UX Assumptions.
-  - 
+  
+ Business Assumptions:
+1. **Los usuarios necesitan** una herramienta que permita mejorar los procesos y tratamientos de agricultura, que a corto o largo plazo genere ganancias económicas durante cada producción.
+
+2. **Esta necesidad se puede solventar** con una aplicación móvil que indica las condiciones en las que se encuentra su siembra. Asimismo, brindar recomendaciones para cada tipo de planta, métodos de cómo tratar enfermedades, regadíos y fumigación.
+
+3. **Nuestros clientes serán** los agricultores de 18 a 80 años que desean conocer nuevos métodos para mejorar su producción agrícola, por medio de nuevas tecnologías.
+
+4. **El valor #1 que un cliente desea sobre nuestro servicio** es que todos sus terrenos y tipo de plantas (siembra) puedan trabajarse en la aplicación mostrando los resultados correctos y satisfactorios
+
+5. **Los beneficios a los que accede nuestros usuarios** es el acceso a una versión gratuita donde el máximo de terrenos que podrá registrar es de solo uno, pero el usuario puede limitar el área de este sin restricciones.
+
+6. **Atraeremos a la mayoría de los clientes a través de** la diferencia entre nuestra competencia. Aparte de mostrar todos los datos de ubicación, clima, nivel de pH, nuestro producto mostrara una guía de plantas que tiene como objetivo orientar a los agricultores para conocer los pasos correctos de siembra y el tratamiento que debe tener para el terreno en donde este sembrando.
+
+7. **Mi mayor riesgo de producto** son resultados erróneos que terminen provocando una mala recomendación de la siembra y llegue a empeorarla.
+
+8. **Resolveremos esto a través de** los _feedback_ de usuarios para lanzar constantes actualizaciones que buscan corregir y mejorar el producto en busca de satisfacer las expectativas de los usuarios.
+
+9. <![endif]>**Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
+
+ 
   - 1.2.2.3. Lean UX Hypothesis Statements.
   - 1.2.2.4. Lean UX Canvas.
   
@@ -353,5 +373,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQyMzU2MTcsLTIxMDg4MzkzMl19
+eyJoaXN0b3J5IjpbLTY5NzU0MzM5NSwtMjEwODgzOTMyXX0=
 -->
