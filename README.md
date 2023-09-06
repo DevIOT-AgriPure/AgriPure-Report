@@ -250,14 +250,13 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 ## Capítulo II: Requirements Elicitation & Analysis
 ### 2.1. Competidores.
 
-Presentamos 3 competidores, los cuales son: 
-
-| Agri | Columna 2 | Columna 3 |
-|-----------|-----------|-----------|
-| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 |
-| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 |
-
 - 2.1.1. Análisis competitivo.
+
+Desarrollaremos el Competitive Analysis Landscape:
+
+ **¿Cómo podemos ofrecer un mejor servicio en nuestro producto frente a nuestros competidores? ¿Qué debemos mejorar?**
+ - El objetivo de llevar a cabo este análisis competitivo es para conocer mejor a nuestros competidores, en que aspectos son mejores que nosotros, que funcionalidades o mejoras han implementado o implementan que nosotros no y saber en qué podemos mejorar
+
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
 	- Liderazgo en costes:
@@ -415,5 +414,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk0MTUxNTQsMTk0OTY5NzczMV19
+eyJoaXN0b3J5IjpbMTYzNzU3MjY5NCwxOTQ5Njk3NzMxXX0=
 -->
