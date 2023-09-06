@@ -284,12 +284,8 @@ Desarrollaremos el Competitive Analysis Landscape:
 
 | Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
-| Fortalezas | - Tiene un costo en el mercado mucho más accesible que el de sus competidores - Producto único diferenciador - Interfaz amigable y ágil | - Domina el mercado chileno de apps enfocados a la agricultura. - Cuenta con alto nivel de investigación y desarrollo | <![endif]-->
-
-- Cuenta con grandes logros y avances en la tecnología hacia la agricultura.
-
-- Tiene un costo en el mercado de software accesible | - Domina el mercado estadounidense de apps enfocados a la agricultura. - Tiene un costo en el mercado de software accesible |
-| Debilidades | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
+| Fortalezas | - Tiene un costo en el mercado mucho más accesible que el de sus competidores - Producto único diferenciador - Interfaz amigable y ágil | - Domina el mercado chileno de apps enfocados a la agricultura. - Cuenta con alto nivel de investigación y desarrollo | - Cuenta con grandes logros y avances en la tecnología hacia la agricultura. - Tiene un costo en el mercado de software accesible | - Domina el mercado estadounidense de apps enfocados a la agricultura. - Tiene un costo en el mercado de software accesible |
+| Debilidades | - Poco tiempo en el mercado- Poco tiempo en el desarrollo, mantenimiento y mejora de tecnologías en la agricultura | Su uso se centraliza generalmente en usuarios chilenos | - Poco desarrollo en sus modelos de marketing - Su uso se centraliza en usuarios estadounidenses y noruegos | - Pocas actualizaciones en la interfaz de usuario - Poca expansión hacia otros países |
 | Oportunidades | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 | Amenazas | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 
@@ -450,5 +446,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjI4MzM4LDExMDYwMjc4ODddfQ==
+eyJoaXN0b3J5IjpbLTE4NTMyMDQ1MDAsMTEwNjAyNzg4N119
 -->
