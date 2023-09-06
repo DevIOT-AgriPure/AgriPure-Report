@@ -138,14 +138,12 @@ Para este segmento utilizaremos la tecnica de las 5W y 2H
 | Pregunta | Descripcion |
 |-----------|-----------|
 | When | Fila 1, C2 |
-| Fila 2, C1 | Fila 2, C2 |
-| Fila 3, C1 | Fila 3, C2 |
-| Fila 4, C1 | Fila 4, C2 |
-| Fila 5, C1 | Fila 5, C2 |
-| Fila 6, C1 | Fila 6, C2 |
-| Fila 7, C1 | Fila 7, C2 |
-| Fila 8, C1 | Fila 8, C2 |
-
+| What | De acuerdo al sitio web gubernamental, se observaron marcadas disminuciones en la producción agrícola de varios productos, tales como el café (-84,9%), el ajo (-28,3%), la cebolla (-21,0%), entre otros. Este desafío tiene un impacto directo en la situación económica de las familias de los agricultores, quienes esperan una solución que les brinde la posibilidad de acceder rápidamente a asistencia para hacer frente a esta situación. |
+| Who | Fila 3, C2 |
+| Where | Fila 4, C2 |
+| Why | Fila 5, C2 |
+| How | Fila 6, C2 |
+| How Much | Fila 7, C2 |
 
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
@@ -344,5 +342,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjQ5NDg1OCw0NjYzNjA3NDFdfQ==
+eyJoaXN0b3J5IjpbLTM0NzgxOTQ5OSw0NjYzNjA3NDFdfQ==
 -->
