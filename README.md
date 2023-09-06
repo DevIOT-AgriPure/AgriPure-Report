@@ -41,7 +41,7 @@ Ciclo:
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
 | 1.1 | 24/08/2023 | Andres Christian Reynoso | Se ha completado la estructura del archivo, asi mismo, se han agregado las preguntas para la entrevista, al igual que se inicio con el proceso de EventStorming |
 | 1.2 | 31/08/2023 | Andres Christian Reynoso | Se desarrollaron las preguntas para las entrevistas, de igual manera se esta finalizando el proceso de Eventstorming |
-| 1 |  |  |  |
+| 1.3 | 06/09/2023 | Andres Christian Reynoso |  |
 
 ## Project Report Collaboration Insights
 
@@ -135,6 +135,16 @@ Ciclo:
 
 Para este segmento utilizaremos la tecnica de las 5W y 2H
 
+| Pregunta | Descripcion |
+|-----------|-----------|
+| When | Fila 1, C2 |
+| Fila 2, C1 | Fila 2, C2 |
+| Fila 3, C1 | Fila 3, C2 |
+| Fila 4, C1 | Fila 4, C2 |
+| Fila 5, C1 | Fila 5, C2 |
+| Fila 6, C1 | Fila 6, C2 |
+| Fila 7, C1 | Fila 7, C2 |
+| Fila 8, C1 | Fila 8, C2 |
 
 
 - 1.2.2 Lean UX Process.
@@ -334,5 +344,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjU3MjIzNCw0NjYzNjA3NDFdfQ==
+eyJoaXN0b3J5IjpbLTgzNjQ5NDg1OCw0NjYzNjA3NDFdfQ==
 -->
