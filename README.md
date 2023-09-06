@@ -137,7 +137,7 @@ Para este segmento utilizaremos la tecnica de las 5W y 2H
 
 | Pregunta | Descripcion |
 |-----------|-----------|
-| When | Fila 1, C2 |
+| When | La situación se presenta cuando alguien carece de la capacitación adecuada para llevar a cabo un cultivo apropiado de las plantas que se van a sembrar, lo que resulta en un impacto negativo en la producción de productos agrícolas. Como consecuencia de la baja calidad de los productos y la escasa cantidad producida, se experimenta una reducida rentabilidad económica. |
 | What | De acuerdo al sitio web gubernamental, se observaron marcadas disminuciones en la producción agrícola de varios productos, tales como el café (-84,9%), el ajo (-28,3%), la cebolla (-21,0%), entre otros. Este desafío tiene un impacto directo en la situación económica de las familias de los agricultores, quienes esperan una solución que les brinde la posibilidad de acceder rápidamente a asistencia para hacer frente a esta situación. |
 | Who | Fila 3, C2 |
 | Where | Fila 4, C2 |
@@ -342,5 +342,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzgxOTQ5OSw0NjYzNjA3NDFdfQ==
+eyJoaXN0b3J5IjpbMTEyNTA3ODQ3Nyw0NjYzNjA3NDFdfQ==
 -->
