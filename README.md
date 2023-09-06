@@ -450,7 +450,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Epic ID | Titulo de Epica | Descripcion de Epica |
 |-----------|-----------|-----------|
-| EP001 | Fila 1, C2 | Fila 1, C3 |
+| EP001 | Definición de funcionalidades de la aplicación móvil | Fila 1, C3 |
 | EP002 | Fila 2, C2 | Fila 2, C3 |
 | EP003 | Fila 3, C2 | Fila 3, C3 |
 | EP004 | Fila 4, C2 | Fila 4, C3 |
@@ -483,5 +483,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyOTU5NTI5XX0=
+eyJoaXN0b3J5IjpbNTkzNTE1NDk5LDM1Mjk1OTUyOV19
 -->
