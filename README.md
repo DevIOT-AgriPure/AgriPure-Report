@@ -405,6 +405,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 - 2.3.4. Empathy Mapping.
 
 ***Segmento 1: Agricultores***
+![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
 
 ***Segmento 2: Especialistas***
 
@@ -450,5 +451,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTgxOTk1M119
+eyJoaXN0b3J5IjpbMTU3MjI0ODgxN119
 -->
