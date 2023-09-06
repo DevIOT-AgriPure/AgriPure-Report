@@ -284,10 +284,14 @@ Desarrollaremos el Competitive Analysis Landscape:
 
 | Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
-| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
-| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
-| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
-| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
+| Fortalezas | - Tiene un costo en el mercado mucho más accesible que el de sus competidores - Producto único diferenciador - Interfaz amigable y ágil | - Domina el mercado chileno de apps enfocados a la agricultura. - Cuenta con alto nivel de investigación y desarrollo | <![endif]-->
+
+- Cuenta con grandes logros y avances en la tecnología hacia la agricultura.
+
+- Tiene un costo en el mercado de software accesible | - Domina el mercado estadounidense de apps enfocados a la agricultura. - Tiene un costo en el mercado de software accesible |
+| Debilidades | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
+| Oportunidades | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
+| Amenazas | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -446,5 +450,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjAyNzg4N119
+eyJoaXN0b3J5IjpbMTk4NjI4MzM4LDExMDYwMjc4ODddfQ==
 -->
