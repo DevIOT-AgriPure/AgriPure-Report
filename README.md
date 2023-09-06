@@ -562,11 +562,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 	- **Bounded Context 6: Identity Access**
 ![Bounded Context 6](https://media.discordapp.net/attachments/912089666939916348/1149126633467428904/Bounded_Context_Canvas_by_Nick_Tune.jpg?width=1326&height=669)
 	- **Bounded Context 7: Profile Management**
-![Bounded Context 7](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
-	- **Bounded Context 8:**
-![Bounded Context 8](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
-	- **Bounded Context 9:**
-![Bounded Context 9](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
+![Bounded Context 7](https://media.discordapp.net/attachments/912089666939916348/1149126633735848047/Bounded_Context_Canvas_by_Nick_Tune_1.jpg?width=1310&height=669)
+	- **Bounded Context 8: Suscription and Payment**
+![Bounded Context 8](https://media.discordapp.net/attachments/912089666939916348/1149126634570514513/Bounded_Context_Canvas_by_Nick_Tune_4.jpg?width=1353&height=669)
+	- **Bounded Context 9: IOT Asset Management**
+![Bounded Context 9](https://media.discordapp.net/attachments/912089666939916348/1149126634834771978/Bounded_Context_Canvas_by_Nick_Tune_5.jpg?width=1338&height=669)
 
 
 - 4.1.2. Context Mapping. 
@@ -673,5 +673,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjkxNTgsMjA3MDk0NTcwMV19
+eyJoaXN0b3J5IjpbLTc3MDM2MTY5Ml19
 -->
