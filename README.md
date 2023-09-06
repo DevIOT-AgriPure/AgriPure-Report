@@ -124,7 +124,7 @@ Ciclo:
 
 | Nombre| Descripción| 
 |-----------|-----------|
-|Andres Christian Reynoso  | |
+|Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios. |
 |Bruno Moisés Palomino Santa Cruz|  |
 |Diego Talledo Sanchez|  |
 |Franchesco Alexis Soto Morales|  |
@@ -451,5 +451,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjI0ODgxN119
+eyJoaXN0b3J5IjpbODAyMzYxNjA0XX0=
 -->
