@@ -540,12 +540,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Domain-Driven Design. 
-	- 4.1.1. EventStorming. 
-			Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBOamljTkwxbmdUMmVZSFM3RGRUMFkzek5SSTJkd3wzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=426406113622		
+	- 4.1.1. EventStorming. 	
 			- 4.1.1.1 Candidate Context Discovery. 
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
-https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436	
 			- 4.1.1.1 Candidate Context Discovery. 
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
@@ -555,7 +553,9 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 		- 4.1.3.2. Software Architecture Context Level Diagrams. 
 		- 4.1.3.2. Software Architecture Container Level Diagrams.
 		- 4.1.3.3. Software Architecture Deployment Diagrams. 
-- 4.2. Tactical-Level Domain-Driven Design 
+
+- 4.2. Tactical-Level Domain-Driven Design
+El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura. 
 	- 4.2.1. Bounded Context: 
 		- 4.2.1.1. Domain Layer. 
 		- 4.2.1.2. Interface Layer. 
@@ -651,5 +651,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUyNzc2MDQsMjA3MDk0NTcwMV19
+eyJoaXN0b3J5IjpbMTYwNzEwOTE1OCwyMDcwOTQ1NzAxXX0=
 -->
