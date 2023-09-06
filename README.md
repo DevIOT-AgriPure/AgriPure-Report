@@ -261,7 +261,7 @@ Desarrollaremos el Competitive Analysis Landscape:
 
 | Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
-| Origen | <![endif]--> **Lima, Lima, Perú** | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
+| Origen | Lima, Lima, Perú | Santiago de Chile | San Francisco, California, EEUU | Aventura, Florida, EEUU |
 | Descripcion General | Agri Pure  es  una _Startup_ que desarrolla los mecanismos necesarios para brindar el servicio de gestión y guía de procesos agrícolas. Su servicio principal es utilizar potentes algoritmos de optimización enfocados en los tiempos de respuesta y la geolocalización, para informar acerca de los estados de vegetación de los terrenos agrícolas. Asimismo, de brindar guía de como cultivar correctamente una planta para mejorar la producción de este. | Agri, es una Startup chilena con presencia en Perú y Ecuador que se dedica a proporcionar software de reportes para el sector agrícola, enfocado más en las finanzas de una empresa. Sin embargo, también proporciona compras, bodegaje, tesorería y control de cosecha. | FarmLogs, es una Startup Estadounidense de tecnología de la información y gestión agrícola, que proporciona servicios basados las pérdidas y ganancias, gestión de operación con informes sobre actividades y notificaciones por correo. | Strider es una Startup estadounidense de tecnología de la información y sistemas agrícolas, que proporciona servicios basados en el monitoreo de plagas y detección de áreas críticas con imágenes espaciales. Además, de un seguimiento de máquinas. |
 | Ventaja competitiva ¿Qué valor ofrece a los clientes? | AgriPure ofrece a sus usuarios una solución integral en el acompañamiento y gestión agrícola. Contando con herramientas que ayudan al agricultor como buscador de terreno, control de riego, cultivo, poda y pronostico del tiempo. | Agri ofrece a sus usuarios simplificar la gestión financiera agrícolas de sus usuarios. Asimismo, Agri cuenta con 5 años de experiencia en el desarrollo y mejora de este software. | FarmLogs, ofrece a sus usuarios tecnología inteligente un sistema único de gestión de agrícola. Asimismo, FarmLogs cuenta con más de 10 años de experiencia en el desarrollo y mejora en el software. | Strider, ofrece a sus usuarios soluciones integrales de agricultura adaptadas a cualquier tipo de entorno y organización. Asimismo, Strider cuenta con más de 5 años de experiencia en el desarrollo de sistemas integrales de monitoreo de alarmas. Lo que agrega gran valor a las funcionalidades de su producto. |
 
@@ -423,6 +423,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODYwNDE5OCwtMTQwODM5NjkxLDIxMD
-c4Njg5MjIsMTYzNzU3MjY5NCwxOTQ5Njk3NzMxXX0=
+eyJoaXN0b3J5IjpbNDAwOTIwNTQ0XX0=
 -->
