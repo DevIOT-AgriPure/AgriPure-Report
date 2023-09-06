@@ -287,7 +287,7 @@ Desarrollaremos el Competitive Analysis Landscape:
 | Fortalezas | - Tiene un costo en el mercado mucho más accesible que el de sus competidores - Producto único diferenciador - Interfaz amigable y ágil | - Domina el mercado chileno de apps enfocados a la agricultura. - Cuenta con alto nivel de investigación y desarrollo | - Cuenta con grandes logros y avances en la tecnología hacia la agricultura. - Tiene un costo en el mercado de software accesible | - Domina el mercado estadounidense de apps enfocados a la agricultura. - Tiene un costo en el mercado de software accesible |
 | Debilidades | - Poco tiempo en el mercado - Poco tiempo en el desarrollo, mantenimiento y mejora de tecnologías en la agricultura | Su uso se centraliza generalmente en usuarios chilenos | - Poco desarrollo en sus modelos de marketing - Su uso se centraliza en usuarios estadounidenses y noruegos | - Pocas actualizaciones en la interfaz de usuario - Poca expansión hacia otros países |
 | Oportunidades | - Pocos competidores en la industria - Creación de experiencias más innovadoras y de diferentes categorías en el apartado de la agricultura | Constantes actualizaciones en su sistema para mejorar y corregir funcionalidades en su sistema | -Integración de su software para diferentes dispositivos móviles - Expansión a mercados emergentes | - Buenas relaciones con nuevos socios e inversionistas - Implementación del software en nuevos proyectos de agricultura |
-| Amenazas | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
+| Amenazas | -Competidores más solidos - Malas reseñas por parte de los usuarios - Ciberdelito o bugs en el sistema | - Nuevos competidores - Asuntos legales acerca de los términos y condiciones de la app en algunos países | - Aislamiento en América - Disminución de las inversiones en su app | - Fallas en los sistemas de monitoreo por imágenes espaciales - Malas reseñas por parte de los usuarios |
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -446,6 +446,6 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTU1NDAzOCw0NTUwMDMwMDIsMTEwNj
-AyNzg4N119
+eyJoaXN0b3J5IjpbLTE1NzMwNzkyMDYsMTA2NTU1NDAzOCw0NT
+UwMDMwMDIsMTEwNjAyNzg4N119
 -->
