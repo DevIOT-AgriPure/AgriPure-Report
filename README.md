@@ -219,6 +219,8 @@ Las características más relevantes de la aplicación será el hecho de poder b
 Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
 
   - 1.2.2.3. Lean UX Hypothesis Statements.
+ 
+ 
   - 1.2.2.4. Lean UX Canvas.
   
   
@@ -398,5 +400,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjI0NTIyN119
+eyJoaXN0b3J5IjpbMTE0ODQ2NTEwOSwtNjMyMjQ1MjI3XX0=
 -->
