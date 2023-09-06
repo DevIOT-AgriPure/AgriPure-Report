@@ -382,6 +382,8 @@ Entrevista #1: Alejandro Rojas
 
 - 2.2.3. Análisis de entrevistas.
 
+En resumen, las entrevistas muestran que los agricultores entrevistados valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
+
 ### 2.3. Needfinding.
 - 2.3.1. User Personas.
 
@@ -448,5 +450,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjU0OTMwNl19
+eyJoaXN0b3J5IjpbMTkyOTgxOTk1M119
 -->
