@@ -374,8 +374,8 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 Entrevista #1: Alejandro Rojas
 
 ![Entrevista 1](https://media.discordapp.net/attachments/912089666939916348/1149060093338452008/image.png?width=866&height=415)
-- Duracion:
-- Enlace:
+- Duracion: 10 minutos con 59 segundos
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/EVKPqn5GvHxEi0I50aI7zN0BPDyPcVPINcKEnkYodNrqpw?e=yZaMfK
 - Descripcion: Alejandro es un estudiante universitario que posee una residencia en Chosica. En ese lugar, junto con su familia, se dedica a la agricultura los fines de semana, cultivando diversas plantas y cultivos. Además, en su hogar en Lima, cultiva plantas pequeñas como el romero. Explica que utiliza tierras ricas en nutrientes para el cultivo, empleando composta, que se compone de residuos, para favorecer el crecimiento de las plantas. Alejandro se dedica a podar las plantas semanalmente para evitar que crezcan en exceso. También menciona que la temporada óptima para el cultivo de plantas suele ser durante la primavera y el verano, aunque no está completamente seguro de ello. Por último, muestra interés en una aplicación que le permita visualizar el estado de la vegetación en sus terrenos y que disponga de tecnologias IOT, aunque señala que en Chosica solo puede acceder a datos móviles, ya que la señal Wi-Fi es muy débil en esa zona.
 
 ***Segmento 2: Especialistas***
@@ -448,5 +448,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzI4MzI4OV19
+eyJoaXN0b3J5IjpbMTE4NjU0OTMwNl19
 -->
