@@ -374,8 +374,9 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 Entrevista #1: Alejandro Rojas
 
 ![Entrevista 1](https://media.discordapp.net/attachments/912089666939916348/1149060093338452008/image.png?width=866&height=415)
-Enlace:
-Descripcion:
+- Duracion:
+- Enlace:
+- Descripcion:
 
 ***Segmento 2: Especialistas***
 
@@ -447,5 +448,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwODc0MTcxLC01MTk4MDg3MjJdfQ==
+eyJoaXN0b3J5IjpbMTY5MTc2MTgxN119
 -->
