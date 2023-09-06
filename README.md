@@ -258,6 +258,12 @@ Desarrollaremos el Competitive Analysis Landscape:
  - El objetivo de llevar a cabo este análisis competitivo es para conocer mejor a nuestros competidores, en que aspectos son mejores que nosotros, que funcionalidades o mejoras han implementado o implementan que nosotros no y saber en qué podemos mejorar
 
 
+| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 |
+|-----------|-----------|-----------|-----------|-----------|
+| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
+| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
+| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
+
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
@@ -416,6 +422,6 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzg2ODkyMiwxNjM3NTcyNjk0LDE5ND
-k2OTc3MzFdfQ==
+eyJoaXN0b3J5IjpbLTE0MDgzOTY5MSwyMTA3ODY4OTIyLDE2Mz
+c1NzI2OTQsMTk0OTY5NzczMV19
 -->
