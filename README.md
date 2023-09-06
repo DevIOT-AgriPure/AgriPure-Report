@@ -237,8 +237,7 @@ HYPOTHESIS 7: Creemos que la implementación de un programa de educación y capa
 HYPOTHESIS 8: Creemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Sabemos que tendremos éxito mediante la evaluación de las puntuaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
  
   - 1.2.2.4. Lean UX Canvas.
-  
-  ![Universidad Aplicada de Ciencias Aplicadas](https://media.discordapp.net/attachments/912089666939916348/1149058282690990100/Flowchart.jpg?width=1332&height=669)
+  ![Lean UX Canvas](https://media.discordapp.net/attachments/912089666939916348/1149059139457261700/Flowchart_1.jpg?width=1328&height=669)
 
 ### 1.3. Segmentos objetivo.
 
@@ -446,6 +445,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODcwMDA1MTAsLTE1NzMwNzkyMDZdfQ
-==
+eyJoaXN0b3J5IjpbLTcyMjA5ODc0NV19
 -->
