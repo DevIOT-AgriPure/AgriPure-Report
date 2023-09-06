@@ -571,7 +571,7 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 		- 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.2.6.2. Bounded Context Database Design Diagram.
-	- 4.2.3. Bounded Context: 
+	- 4.2.3. Bounded Context: Crop Management
 		- 4.2.3.1. Domain Layer. 
 		- 4.2.3.2. Interface Layer. 
 		- 4.2.3.3. Application Layer. 
@@ -580,7 +580,7 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 		- 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.3.6.2. Bounded Context Database Design Diagram.
-	- 4.2.4. Bounded Context: 
+	- 4.2.4. Bounded Context: Knowledge Management
 		- 4.2.4.1. Domain Layer. 
 		- 4.2.4.2. Interface Layer. 
 		- 4.2.4.3. Application Layer. 
@@ -635,5 +635,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.9.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.9.6.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDkxODQwMF19
+eyJoaXN0b3J5IjpbLTY4NTMwMTEyOCwtMzY0OTE4NDAwXX0=
 -->
