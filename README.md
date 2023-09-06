@@ -141,9 +141,9 @@ Para este segmento utilizaremos la tecnica de las 5W y 2H
 | What | De acuerdo al sitio web gubernamental, se observaron marcadas disminuciones en la producción agrícola de varios productos, tales como el café (-84,9%), el ajo (-28,3%), la cebolla (-21,0%), entre otros. Este desafío tiene un impacto directo en la situación económica de las familias de los agricultores, quienes esperan una solución que les brinde la posibilidad de acceder rápidamente a asistencia para hacer frente a esta situación. |
 | Who | Personas que se dediquen a la agricultura y no sepan cómo cultivar plantas frutales o vegetales. |
 | Where | El problema puede ocurrir en cualquier lugar donde se dediquen al cultivo agrícola. |
-| Why | Fila 5, C2 |
-| How | Fila 6, C2 |
-| How Much | Fila 7, C2 |
+| Why | La producción de las plantas se ve perjudicada debido a la carencia de conocimientos técnicos, además de situaciones en las que no se aplican los fertilizantes en los momentos adecuados. |
+| How | Mediante las diversas utilidades disponibles en nuestra aplicación, como la medición del pH del suelo, la selección del fertilizante adecuado y la gestión del tiempo de aplicación, así como la visualización de la vegetación en el terreno. |
+| How Much | Este desafío suele surgir en aproximadamente un 60% de las ocasiones en las que el agricultor carece de conocimientos técnicos sobre cómo cultivar una planta específica. Por esta razón, nuestra aplicación incluirá herramientas de apoyo que le asistirán en tomar decisiones más acertadas al seleccionar el lugar adecuado para sembrar el producto. |
 
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
@@ -342,5 +342,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkxNzI5NCw0NjYzNjA3NDFdfQ==
+eyJoaXN0b3J5IjpbODk2NTY2NDcxLDQ2NjM2MDc0MV19
 -->
