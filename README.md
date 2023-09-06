@@ -271,7 +271,6 @@ Desarrollaremos el Competitive Analysis Landscape:
 |-----------|-----------|-----------|-----------|-----------|
 | Mercado Objetivo | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
 | Estrategias de Marketing | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
-| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 
 **Perfil del Producto**
 
@@ -287,6 +286,7 @@ Desarrollaremos el Competitive Analysis Landscape:
 |-----------|-----------|-----------|-----------|-----------|
 | Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
 | Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
+| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 | Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 
 - 2.1.2. Estrategias y tácticas frente a competidores.
@@ -446,5 +446,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5Mjc5NTIsNDAwOTIwNTQ0XX0=
+eyJoaXN0b3J5IjpbMTk3ODc0NDg0OCw0MDA5MjA1NDRdfQ==
 -->
