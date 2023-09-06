@@ -206,11 +206,11 @@ En el día a día del trabajo de los agricultores, personas interesadas en produ
 
 Esto resuelve la falta de conocimiento con respecto a la cultivación de plantas desconocidas o corregir los procesos que tienen durante la siembra. La App móvil, tienda a dar tips de producción, abono, selección de semillas y fertilizantes que se puede usar durante el periodo de crecimiento.
 
-*4.** <![endif]>**¿Cuándo y cómo es usado nuestro producto?**
+4. **¿Cuándo y cómo es usado nuestro producto?**
 
 Es usado cuando los agrícolas, generalmente los principiantes, tienen alguna duda con respecto a las condiciones a las que debe ser plantada las plantas, ya sea en una altitud especifica, nivel de pH adecuado y/o la distribución en el terreno.
 
-<![if !supportLists]>**5.** <![endif]>**¿Qué características son relevantes?**
+5. **¿Qué características son relevantes?**
 
 Las características más relevantes de la aplicación será el hecho de poder brindar información útil o guía para conocer cómo se deben cultivar las plantas, con relación al terreno, clima y temporada que se especificara en cada campo para un correcto funcionamiento.
 
@@ -398,5 +398,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMjA5NDE4LC0yMTA4ODM5MzJdfQ==
+eyJoaXN0b3J5IjpbLTYzMjI0NTIyN119
 -->
