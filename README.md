@@ -413,11 +413,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ***Segmento 1: Agricultores***
 
-| Steps | Busca informacion sobre agricultura | Encuentra mucha informacion esparcida por internet |  |  | 
+| Steps | Busca informacion sobre agricultura | Encuentra mucha informacion esparcida por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing |  |  |  | 
+| Doing |  | La informacion esta desordenada | Prueba lo que leyo en internet | Experimenta con sus cultivos
 | Thinking |  |  |  |  | 
-| Feeling |  |  |  |  |  
+| Feeling | Dudoso | Frustrado | Inseguro | Ansioso |  
 
 ***Segmento 2: Especialistas***
 
@@ -475,5 +475,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTY3MzE3Myw4NTE3ODUyNDhdfQ==
+eyJoaXN0b3J5IjpbLTE1NjQzMDg0ODAsODUxNzg1MjQ4XX0=
 -->
