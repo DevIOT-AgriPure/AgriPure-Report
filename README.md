@@ -192,7 +192,32 @@ Sin embargo, uno de los desafíos identificados es la adopción y el uso efectiv
 
 9. **Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
 
+ User Assumptions
  
+1. **¿Quién es el usuario?**
+
+Agricultores y personas amantes de las plantas al borde de 18 a 80 años buscando mejorar su producción agrícola.
+
+2. **¿Dónde encaja nuestro producto en el día a día?**
+
+En el día a día del trabajo de los agricultores, personas interesadas en producción, nuestra aplicación trabaja como una herramienta eficaz para la producción agrícola, brindándoles alternativas de abono, fumigación y tips de siembra.
+
+3. **¿Qué problemas resuelve nuestro producto?**
+
+Esto resuelve la falta de conocimiento con respecto a la cultivación de plantas desconocidas o corregir los procesos que tienen durante la siembra. La App móvil, tienda a dar tips de producción, abono, selección de semillas y fertilizantes que se puede usar durante el periodo de crecimiento.
+
+*4.** <![endif]>**¿Cuándo y cómo es usado nuestro producto?**
+
+Es usado cuando los agrícolas, generalmente los principiantes, tienen alguna duda con respecto a las condiciones a las que debe ser plantada las plantas, ya sea en una altitud especifica, nivel de pH adecuado y/o la distribución en el terreno.
+
+<![if !supportLists]>**5.** <![endif]>**¿Qué características son relevantes?**
+
+Las características más relevantes de la aplicación será el hecho de poder brindar información útil o guía para conocer cómo se deben cultivar las plantas, con relación al terreno, clima y temporada que se especificara en cada campo para un correcto funcionamiento.
+
+6.  **¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
+
   - 1.2.2.3. Lean UX Hypothesis Statements.
   - 1.2.2.4. Lean UX Canvas.
   
@@ -373,5 +398,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjAwMDgzOCwtMjEwODgzOTMyXX0=
+eyJoaXN0b3J5IjpbMzAwMjA5NDE4LC0yMTA4ODM5MzJdfQ==
 -->
