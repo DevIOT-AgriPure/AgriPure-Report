@@ -270,33 +270,7 @@ Desarrollaremos el Competitive Analysis Landscape:
 | Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
 | Mercado Objetivo | Dirigido a cualquier persona que se dedican o quieran dedicarse a la agricultura. | Dirigido a las empresas agrícolas y enfocado para dueños de micro y pequeñas empresas agrícolas | Dirigido a las empresas agrícolas | Dirigido a las empresas agrícolas |
-| Estrategias de Marketing | <![endif]-->
-
-- Social Ads
-
-- Email marketing
-
-- Marketing de redes sociales
-
-- Marketing de contenidos | <![endif]-->
-
-- Estrategia de up-selling
-
-- Marketing de contenidos
-
-- Email marketing
-
-- Marketing de redes sociales
-
-- SEO | <![endif]-->
-
-- Storytelling
-
-- Marketing de contenidos
-
-- Email marketing
-
-- SEM | Fila 2, C5 |
+| Estrategias de Marketing | - Social Ads - Email marketing - Marketing de redes sociales - Marketing de contenidos | - Estrategia de up-selling - Marketing de contenidos - Email marketing - Marketing de redes sociales - SEO | - Storytelling - Marketing de contenidos - Email marketing - SEM | - Marketing de contenidos - Marketing de redes sociales - Social Ads |
 
 **Perfil del Producto**
 
@@ -472,6 +446,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjIzNTc3LDE5Nzg3NDQ4NDgsNDAwOT
-IwNTQ0XX0=
+eyJoaXN0b3J5IjpbLTUxMDI4NzgwMl19
 -->
