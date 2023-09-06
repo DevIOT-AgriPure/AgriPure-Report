@@ -545,7 +545,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- 4.1.1.1 Candidate Context Discovery. 
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
-https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
+https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436	
+			- 4.1.1.1 Candidate Context Discovery. 
+		- 4.1.1.2 Domain Message Flows Modeling. 
+		- 4.1.1.3 Bounded Context Canvases. 
 	- 4.1.2. Context Mapping. 
 	- 4.1.3. Software Architecture. 
 		- 4.1.3.1. Software Architecture System Landscape Diagram. 
@@ -640,6 +643,13 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 		- 4.2.9.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.9.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.9.6.2. Bounded Context Database Design Diagram.
+
+
+Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBOamljTkwxbmdUMmVZSFM3RGRUMFkzek5SSTJkd3wzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=426406113622	
+
+
+Bounded Context Canvases:
+https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDk0NTcwMV19
+eyJoaXN0b3J5IjpbLTE3NTUyNzc2MDQsMjA3MDk0NTcwMV19
 -->
