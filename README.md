@@ -172,6 +172,7 @@ Sin embargo, uno de los desafíos identificados es la adopción y el uso efectiv
 ¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?
 
   - 1.2.2.2. Lean UX Assumptions.
+  - 
   - 1.2.2.3. Lean UX Hypothesis Statements.
   - 1.2.2.4. Lean UX Canvas.
   
@@ -352,5 +353,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg4MzkzMl19
+eyJoaXN0b3J5IjpbLTEyNTQyMzU2MTcsLTIxMDg4MzkzMl19
 -->
