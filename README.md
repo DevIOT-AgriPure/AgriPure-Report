@@ -456,6 +456,13 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | EP004 | Definición de requisitos no funcionales | Como usuario deseo que la aplicación móvil cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
 
 - 3.3. Impact Mapping.
+
+
+***Segmento 1: Agricultores***
+
+***Segmento 2: Especialistas***
+
+
 - 3.4. Product Backlog.
 
 ## Capítulo IV: Solution Software Design 
@@ -483,5 +490,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTcwMjE0NzldfQ==
+eyJoaXN0b3J5IjpbMzQ4NDY0MDUwXX0=
 -->
