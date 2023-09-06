@@ -276,9 +276,9 @@ Desarrollaremos el Competitive Analysis Landscape:
 
 | Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
-| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
-| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
-| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
+| Caracteristicas y servicios | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
+| Precios y costos | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
+| Canales de distribucion (Web y/o movil) | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 
 **Analisis SWOT**
 
@@ -446,5 +446,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDI4NzgwMl19
+eyJoaXN0b3J5IjpbLTExMDI0MjE0MjQsLTUxMDI4NzgwMl19
 -->
