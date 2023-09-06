@@ -238,7 +238,7 @@ HYPOTHESIS 8: Creemos que al proporcionar información en tiempo real sobre las 
  
   - 1.2.2.4. Lean UX Canvas.
   
-  
+  ![Universidad Aplicada de Ciencias Aplicadas](https://media.discordapp.net/attachments/912089666939916348/1149058282690990100/Flowchart.jpg?width=1332&height=669)
 
 ### 1.3. Segmentos objetivo.
 
@@ -446,5 +446,6 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzMwNzkyMDZdfQ==
+eyJoaXN0b3J5IjpbLTEzODcwMDA1MTAsLTE1NzMwNzkyMDZdfQ
+==
 -->
