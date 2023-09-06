@@ -446,6 +446,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzMwNzkyMDYsMTA2NTU1NDAzOCw0NT
-UwMDMwMDIsMTEwNjAyNzg4N119
+eyJoaXN0b3J5IjpbLTE1NzMwNzkyMDZdfQ==
 -->
