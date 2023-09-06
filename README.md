@@ -148,18 +148,22 @@ Para este segmento utilizaremos la tecnica de las 5W y 2H
 - 1.2.2 Lean UX Process.
   - 1.2.2.1. Lean UX Problem Statements.
   
-  **Problem Statement 1:**
-  En nuestro contexto, se hace necesario el acceso a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola. Gracias a la información proporcionada por el usuario, es posible mostrar las condiciones a las que están expuestas sus cosechas y, además, suministrar las indicaciones esenciales para llevar a cabo los procesos de cultivo adecuados para cada especie de planta.
+**Problem Statement 1:**  
+ La sostenibilidad y la seguridad alimentaria son preocupaciones globales crecientes en la agricultura. La agricultura sostenible implica prácticas que conserven los recursos naturales y reduzcan al mínimo el impacto ambiental, mientras que la seguridad alimentaria implica la producción de alimentos seguros y nutritivos en cantidades adecuadas para la población.
 
-	Hemos encontrado un factor crítico que tiene un impacto significativo en los resultados finales generados por el sistema. Este factor radica en la introducción de datos inexactos o que no se ajustan a los valores correctos relativos al terreno, el clima y la siembra.
+Un desafío crítico radica en la falta de acceso de los agricultores a información actualizada y estrategias para adoptar prácticas agrícolas sostenibles y garantizar la seguridad alimentaria. Esto puede dar lugar a prácticas insostenibles y a una menor calidad de los alimentos producidos.
 
-	¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
+¿Cómo podemos empoderar a los agricultores con conocimientos y herramientas que promuevan la agricultura sostenible y mejoren la seguridad alimentaria en nuestras comunidades agrícolas?
 
   **Problem Statement 2:**
-  En nuestro contexto,
+  En nuestro contexto, se hace necesario el acceso a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola. Gracias a la información proporcionada por el usuario, es posible mostrar las condiciones a las que están expuestas sus cosechas y, además, suministrar las indicaciones esenciales para llevar a cabo los procesos de cultivo adecuados para cada especie de planta.
 
-	Hemos encontrado
-	
+Hemos encontrado un factor crítico que tiene un impacto significativo en los resultados finales generados por el sistema. Este factor radica en la introducción de datos inexactos o que no se ajustan a los valores correctos relativos al terreno, el clima y la siembra.
+
+¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
+
+  **Problem Statement 2:**
+
 
   - 1.2.2.2. Lean UX Assumptions.
   - 1.2.2.3. Lean UX Hypothesis Statements.
@@ -342,5 +346,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NTY2NDcxXX0=
+eyJoaXN0b3J5IjpbLTE5NTg1MjUyMzksODk2NTY2NDcxXX0=
 -->
