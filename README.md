@@ -450,10 +450,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Epic ID | Titulo de Epica | Descripcion de Epica |
 |-----------|-----------|-----------|
-| EP001 | Definición de funcionalidades de la aplicación móvil | Fila 1, C3 |
-| EP002 | Fila 2, C2 | Fila 2, C3 |
-| EP003 | Fila 3, C2 | Fila 3, C3 |
-| EP004 | Fila 4, C2 | Fila 4, C3 |
+| EP001 | Definición de funcionalidades de la aplicación móvil | Como usuario deseo que la aplicación posea características funcionales variadas para que me sirva de ayuda al momento de la siembra y cosecha |
+| EP002 | Opciones relacionadas a la cuenta del usuario | Fila 2, C3 |
+| EP003 | Definición de estructura del landing page | Fila 3, C3 |
+| EP004 | Definición de requisitos no funcionales | Fila 4, C3 |
 
 - 3.3. Impact Mapping.
 - 3.4. Product Backlog.
@@ -483,5 +483,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNTE1NDk5LDM1Mjk1OTUyOV19
+eyJoaXN0b3J5IjpbLTkwMzA2ODQ1MSwzNTI5NTk1MjldfQ==
 -->
