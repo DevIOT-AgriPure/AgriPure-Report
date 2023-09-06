@@ -574,7 +574,7 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			
 	- 4.2.3. Bounded Context: Crop Management
 
-	El Bounded Context de Crop Management es un area que se enfoca 
+	El Bounded Context de Crop Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
 		- 4.2.3.1. Domain Layer. 
 		- 4.2.3.2. Interface Layer. 
 		- 4.2.3.3. Application Layer. 
@@ -583,7 +583,10 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 		- 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.3.6.2. Bounded Context Database Design Diagram.
+
 	- 4.2.4. Bounded Context: Knowledge Management
+
+	El Bounded Context de Knowledge Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
 		- 4.2.4.1. Domain Layer. 
 		- 4.2.4.2. Interface Layer. 
 		- 4.2.4.3. Application Layer. 
@@ -638,5 +641,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.9.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.9.6.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Nzg2NTYxNiwtMzY0OTE4NDAwXX0=
+eyJoaXN0b3J5IjpbLTEyNzQ0MDE0OTQsLTM2NDkxODQwMF19
 -->
