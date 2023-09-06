@@ -551,17 +551,17 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 	- **Bounded Context 1: Notification Management**
 	![Bounded Context 1](https://media.discordapp.net/attachments/912089666939916348/1149126632427241482/Bounded_Context_Canvas_by_Nick_Tune_6.jpg?width=1351&height=668)
-	- **Bounded Context 2:**
-	![Bounded Context 2](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
+	- **Bounded Context 2: Project Management**
+	![Bounded Context 2](https://media.discordapp.net/attachments/912089666939916348/1149126632745992222/Bounded_Context_Canvas_by_Nick_Tune_7.jpg?width=1301&height=668)
 	- **Bounded Context 3: Crop Management**
 	![Bounded Context 3](https://media.discordapp.net/attachments/912089666939916348/1149126634281123951/Bounded_Context_Canvas_by_Nick_Tune_3.jpg?width=1371&height=669)
 	- **Bounded Context 4: Knowledge Management**
 	![Bounded Context 4](https://media.discordapp.net/attachments/912089666939916348/1149126634012692480/Bounded_Context_Canvas_by_Nick_Tune_2.jpg?width=1345&height=669)
-	- **Bounded Context 5:**
-![Bounded Context 5](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
-	- **Bounded Context 6:**
-![Bounded Context 6](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
-	- **Bounded Context 7:**
+	- **Bounded Context 5: Specialist Contact**
+![Bounded Context 5](https://media.discordapp.net/attachments/912089666939916348/1149126633060585522/Bounded_Context_Canvas_by_Nick_Tune_8.jpg?width=1336&height=669)
+	- **Bounded Context 6: Identity Access**
+![Bounded Context 6](https://media.discordapp.net/attachments/912089666939916348/1149126633467428904/Bounded_Context_Canvas_by_Nick_Tune.jpg?width=1326&height=669)
+	- **Bounded Context 7: Profile Management**
 ![Bounded Context 7](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
 	- **Bounded Context 8:**
 ![Bounded Context 8](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
@@ -673,5 +673,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUyNTY4OTYsMjA3MDk0NTcwMV19
+eyJoaXN0b3J5IjpbLTY1NjkxNTgsMjA3MDk0NTcwMV19
 -->
