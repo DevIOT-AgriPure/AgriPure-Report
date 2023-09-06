@@ -190,7 +190,7 @@ Sin embargo, uno de los desafíos identificados es la adopción y el uso efectiv
 
 8. **Resolveremos esto a través de** los _feedback_ de usuarios para lanzar constantes actualizaciones que buscan corregir y mejorar el producto en busca de satisfacer las expectativas de los usuarios.
 
-9. <![endif]>**Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
+9. **Para usuarios con plan de registro,** todas las dudas y recomendaciones serán atendidas por un técnico agrícola, a su vez ingenieros ambientales, que utilizarán sus conocimientos profesionales para dar realce a una mejor producción agraria.
 
  
   - 1.2.2.3. Lean UX Hypothesis Statements.
@@ -373,5 +373,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzU0MzM5NSwtMjEwODgzOTMyXX0=
+eyJoaXN0b3J5IjpbLTExMjAwMDgzOCwtMjEwODgzOTMyXX0=
 -->
