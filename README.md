@@ -219,22 +219,22 @@ Las características más relevantes de la aplicación será el hecho de poder b
 Nuestro producto debería tener un diseño moderno y simplista, lo suficiente como para que los nuevos usuarios puedan entender el propósito y uso de la aplicación. De esa manera, el App móvil deberá estar operativo las 24/7 y todos los errores se solucionarán hasta antes cumplir las 24 horas del día.
 
   - 1.2.2.3. Lean UX Hypothesis Statements.
-  -
- HYPOTHESIS 1 (Reformulada): Creemos que la provisión de un calendario que indique los momentos óptimos para la fumigación y fertilización de las plantas contribuirá a mejorar las condiciones de cultivo. Sabemos que tendremos éxito al observar un aumento en las ganancias de producción, reflejado en informes proporcionados por nuestros clientes.
+ 
+ HYPOTHESIS 1: Creemos que la provisión de un calendario que indique los momentos óptimos para la fumigación y fertilización de las plantas contribuirá a mejorar las condiciones de cultivo. Sabemos que tendremos éxito al observar un aumento en las ganancias de producción, reflejado en informes proporcionados por nuestros clientes.
 
-HYPOTHESIS 2 (Reformulada): Creemos que la función de guía sobre plantas, basada en el análisis del pH, clima y terreno, será de gran utilidad para los agricultores que buscan mejorar o corregir sus métodos de siembra. Confirmaremos nuestra suposición si, durante las entrevistas de validación, más del 90% de los usuarios no encuentran problemas con esta funcionalidad.
+HYPOTHESIS 2: Creemos que la función de guía sobre plantas, basada en el análisis del pH, clima y terreno, será de gran utilidad para los agricultores que buscan mejorar o corregir sus métodos de siembra. Sabemos que tendremos éxito durante las entrevistas de validación, más del 90% de los usuarios no encuentran problemas con esta funcionalidad.
 
-HYPOTHESIS 3 (Reformulada): Creemos que ofrecer un plan gratuito que permita a los usuarios experimentar más a fondo con el producto atraerá a más clientes. Nuestra medida de éxito será alcanzar un mínimo de 1000 usuarios en los primeros días del lanzamiento.
+HYPOTHESIS 3: Creemos que ofrecer un plan gratuito que permita a los usuarios experimentar más a fondo con el producto atraerá a más clientes. Sabemos que tendremos éxito al alcanzar un mínimo de 1000 usuarios en los primeros días del lanzamiento.
 
-HYPOTHESIS 5 (Reformulada): Creemos que permitir el registro a través de cuentas personales, como Google, Facebook, Apple, etc., aumentará nuestra base de usuarios. Validaremos esta hipótesis si más del 70% de nuestros usuarios elige registrarse con alguna de estas cuentas mencionadas.
+HYPOTHESIS 4: Creemos que permitir el registro a través de cuentas personales, como Google, Facebook, Apple, etc., aumentará nuestra base de usuarios. Sabemos que tendremos éxito si más del 70% de nuestros usuarios elige registrarse con alguna de estas cuentas mencionadas.
 
-HYPOTHESIS 6 (Reformulada): Creemos que incluir una sección de "Contáctanos" nos permitirá recopilar retroalimentación y mantener una relación sólida entre nuestros clientes y la startup. Confirmaremos nuestra suposición cuando hayamos resuelto las dudas del 80% de los usuarios de la aplicación.
+HYPOTHESIS 5: Creemos que incluir una sección de "Contáctanos" nos permitirá recopilar retroalimentación y mantener una relación sólida entre nuestros clientes y la startup. Sabemos que tendremos éxito cuando hayamos resuelto las dudas del 80% de los usuarios de la aplicación.
 
-HYPOTHESIS 7 (Reformulada): Creemos que, al proporcionar una aplicación móvil que permita a los agricultores realizar un seguimiento del crecimiento de sus plantas y recibir consejos personalizados basados en datos, aumentaremos su rendimiento y reduciremos el desperdicio de recursos. Validaremos esta hipótesis midiendo un crecimiento del 10% semestral en el uso de la aplicación móvil.
+HYPOTHESIS 6: Creemos que, al proporcionar una aplicación móvil que permita a los agricultores realizar un seguimiento del crecimiento de sus plantas y recibir consejos personalizados basados en datos, aumentaremos su rendimiento y reduciremos el desperdicio de recursos. Sabemos que tendremos éxito midiendo un crecimiento del 10% semestral en el uso de la aplicación móvil.
 
-HYPOTHESIS 8 (Reformulada): Creemos que la implementación de un programa de educación y capacitación para los agricultores sobre las mejores prácticas en siembra y cuidado de las plantas disminuirá la tasa de fracaso en la producción y mejorará la calidad de los cultivos. Validaremos esta hipótesis mediante la recopilación de comentarios y sugerencias de nuestros clientes.
+HYPOTHESIS 7: Creemos que la implementación de un programa de educación y capacitación para los agricultores sobre las mejores prácticas en siembra y cuidado de las plantas disminuirá la tasa de fracaso en la producción y mejorará la calidad de los cultivos. Sabemos que tendremos éxito mediante la recopilación de comentarios y sugerencias de nuestros clientes.
 
-HYPOTHESIS 9 (Reformulada): Creemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Confirmaremos esta hipótesis mediante la evaluación de las puntuaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
+HYPOTHESIS 8: Creemos que al proporcionar información en tiempo real sobre las condiciones climáticas y otros factores ambientales que afectan el crecimiento de las plantas, los agricultores podrán tomar decisiones más informadas para mejorar la producción en general. Sabemos que tendremos éxito mediante la evaluación de las puntuaciones de recomendación de la aplicación y el aumento en el porcentaje de descargas.
  
   - 1.2.2.4. Lean UX Canvas.
   
@@ -415,5 +415,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDkxNTI4NCwtNjMyMjQ1MjI3XX0=
+eyJoaXN0b3J5IjpbMTk0OTY5NzczMV19
 -->
