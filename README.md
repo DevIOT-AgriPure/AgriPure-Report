@@ -432,7 +432,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ***Segmento 1: Agricultores***
 
-| Steps |  |  |  |  | 
+| Steps | Busca informacion sobre agricultura | Ingresa a la app de AgriPure | Se reigstra en AgriPure | Obtiene l | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
 | Doing |  |  |  | 
 | Thinking |  |  |  |  | 
@@ -475,5 +475,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NjI1NjQwXX0=
+eyJoaXN0b3J5IjpbLTIzMTc1Mjk4LDk2NDYyNTY0MF19
 -->
