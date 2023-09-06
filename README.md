@@ -550,7 +550,9 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- El Bounded Context es un patrón de diseño en la arquitectura de software que divide un sistema en áreas de dominio separadas con lenguajes y límites claros. Esto facilita la administración y escalabilidad de sistemas complejos, ya que cada contexto acotado puede desarrollarse y mantenerse de manera independiente. Los Bounded Context Canvases, por otro lado, son herramientas visuales para el diseño de arquitecturas de software basadas en Bounded Contexts. Su objetivo es fomentar la colaboración entre equipos y garantizar la coherencia y la relación adecuada entre los diferentes contextos delimitados en el sistema.
 
 	- **Bounded Context:**
+	![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
 	- **Bounded Context:**
+	![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149068182947115039/Flowchart.jpg?width=810&height=669)
 	- **Bounded Context:**
 	- **Bounded Context:**
 	- **Bounded Context:**
@@ -664,5 +666,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDM2MzE4OCwyMDcwOTQ1NzAxXX0=
+eyJoaXN0b3J5IjpbMTY1MDQ2MjAxNCwyMDcwOTQ1NzAxXX0=
 -->
