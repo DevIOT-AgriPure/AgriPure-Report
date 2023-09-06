@@ -156,6 +156,7 @@ Un desafío crítico radica en la falta de acceso de los agricultores a informac
 ¿Cómo podemos empoderar a los agricultores con conocimientos y herramientas que promuevan la agricultura sostenible y mejoren la seguridad alimentaria en nuestras comunidades agrícolas?
 
   **Problem Statement 2:**
+ 
   En nuestro contexto, se hace necesario el acceso a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola. Gracias a la información proporcionada por el usuario, es posible mostrar las condiciones a las que están expuestas sus cosechas y, además, suministrar las indicaciones esenciales para llevar a cabo los procesos de cultivo adecuados para cada especie de planta.
 
 Hemos encontrado un factor crítico que tiene un impacto significativo en los resultados finales generados por el sistema. Este factor radica en la introducción de datos inexactos o que no se ajustan a los valores correctos relativos al terreno, el clima y la siembra.
@@ -163,6 +164,7 @@ Hemos encontrado un factor crítico que tiene un impacto significativo en los re
 ¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
 
   **Problem Statement 3:**
+ 
 En el contexto de nuestra aplicación, se busca proporcionar a los agricultores una plataforma tecnológica eficiente y útil. 
 
 Sin embargo, uno de los desafíos identificados es la adopción y el uso efectivo de la aplicación por parte de los agricultores, en particular aquellos que pueden tener limitaciones tecnológicas o resistencia al cambio.
@@ -350,5 +352,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM3NTY0Niw4OTY1NjY0NzFdfQ==
+eyJoaXN0b3J5IjpbLTIxMDg4MzkzMl19
 -->
