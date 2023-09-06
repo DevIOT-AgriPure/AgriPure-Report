@@ -568,7 +568,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 - 4.1.2. Context Mapping. 
 		
-	- El Context Mapping es una metodología empleada en el desarrollo de software para comprender y representar gráficamente las conexiones entre los usuarios, los conceptos y los equipos que forman parte de un proyecto.
+	El Context Mapping es una metodología empleada en el desarrollo de software para comprender y representar gráficamente las conexiones entre los usuarios, los conceptos y los equipos que forman parte de un proyecto.
 
 	- 4.1.3. Software Architecture. 
 		- 4.1.3.1. Software Architecture System Landscape Diagram. 
@@ -673,5 +673,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjk2ODgzNV19
+eyJoaXN0b3J5IjpbLTczNTYyODExMl19
 -->
