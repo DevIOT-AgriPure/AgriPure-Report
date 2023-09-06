@@ -257,6 +257,8 @@ Desarrollaremos el Competitive Analysis Landscape:
  **¿Cómo podemos ofrecer un mejor servicio en nuestro producto frente a nuestros competidores? ¿Qué debemos mejorar?**
  - El objetivo de llevar a cabo este análisis competitivo es para conocer mejor a nuestros competidores, en que aspectos son mejores que nosotros, que funcionalidades o mejoras han implementado o implementan que nosotros no y saber en qué podemos mejorar
 
+
+
 - 2.1.2. Estrategias y tácticas frente a competidores.
 
 	- Liderazgo en costes:
@@ -414,5 +416,6 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzU3MjY5NCwxOTQ5Njk3NzMxXX0=
+eyJoaXN0b3J5IjpbMjEwNzg2ODkyMiwxNjM3NTcyNjk0LDE5ND
+k2OTc3MzFdfQ==
 -->
