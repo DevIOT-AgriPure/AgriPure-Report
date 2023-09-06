@@ -162,8 +162,12 @@ Hemos encontrado un factor crítico que tiene un impacto significativo en los re
 
 ¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
 
-  **Problem Statement 2:**
+  **Problem Statement 3:**
+En el contexto de nuestra aplicación, se busca proporcionar a los agricultores una plataforma tecnológica eficiente y útil. 
 
+Sin embargo, uno de los desafíos identificados es la adopción y el uso efectivo de la aplicación por parte de los agricultores, en particular aquellos que pueden tener limitaciones tecnológicas o resistencia al cambio.
+
+¿Cómo podemos superar las barreras tecnológicas y fomentar una mayor adopción y uso de nuestra aplicación entre la comunidad agrícola para que puedan aprovechar al máximo sus beneficios?
 
   - 1.2.2.2. Lean UX Assumptions.
   - 1.2.2.3. Lean UX Hypothesis Statements.
@@ -346,5 +350,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg1MjUyMzksODk2NTY2NDcxXX0=
+eyJoaXN0b3J5IjpbLTE2MjM3NTY0Niw4OTY1NjY0NzFdfQ==
 -->
