@@ -252,7 +252,7 @@ En nuestro proyecto se hacen presente dos segmentos objetivos:
 
 Presentamos 3 competidores, los cuales son: 
 
-| Columna 1 | Columna 2 | Columna 3 |
+| Agri | Columna 2 | Columna 3 |
 |-----------|-----------|-----------|
 | Fila 1, C1 | Fila 1, C2 | Fila 1, C3 |
 | Fila 2, C1 | Fila 2, C2 | Fila 2, C3 |
@@ -415,5 +415,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTY5NzczMV19
+eyJoaXN0b3J5IjpbLTEyOTk0MTUxNTQsMTk0OTY5NzczMV19
 -->
