@@ -413,14 +413,38 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ***Segmento 1: Agricultores***
 
+| Steps |  |  |  |  | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing |  |  |  | 
+| Thinking |  |  |  |  | 
+| Feeling |  |  |  |  |  
+
 ***Segmento 2: Especialistas***
+
+| Steps |  |  |  |  | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing |  |  |  | 
+| Thinking |  |  |  |  | 
+| Feeling |  |  |  |  | 
 
 ## Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping.
 
 ***Segmento 1: Agricultores***
 
+| Steps |  |  |  |  | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing |  |  |  | 
+| Thinking |  |  |  |  | 
+| Feeling |  |  |  |  | 
+
 ***Segmento 2: Especialistas***
+
+| Steps |  |  |  |  | 
+| -------------- | -------------- | -------------- | -------------- | -------------- | 
+| Doing |  |  |  | 
+| Thinking |  |  |  |  | 
+| Feeling |  |  |  |  | 
 
 - 3.2. User Stories.
 - 3.3. Impact Mapping.
@@ -451,5 +475,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMzYxNjA0XX0=
+eyJoaXN0b3J5IjpbODUxNzg1MjQ4XX0=
 -->
