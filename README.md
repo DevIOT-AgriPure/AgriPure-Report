@@ -276,9 +276,9 @@ Desarrollaremos el Competitive Analysis Landscape:
 
 | Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
-| Caracteristicas y servicios | - **Búsqueda de terreno**, permite a los usuarios elegir el tipo de planta que desea sembrar, y a partir de ello, dar información de que tipo de tierra se tiene que sembrar, nivel de acidez adecuada (ph), distancia de siembra entre planta y planta, profundidad adecuada. - **Fertilización**, permite a los usuarios tener acceso a recomendación de que y cuanto fertilizante se debe utilizar en las plantas. - **Clima**, permite ver el clima y cuál es la probabilidad de que haya lluvias. De esta manera, no desperdiciar fertilizante en vano. **- Control de cultivo,** ayuda a los agricultores a agendar sus riegos, podas y limpieza de maleza. | - **Control de faenas**, permite a los usuarios llevar el detalle de las faenas. - **Ordenes de aplicación**, permite a los usuarios controlar los costos de sus campos. - **Premium**, los usuarios pueden tener más de 300 hectáreas. - **Cuaderno de campo y notas**, los usuarios pueden planificar su presupuesto y llevar un control detallado para disminuir costos. | Fila 1, C4 | Fila 1, C5 |
-| Precios y costos | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
-| Canales de distribucion (Web y/o movil) | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
+| Caracteristicas y servicios | - **Búsqueda de terreno**, permite a los usuarios elegir el tipo de planta que desea sembrar, y a partir de ello, dar información de que tipo de tierra se tiene que sembrar, nivel de acidez adecuada (ph), distancia de siembra entre planta y planta, profundidad adecuada. - **Fertilización**, permite a los usuarios tener acceso a recomendación de que y cuanto fertilizante se debe utilizar en las plantas. - **Clima**, permite ver el clima y cuál es la probabilidad de que haya lluvias. De esta manera, no desperdiciar fertilizante en vano. **- Control de cultivo,** ayuda a los agricultores a agendar sus riegos, podas y limpieza de maleza. | - **Control de faenas**, permite a los usuarios llevar el detalle de las faenas. - **Ordenes de aplicación**, permite a los usuarios controlar los costos de sus campos. - **Premium**, los usuarios pueden tener más de 300 hectáreas. - **Cuaderno de campo y notas**, los usuarios pueden planificar su presupuesto y llevar un control detallado para disminuir costos. | -  Historial de lluvias y calor -  Pérdidas y ganancias - Gestor de operaciones con informes sobre actividades - Notificaciones por correo electrónico. | - Strider Protect, permite el control y protección de plagas. - Strider Base, ayuda en la monitorización durante todo el año. - Strider Space, sirve para la detección de áreas críticas con imágenes espaciales. - Strider Tracker, realiza el seguimiento de maquinaria. |
+| Precios y costos | Precio personalizado para cada plan | Precio personalizado para cada servicio | Precio personalizado para cada servicio | Precio personalizado para cada servicio |
+| Canales de distribucion (Web y/o movil) | Fila 3, C2 | Sitio Web | Sitio Web | Sitio Web |
 
 **Analisis SWOT**
 
@@ -446,5 +446,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjY0OTQyLC01MTAyODc4MDJdfQ==
+eyJoaXN0b3J5IjpbMTM3NTM4OTA4OSwtNTEwMjg3ODAyXX0=
 -->
