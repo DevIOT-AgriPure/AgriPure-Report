@@ -41,7 +41,7 @@ Ciclo:
 | 1.0 | 22/08/2023 | Andres Christian Reynoso | Se está desarrollando la primera versión del archivo TB1, estructurando el formato del entregable. |
 | 1.1 | 24/08/2023 | Andres Christian Reynoso | Se ha completado la estructura del archivo, asi mismo, se han agregado las preguntas para la entrevista, al igual que se inicio con el proceso de EventStorming |
 | 1.2 | 31/08/2023 | Andres Christian Reynoso | Se desarrollaron las preguntas para las entrevistas, de igual manera se esta finalizando el proceso de Eventstorming |
-|  |  |  |  |
+| 1 |  |  |  |
 
 ## Project Report Collaboration Insights
 
@@ -334,5 +334,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MzYwNzQxXX0=
+eyJoaXN0b3J5IjpbMTQ2MjU3MjIzNCw0NjYzNjA3NDFdfQ==
 -->
