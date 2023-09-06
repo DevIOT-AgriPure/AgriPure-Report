@@ -303,7 +303,7 @@ Desarrollaremos el Competitive Analysis Landscape:
 		A pesar de que nuestra aplicación opera de manera gratuita, no planeamos saturarla con anuncios en cada acción que realicen los usuarios. Nuestra estrategia de expansión se fundamenta en la obtención de valoraciones positivas por parte de los usuarios y en la promoción efectiva de la aplicación.
 ### 2.2. Entrevistas.
  - 2.2.1. Diseño de entrevistas.
-			
+
 	Cuestionario para Entrevistas
 
 	¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
@@ -371,7 +371,9 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 ***Segmento 1: Agricultores***
 
-Entrevista #1:
+Entrevista #1: Alejandro Rojas
+
+![Entrevista 1](https://media.discordapp.net/attachments/912089666939916348/1149060093338452008/image.png?width=866&height=415)
 Enlace:
 Descripcion:
 
@@ -445,5 +447,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTgwODcyMl19
+eyJoaXN0b3J5IjpbNTQwODc0MTcxLC01MTk4MDg3MjJdfQ==
 -->
