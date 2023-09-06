@@ -257,11 +257,12 @@ Desarrollaremos el Competitive Analysis Landscape:
  **¿Cómo podemos ofrecer un mejor servicio en nuestro producto frente a nuestros competidores? ¿Qué debemos mejorar?**
  - El objetivo de llevar a cabo este análisis competitivo es para conocer mejor a nuestros competidores, en que aspectos son mejores que nosotros, que funcionalidades o mejoras han implementado o implementan que nosotros no y saber en qué podemos mejorar
 
+**Perfil de la StartUp**
 
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 |
+| Startup | AgriPure | Agri | Farmlogs | Strider |
 |-----------|-----------|-----------|-----------|-----------|
-| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
-| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
+| Origen | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 | Fila 1, C5 |
+| Descripcion General | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 | Fila 2, C5 |
 | Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 | Fila 3, C5 |
 
 
@@ -422,6 +423,6 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgzOTY5MSwyMTA3ODY4OTIyLDE2Mz
-c1NzI2OTQsMTk0OTY5NzczMV19
+eyJoaXN0b3J5IjpbMjA4NzkzNjQwMSwtMTQwODM5NjkxLDIxMD
+c4Njg5MjIsMTYzNzU3MjY5NCwxOTQ5Njk3NzMxXX0=
 -->
