@@ -586,7 +586,7 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 
 	- 4.2.4. Bounded Context: Knowledge Management
 
-	El Bounded Context de Knowledge Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
+	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
 		- 4.2.4.1. Domain Layer. 
 		- 4.2.4.2. Interface Layer. 
 		- 4.2.4.3. Application Layer. 
@@ -641,5 +641,5 @@ https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2
 			- 4.2.9.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.9.6.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ0MDE0OTQsLTM2NDkxODQwMF19
+eyJoaXN0b3J5IjpbMjA3MDk0NTcwMV19
 -->
