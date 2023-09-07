@@ -552,10 +552,12 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Epic ID | Titulo de Epica | Descripcion de Epica |
 |-----------|-----------|-----------|
-| EP001 | Definición de funcionalidades de la aplicación móvil | Como usuario deseo que la aplicación posea características funcionales variadas para que me sirva de ayuda al momento de la siembra y cosecha |
+| EP001 | Definición de funcionalidades de la aplicación | Como usuario deseo que la aplicación posea características funcionales variadas para que me sirva de ayuda al momento de la siembra y cosecha |
 | EP002 | Opciones relacionadas a la cuenta del usuario | Como usuario deseo poder realizar acciones de creación, actualización y otras relacionadas a una cuenta para poder guardar las configuraciones y utilizarlas desde distintos dispositivos |
-| EP003 | Definición de estructura del landing page | Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación móvil |
-| EP004 | Definición de requisitos no funcionales | Como usuario deseo que la aplicación móvil cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
+| EP003 | Definición de estructura del landing page | Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación |
+| EP004 | Definición de requisitos no funcionales | Como usuario deseo que la aplicación cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
+
+
 
 - 3.3. Impact Mapping.
 
@@ -702,5 +704,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NzgwMzddfQ==
+eyJoaXN0b3J5IjpbLTE5MjMzOTYxNjIsNjM2NzgwMzddfQ==
 -->
