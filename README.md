@@ -834,12 +834,11 @@ Metodos:
 
 - 4.2.4.1. Domain Layer. 
 
-	- Nombre: Knowledge Management.
+	- Nombre: Photo.
 	- Categoria: Entity.
 	- Proposito: Registro automatico de plantas por medio de fotos.
 
 	- Atributos:
-
 
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
@@ -850,7 +849,27 @@ Metodos:
 | Fila 5, C1 | Fila 5, C2 | Fila 5, C3 | Fila 5, C4 |
 | Fila 6, C1 | Fila 6, C2 | Fila 6, C3 | Fila 6, C4 |
 
+	- Nombre: Crop
+	- Categoria: Entity
+	- Proposito: El elemento principal de la aplicacion, siendo los cultivos
 
+Atributos:
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | Long | private | Id del cultivo |
+| name | String | private | Nombre del cultivo |
+| cientific_name | String | private | Nombre cientifico del cultivo |
+| cycle | String | private | Informacion sobre el ciclo de cultivo |
+| watering | String | private | Informacion sobre el riego de cultivo |
+| sunlight | String | private | Informacion sobre la temperatura adecuada de cultivo |
+| image | String | private | Imagen del cultivo |
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de cultivo |
+| getPlant | void | public | Metodo para obtener la planta |
 - 4.2.4.2. Interface Layer. 
 - 4.2.4.3. Application Layer. 
 - 4.2.4.4. Infrastructure Layer. 
@@ -923,6 +942,6 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE5MTk0NDIsMTY5NzI5MTY4MSwtMT
+eyJoaXN0b3J5IjpbLTEwMTA0MTI3MTcsMTY5NzI5MTY4MSwtMT
 g5NjkyMjg1NV19
 -->
