@@ -195,8 +195,8 @@ Ciclo:
 	
 - 1.1.2. Perfiles de integrantes del equipo
 
-| Nombre| Descripción| 
-|-----------|-----------|
+| Nombre| Descripción| Foto |
+|-----------|-----------|-----------
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios. |
 |Bruno Moisés Palomino Santa Cruz|Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.|
 |Diego Talledo Sanchez|  |
@@ -796,5 +796,5 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ1OTI1NDBdfQ==
+eyJoaXN0b3J5IjpbNDgxOTA3MDkzLC0xNDI0NTkyNTQwXX0=
 -->
