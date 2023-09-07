@@ -614,14 +614,14 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 10   | US013   | Fila 10   | Fila 10   | 3   |
 | 11   | US014   | Fila 11   | Fila 11   | 5   |
 | 12   | US015   | Fila 12   | Fila 12   | 5   |
-| 13   | US016   | Fila 13   | Fila 13   | 8   |
-| 14   | US017   | Fila 14   | Fila 14   | Fila 14   |
-| 15   | US018   | Fila 15   | Fila 15   | Fila 15   |
+| 13   | US016   | Fila 13   | Fila 13   | 5   |
+| 14   | US017   | Fila 14   | Fila 14   |    |
+| 15   | US018   | Fila 15   | Fila 15   |    |
 | 16   | US019   | Fila 16   | Fila 16   | Fila 16   |
-| 17   | US020   | Fila 17   | Fila 17   | Fila 17   |
-| 18   | US021   | Fila 18   | Fila 18   | Fila 18   |
-| 19   | US022   | Fila 19   | Fila 19   | Fila 19   |
-| 20   | US023   | Fila 20   | Fila 20   | Fila 20   |
+| 17   | US020   | Mejorar su Plan  | Fila 17   | Fila 17   |
+| 18   | US021   | Coordinar fechas con especialista   | Fila 18   | Fila 18   |
+| 19   | US022   | Establecer horarios de disponibilidad   | Fila 19   | Fila 19   |
+| 20   | US023   | Modificar mi perfil de especialista   | Fila 20   | Fila 20   |
 | 21   | US001   | Registro de usuario   | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios   | 8   |
 | 22   | US002   | Cerrar sesión de usuario   | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | 2   |
 | 23   | US003   | Actualización de datos del usuario   | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente   | 3   |
@@ -763,5 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1ODQxNDE2LC0xMTE0OTM5ODk4XX0=
+eyJoaXN0b3J5IjpbMzQ3Nzk2NjkzLC0xMTE0OTM5ODk4XX0=
 -->
