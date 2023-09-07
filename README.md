@@ -579,11 +579,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US018   | Usar la camara para registrar cultivos   | Fila 18   | Fila 18   | EP002    |
 | US019   | Seleccionar un plan   | Fila 19   | Fila 19   | EP002    |
 | US020   | Cambiar de Plan  | Fila 20   | Fila 20   | EP002    |
-| US021   | Fila 21   | Fila 21   | Fila 21   | EP002    |
-| US022   | Fila 22   | Fila 22   | Fila 22   | EP002    |
-| US023   | Fila 23   | Fila 23   | Fila 23   | EP002    |
-| US024   | Fila 24   | Fila 24   | Fila 24   | EP002    |
-| US025   | Fila 25   | Fila 25   | Fila 25   | EP002    |
+| US021   | Coordinar fechas   | Fila 21   | Fila 21   | EP002    |
+| US022   | Establecer horarios de disponibilidad   | Fila 22   | Fila 22   | EP002    |
+| US023   | Modificar mi perfil de especialista   | Fila 23   | Fila 23   | EP002    |
+
 
 - 3.3. Impact Mapping.
 
@@ -730,5 +729,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA3MzQ2NSw2MzY3ODAzN119
+eyJoaXN0b3J5IjpbLTMyODM1MTA0Nyw2MzY3ODAzN119
 -->
