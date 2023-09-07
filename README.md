@@ -559,10 +559,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Relacionado con |
 |-----------|-----------|-----------|-----------|-----------|
-| US001    | Registro de usuario    | Fila 1    | Fila 1    | EP002    |
-| US002    | Cerrar sesión de usuario    | Fila 2    | Fila 2    | EP002     |
-| US003    | Actualización de datos del usuario    | Fila 3    | Fila 3    | EP002     |
-| US004    | Selección de planta a sembrar    | Fila 4    | Fila 4    | EP001     |
+| US001    | Registro de usuario    | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios    | Fila 1    | EP002    |
+| US002    | Cerrar sesión de usuario    | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | Fila 2    | EP002     |
+| US003    | Actualización de datos del usuario    | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente | Fila 3    | EP002    |
+| US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | Fila 4    | EP001     |
 | US005    | Guía de elección de tierra de sembrado    | Fila 5    | Fila 5    | EP001     |
 | US006    | Distancia de siembra entre las plantas    | Fila 6    | Fila 6    | EP001     |
 | US007    | Distancia de profundidad de siembra    | Fila 7    | Fila 7    | EP001     |
@@ -728,5 +728,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUzMTk0MTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTY1ODM4NDIsLTE4OTUzMTk0MTNdfQ
+==
 -->
