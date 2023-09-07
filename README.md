@@ -886,18 +886,15 @@ Metodos:
 
 - 4.2.4.2. Interface Layer. 
 
-	- Nombre: CropController
+	- Nombre: PhotoController
 	- Categoria: Controller
-	- Proposito: Controlador de los cultivos
+	- Proposito: Controlador de las fotos
 
 Metodos:
 | Nombre | Tipo de Retorno | Visibilidad |
 |-----------|-----------|-----------|
 | GetAll| List CropResource> | public |
 | GetById| CropResource | public |
-| Add| AddCropResource | public |
-| Remove| void | public |
-| FindCropById| CropResource | public |
 
 - Nombre: CropController
 	- Categoria: Controller
@@ -915,6 +912,29 @@ Metodos:
 - 4.2.4.3. Application Layer. 
 
 - 4.2.4.4. Infrastructure Layer. 
+
+	- Nombre: PhotoRepository
+	- Categoria: Repository
+	- Proposito: Repositorio de las fotos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+
+- Nombre: CropController
+	- Categoria: Controller
+	- Proposito: Controlador de los cultivos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
 
 - 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
 ![Component Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149460248898326618/Untitled_Diagram.drawio_1.png?width=811&height=608)
@@ -987,5 +1007,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTI3MTU0OCwyNzQ0NjUzMThdfQ==
+eyJoaXN0b3J5IjpbMjYxMzEyMjQwLDI3NDQ2NTMxOF19
 -->
