@@ -723,7 +723,8 @@ El Bounded Context de Crop Management es un area que se enfoca en el registro y 
 - 4.2.3.1. Domain Layer. 
 
 Nombre: Crop Management 
-
+Categoria: Entity
+Proposito: Registro y control de Plantas
 
 - 4.2.3.2. Interface Layer. 
 - 4.2.3.3. Application Layer. 
@@ -809,5 +810,5 @@ Nombre: Crop Management
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNjIzNjcsLTQ2OTM2NzUxN119
+eyJoaXN0b3J5IjpbOTAwNTU0NDcsLTQ2OTM2NzUxN119
 -->
