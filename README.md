@@ -707,19 +707,18 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.1.6.2. Bounded Context Database Design Diagram.
 	- 4.2.2. Bounded Context: 
-		- 4.2.2.1. Domain Layer. 
-		- 4.2.2.2. Interface Layer. 
-		- 4.2.2.3. Application Layer. 
-		- 4.2.2.4. Infrastructure Layer. 
-		- 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.2.6.2. Bounded Context Database Design Diagram.
+		- 4.2.3.1. Domain Layer. 
+		- 4.2.3.2. Interface Layer. 
+		- 4.2.3.3. Application Layer. 
+		- 4.2.3.4. Infrastructure Layer. 
+		- 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
+		-  4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
+				- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
+				- 4.2.3.6.2. Bounded Context Database Design Diagram.
 			
 	- 4.2.3. Bounded Context: Crop Management
 
 El Bounded Context de Crop Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
-
 
 - 4.2.3.1. Domain Layer. 
 - 4.2.3.2. Interface Layer. 
@@ -733,14 +732,16 @@ El Bounded Context de Crop Management es un area que se enfoca en el registro y 
 	- 4.2.4. Bounded Context: Knowledge Management
 
 	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
-		- 4.2.4.1. Domain Layer. 
-		- 4.2.4.2. Interface Layer. 
-		- 4.2.4.3. Application Layer. 
-		- 4.2.4.4. Infrastructure Layer. 
-		- 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.4.6.2. Bounded Context Database Design Diagram.
+
+- 4.2.4.1. Domain Layer. 
+- 4.2.4.2. Interface Layer. 
+- 4.2.4.3. Application Layer. 
+- 4.2.4.4. Infrastructure Layer. 
+- 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
+-  4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
+		- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
+		- 4.2.4.6.2. Bounded Context Database Design Diagram.
+
 	- 4.2.5. Bounded Context: Notifications
    
 	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
@@ -804,6 +805,5 @@ El Bounded Context de Crop Management es un area que se enfoca en el registro y 
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM3OTM3MDksLTEzMTI5NjUyOTVdfQ
-==
+eyJoaXN0b3J5IjpbLTQ2OTM2NzUxN119
 -->
