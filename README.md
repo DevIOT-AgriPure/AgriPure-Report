@@ -697,7 +697,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 - 4.2. Tactical-Level Domain-Driven Design.
 
 	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura. 
-	- 4.2.1. Bounded Context: 
+	- **4.2.1. Bounded Context: **
 		- 4.2.1.1. Domain Layer. 
 		- 4.2.1.2. Interface Layer. 
 		- 4.2.1.3. Application Layer. 
@@ -706,7 +706,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 		- 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.1.6.2. Bounded Context Database Design Diagram.
-	- 4.2.2. Bounded Context: 
+	- **4.2.2. Bounded Context: **
 		- 4.2.3.1. Domain Layer. 
 		- 4.2.3.2. Interface Layer. 
 		- 4.2.3.3. Application Layer. 
@@ -716,7 +716,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
 				- 4.2.3.6.2. Bounded Context Database Design Diagram.
 			
-	- 4.2.3. Bounded Context: Crop Management
+	- **4.2.3. Bounded Context: Crop Management**
 
 El Bounded Context de Crop Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
 
@@ -734,7 +734,7 @@ Proposito: Registro y control de Plantas
 		- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
 		- 4.2.3.6.2. Bounded Context Database Design Diagram.
 
-	- 4.2.4. Bounded Context: Knowledge Management
+	- **4.2.4. Bounded Context: Knowledge Management**
 
 	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
 
@@ -815,5 +815,5 @@ Proposito: Registro automatico de plantas por medio de fotos.
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDM5MDQ2XX0=
+eyJoaXN0b3J5IjpbLTE1NzUzMzE3MDYsMTIwMDM5MDQ2XX0=
 -->
