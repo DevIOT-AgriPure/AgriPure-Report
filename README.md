@@ -578,7 +578,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US017   | Aceptar mensajes de otros agricultores   | Fila 17Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   | **Escenario: El especialista acepta la solicitud.** Dado que el especialista see encuentre en un chat con un agricultor Cuando le de a "Aceptar mensajes". Entonces podra iniciar la conversacion con el otro agricultor | EP001    |
 | US018   | Usar la camara para registrar cultivos   | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil   | **Escenario: El usuario usa la camara.** Dado que el usuario quiere registrar su cultivo, cuando va a la aplicacion en la seccion de fotografia, y le salga la opcion de prender camara Cuando tome una foto a su cultivo, entonces el sistema reconocera automaticamente la imagen gracias a los datos internos de la app.    | EP001    |
 | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure   | **Escenario: El usuario selecciona un plan.** Dado que el usuario quiera seleccionar un plan, cuando se cree una cuenta personal, entonces le saldra la opcion de escoger un plan.   | EP002    |
-| US020   | Cambiar de Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan a uno premium para que pueda apreciar mejores funcionalidades   | Dado que el usuario quiera seleccionar un plan, cuando se cree una cuenta personal, entonces le saldra la opcion de escoger un plan.  | EP002    |
+| US020   | Mejorar su Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades   | **Escenario: El usuario cambia de plan.** Dado que el usuario quiera mejorar su plan, cuando se cree una cuenta personal, entonces le saldra la opcion de escoger un plan.  | EP002    |
 | US021   | Coordinar fechas   | Fila 21   | Fila 21   | EP002    |
 | US022   | Establecer horarios de disponibilidad   | Fila 22   | Fila 22   | EP002    |
 | US023   | Modificar mi perfil de especialista   | Fila 23   | Fila 23   | EP002    |
@@ -728,5 +728,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTM4NTAxNCwxNjUxNjA5OV19
+eyJoaXN0b3J5IjpbLTExOTc3OTI4MTgsMTY1MTYwOTldfQ==
 -->
