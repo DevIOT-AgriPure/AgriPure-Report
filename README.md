@@ -885,8 +885,26 @@ Metodos:
 | getPlant | void | public | Metodo para obtener la planta |
 
 - 4.2.4.2. Interface Layer. 
+
+
+
+	- Nombre: CropController
+	- Categoria: Controller
+	- Proposito: Controlador de los cultivos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
+
 - 4.2.4.3. Application Layer. 
+
 - 4.2.4.4. Infrastructure Layer. 
+
 - 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
 ![Component Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149460248898326618/Untitled_Diagram.drawio_1.png?width=811&height=608)
 -  4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
@@ -896,7 +914,8 @@ Metodos:
 	- **4.2.5. Bounded Context: Notifications**
    
 	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
-		- 4.2.5.1. Domain Layer. 
+	
+	- 4.2.5.1. Domain Layer. 
 		- 4.2.5.2. Interface Layer. 
 		- 4.2.5.3. Application Layer. 
 		- 4.2.5.4. Infrastructure Layer. 
@@ -907,7 +926,8 @@ Metodos:
 	- **4.2.6. Bounded Context: Subscription and Payments**
    
    El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
-		- 4.2.6.1. Domain Layer. 
+	   
+	- 4.2.6.1. Domain Layer. 
 		- 4.2.6.2. Interface Layer. 
 		- 4.2.6.3. Application Layer. 
 		- 4.2.6.4. Infrastructure Layer. 
@@ -956,5 +976,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NDY1MzE4XX0=
+eyJoaXN0b3J5IjpbLTM4MzcxMzAwNywyNzQ0NjUzMThdfQ==
 -->
