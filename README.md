@@ -525,8 +525,8 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Steps | Descubrimiento e interes |  | Adopcion y uso inicial | Integracion y beneficios continuos | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing |  |  |  | 
-| Thinking |  |  |  |  | 
+| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores |  |  | 
+| Thinking | Como sere capaz de apoyar a otros agricultores? |  |  |  | 
 | Feeling | Curiosidad |  |  |  | 
 
 ## Capítulo III: Requirements Specification
@@ -702,5 +702,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4ODQyNTI5XX0=
+eyJoaXN0b3J5IjpbMjA5NjI1ODEzM119
 -->
