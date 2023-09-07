@@ -563,13 +563,13 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US002    | Cerrar sesión de usuario    | Fila 2    | Fila 2    | EP002     |
 | US003    | Actualización de datos del usuario    | Fila 3    | Fila 3    | EP002     |
 | US004    | Selección de planta a sembrar    | Fila 4    | Fila 4    | EP001     |
-| US005    | Fila 5    | Fila 5    | Fila 5    | EP001     |
-| US006    | Fila 6    | Fila 6    | Fila 6    | EP001     |
-| US007    | Fila 7    | Fila 7    | Fila 7    | EP001     |
-| US008    | Fila 8    | Fila 8    | Fila 8    | EP001     |
-| US009    | Fila 9    | Fila 9    | Fila 9    | EP001     |
-| US010   | Fila 10   | Fila 10   | Fila 10   | EP001    |
-| US011   | Fila 11   | Fila 11   | Fila 11   | EP003    |
+| US005    | Guía de elección de tierra de sembrado    | Fila 5    | Fila 5    | EP001     |
+| US006    | Distancia de siembra entre las plantas    | Fila 6    | Fila 6    | EP001     |
+| US007    | Distancia de profundidad de siembra    | Fila 7    | Fila 7    | EP001     |
+| US008    | Fechas de fumigación    | Fila 8    | Fila 8    | EP001     |
+| US009    | Fechas de fertilización    | Fila 9    | Fila 9    | EP001     |
+| US010   | Contacto a Especialista   | Fila 10   | Fila 10   | EP001    |
+| US011   | Botón call to action   | Fila 11   | Fila 11   | EP003    |
 | US012   | Fila 12   | Fila 12   | Fila 12   | EP003    |
 | US013   | Fila 13   | Fila 13   | Fila 13   | EP003    |
 | US014   | Fila 14   | Fila 14   | Fila 14   | EP004    |
@@ -730,5 +730,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjEyNTk1NSw2MzY3ODAzN119
+eyJoaXN0b3J5IjpbMTg1MDk5MTUxOSw2MzY3ODAzN119
 -->
