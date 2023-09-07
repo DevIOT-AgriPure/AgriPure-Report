@@ -784,6 +784,13 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- 4.2.9.6.2. Bounded Context Database Design Diagram.
 
 ## Conclusiones
+- La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programacion.
+- Las entrevistas de validación son esenciales para que el equipo de desarrollo pueda identificar errores que solo son perceptibles para personas externas al proceso de desarrollo, como los posibles usuarios.
+- Mejorar la comunicación es una de las ventajas de utilizar herramientas colaborativas, ya que facilitan la interacción efectiva y fluida entre los integrantes del equipo, lo que simplifica la discusión de ideas, la resolución de problemas y la toma de decisiones.
+- Aumentar la productividad es otro beneficio de emplear herramientas colaborativas, ya que los equipos pueden trabajar simultáneamente en diferentes aspectos de la aplicación móvil, acelerando así el proceso de desarrollo y reduciendo los tiempos de entrega.
+- La gestión de proyectos se vuelve más eficiente al utilizar herramientas colaborativas, ya que ofrecen funcionalidades para la planificación, seguimiento y asignación de tareas, lo que facilita la organización y coordinación del equipo, asegurando un desarrollo más eficiente.
+- Facilitan el control de versiones, lo cual es crucial en el desarrollo de aplicaciones móviles debido a la creación y modificación de numerosos archivos. Las herramientas colaborativas proporcionan sistemas de control de versiones que permiten rastrear los cambios, facilitando la colaboración entre los desarrolladores y evitando confusiones o pérdida de datos.
+- Fomentan la creatividad y la innovación al promover el trabajo colaborativo, permitiendo que los equipos aprovechen la diversidad de ideas y perspectivas, lo que estimula la creatividad y la generación de soluciones innovadoras para el desarrollo de la aplicación móvil.
 
 ## Anexos
 
@@ -792,6 +799,6 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDM1NTY4Niw4MzQyMzYyMTksLTE2Mj
+eyJoaXN0b3J5IjpbLTQ5MjYyOTY0OCw4MzQyMzYyMTksLTE2Mj
 gxODI0NDFdfQ==
 -->
