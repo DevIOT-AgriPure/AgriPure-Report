@@ -492,6 +492,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 ![User Persona Agricultores](https://media.discordapp.net/attachments/877599577073647676/1149363352120856688/Flowchart.jpg?width=2162&height=1614)
 ***Segmento 2: Especialistas***
 
+![User Persona Especialistas](https://media.discordapp.net/attachments/877599577073647676/1149369789865799700/Flowchart_1.jpg?width=2178&height=1614)
 - 2.3.2. User Task Matrix.
 
 ***Segmento 1: Agricultores***
@@ -786,5 +787,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODgwMzU3MF19
+eyJoaXN0b3J5IjpbLTE2MjgxODI0NDFdfQ==
 -->
