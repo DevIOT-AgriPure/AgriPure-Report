@@ -559,25 +559,25 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Relacionado con |
 |-----------|-----------|-----------|-----------|-----------|
-| Fila 1    | Fila 1    | Fila 1    | Fila 1    | EP002    |
-| Fila 2    | Fila 2    | Fila 2    | Fila 2    | EP002     |
-| Fila 3    | Fila 3    | Fila 3    | Fila 3    | EP002     |
-| Fila 4    | Fila 4    | Fila 4    | Fila 4    | EP002     |
-| Fila 5    | Fila 5    | Fila 5    | Fila 5    | EP002     |
-| Fila 6    | Fila 6    | Fila 6    | Fila 6    | EP002     |
-| Fila 7    | Fila 7    | Fila 7    | Fila 7    | EP002     |
-| Fila 8    | Fila 8    | Fila 8    | Fila 8    | EP002     |
-| Fila 9    | Fila 9    | Fila 9    | Fila 9    | EP002     |
-| Fila 10   | Fila 10   | Fila 10   | Fila 10   | EP002    |
-| Fila 11   | Fila 11   | Fila 11   | Fila 11   | Fila 11   |
-| Fila 12   | Fila 12   | Fila 12   | Fila 12   | Fila 12   |
-| Fila 13   | Fila 13   | Fila 13   | Fila 13   | Fila 13   |
-| Fila 14   | Fila 14   | Fila 14   | Fila 14   | Fila 14   |
-| Fila 15   | Fila 15   | Fila 15   | Fila 15   | Fila 15   |
-| Fila 16   | Fila 16   | Fila 16   | Fila 16   | Fila 16   |
-| Fila 17   | Fila 17   | Fila 17   | Fila 17   | Fila 17   |
-| Fila 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
-| Fila 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
+| US001    | Fila 1    | Fila 1    | Fila 1    | EP002    |
+| US001    | Fila 2    | Fila 2    | Fila 2    | EP002     |
+| US001    | Fila 3    | Fila 3    | Fila 3    | EP002     |
+| US001    | Fila 4    | Fila 4    | Fila 4    | EP001     |
+| US001    | Fila 5    | Fila 5    | Fila 5    | EP001     |
+| US001    | Fila 6    | Fila 6    | Fila 6    | EP002     |
+| US001    | Fila 7    | Fila 7    | Fila 7    | EP002     |
+| US001    | Fila 8    | Fila 8    | Fila 8    | EP002     |
+| US001    | Fila 9    | Fila 9    | Fila 9    | EP002     |
+| US001   | Fila 10   | Fila 10   | Fila 10   | EP002    |
+| US001   | Fila 11   | Fila 11   | Fila 11   | EP002    |
+| US001   | Fila 12   | Fila 12   | Fila 12   | EP002    |
+| US001   | Fila 13   | Fila 13   | Fila 13   | EP002    |
+| US001   | Fila 14   | Fila 14   | Fila 14   | EP002    |
+| Fila 15   | Fila 15   | Fila 15   | Fila 15   | EP002    |
+| Fila 16   | Fila 16   | Fila 16   | Fila 16   | EP002    |
+| Fila 17   | Fila 17   | Fila 17   | Fila 17   | EP002    |
+| Fila 18   | Fila 18   | Fila 18   | Fila 18   | EP002    |
+| Fila 19   | Fila 19   | Fila 19   | Fila 19   | EP002    |
 | Fila 20   | Fila 20   | Fila 20   | Fila 20   | EP002    |
 | Fila 21   | Fila 21   | Fila 21   | Fila 21   | EP002    |
 | Fila 22   | Fila 22   | Fila 22   | Fila 22   | EP002    |
@@ -730,5 +730,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUxNzA3OCw2MzY3ODAzN119
+eyJoaXN0b3J5IjpbOTIyNzMxMTU5LDYzNjc4MDM3XX0=
 -->
