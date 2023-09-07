@@ -496,6 +496,15 @@ Entrevista #2:
 - Resumen: Richard actualmente vive en Los Olivos, es un estudiante universitario y trabaja en un negocio independiente. Se dedica a vender fertilizantes, ademas tiene conocimiento de agronomia. Nos dice que debido a la alza de los precios, algunos productos estan de subido, asi que recomienda algunas marcas economicas para poder adquirir sus productos.Menciona que actualmente hay mucha gente con pocos conocimientos o con falta de informacion de sus cultivos. Tambien comenta que esta interesado en los dispositivos IoT y estaria dispuesto a probarlos en su rubro. 
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/EVibNqboKx1Bou22mjCq8u0BArsLZvvhochs35TjYIomYQ?e=ShlZRL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
+Entrevista a asesor de cultio Imagen: ![](https://media.discordapp.net/attachments/881196470844420159/1149169300364599376/image.png) 				 
+-  Nombre: Edery Renzo Abanto Vicente
+ - Edad: 23 años 
+ - Residencia: Pueblo Libre 
+ -  Duración: 6:36 
+ -  Tecnologías: Windows, Android. 
+ - Resumen: Edery es un ingeniero agrónomo egresado de los últimos años. Ha tenido experiencia trabajando en cultivos a lo largo del país. Cada vez que va a realizar una asesoría, hace visitas al campo para poder analizar el entorno que rodea al cultivo. Él piensa que el cambio climático es uno de los factores que más afectan el desarrollo de las plantas. Edery piensa que un factor importante es revisar la calidad de las semillas al momento de comprarlas. Para finalizar, le parece muy interesante la idea de utilizar dispositivos IoT para el monitoreo de cultivos. 
+ - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ESAJCfpt8QBCl6WlMlE756kBjIz0hnkFpV__pWrdVZUqmA?e=qJaQkN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
 - 2.2.3. Análisis de entrevistas.
 
 En resumen, las entrevistas muestran que los agricultores entrevistados valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
@@ -946,5 +955,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NDk2Mjc5XX0=
+eyJoaXN0b3J5IjpbMTczNDgyMTQyMF19
 -->
