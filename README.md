@@ -604,24 +604,24 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 |-----------|-----------|-----------|-----------|-----------|
 | 1    | US004    | Fila 1    | Fila 1    | Fila 1    |
 | 2    | US005    | Fila 2    | Fila 2    | Fila 2    |
-| 3    | Fila 3    | Fila 3    | Fila 3    | Fila 3    |
-| 4    | Fila 4    | Fila 4    | Fila 4    | Fila 4    |
-| 5    | Fila 5    | Fila 5    | Fila 5    | Fila 5    |
-| 6    | Fila 6    | Fila 6    | Fila 6    | Fila 6    |
-| 7    | Fila 7    | Fila 7    | Fila 7    | Fila 7    |
-| 8    | Fila 8    | Fila 8    | Fila 8    | Fila 8    |
-| 9    | Fila 9    | Fila 9    | Fila 9    | Fila 9    |
-| 10   | Fila 10   | Fila 10   | Fila 10   | Fila 10   |
-| 11   | Fila 11   | Fila 11   | Fila 11   | Fila 11   |
-| 12   | Fila 12   | Fila 12   | Fila 12   | Fila 12   |
-| 13   | Fila 13   | Fila 13   | Fila 13   | Fila 13   |
-| 14   | Fila 14   | Fila 14   | Fila 14   | Fila 14   |
-| 15   | Fila 15   | Fila 15   | Fila 15   | Fila 15   |
-| 16   | Fila 16   | Fila 16   | Fila 16   | Fila 16   |
-| 17   | Fila 17   | Fila 17   | Fila 17   | Fila 17   |
-| 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
-| 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
-| 20   | Fila 20   | Fila 20   | Fila 20   | Fila 20   |
+| 3    | US006    | Fila 3    | Fila 3    | Fila 3    |
+| 4    | US007    | Fila 4    | Fila 4    | Fila 4    |
+| 5    | US008    | Fila 5    | Fila 5    | Fila 5    |
+| 6    | US009    | Fila 6    | Fila 6    | Fila 6    |
+| 7    | US010    | Fila 7    | Fila 7    | Fila 7    |
+| 8    | US011    | Fila 8    | Fila 8    | Fila 8    |
+| 9    | US012    | Fila 9    | Fila 9    | Fila 9    |
+| 10   | US013   | Fila 10   | Fila 10   | Fila 10   |
+| 11   | US014   | Fila 11   | Fila 11   | Fila 11   |
+| 12   | US015   | Fila 12   | Fila 12   | Fila 12   |
+| 13   | US016   | Fila 13   | Fila 13   | Fila 13   |
+| 14   | US017   | Fila 14   | Fila 14   | Fila 14   |
+| 15   | US018   | Fila 15   | Fila 15   | Fila 15   |
+| 16   | US019   | Fila 16   | Fila 16   | Fila 16   |
+| 17   | US020   | Fila 17   | Fila 17   | Fila 17   |
+| 18   | US021   | Fila 18   | Fila 18   | Fila 18   |
+| 19   | US022   | Fila 19   | Fila 19   | Fila 19   |
+| 20   | US023   | Fila 20   | Fila 20   | Fila 20   |
 | 21   | US001   | Registro de usuario   | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios   | 8   |
 | 22   | US002   | Cerrar sesión de usuario   | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | 2   |
 | 23   | US003   | Actualización de datos del usuario   | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente   | 3   |
@@ -763,6 +763,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg0OTc5NjUsLTExMTQ5Mzk4OThdfQ
+eyJoaXN0b3J5IjpbLTE0MDI0NDEzNDEsLTExMTQ5Mzk4OThdfQ
 ==
 -->
