@@ -42,7 +42,7 @@ Ciclo:
 | 1.1 | 24/08/2023 | Andres Christian Reynoso | Se ha completado la estructura del archivo, asi mismo, se han agregado las preguntas para la entrevista, al igual que se inicio con el proceso de EventStorming |
 | 1.2 | 31/08/2023 | Andres Christian Reynoso | Se desarrollaron las preguntas para las entrevistas, de igual manera se esta finalizando el proceso de Eventstorming |
 | 1.3 | 06/09/2023 | Andres Christian Reynoso | Se completaron los capitulos 1, 2 y 3 |
-| 1.4 | 07/09/2023 | Andres Christian Reynoso | Se completaron todos lo |
+| 1.4 | 07/09/2023 | Andres Christian Reynoso | Se completaron todo los capitulos relacionados al entregable TB1 |
 
 ## Project Report Collaboration Insights
 
@@ -956,5 +956,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAzMjM4NywxNzM0ODIxNDIwXX0=
+eyJoaXN0b3J5IjpbMjc0NDY1MzE4XX0=
 -->
