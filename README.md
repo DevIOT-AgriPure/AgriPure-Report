@@ -692,15 +692,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 		- 4.1.3.1. Software Architecture System Landscape Diagram. 
 		- 4.1.3.2. Software Architecture Context Level Diagrams. 
 		- 4.1.3.2. Software Architecture Container Level Diagrams.
-		
-		Bounded Context: Crop Management
-		![Container Crop Management](https://media.discordapp.net/attachments/912089666939916348/1149456748999090336/Untitled_Diagram.drawio.png?width=664&height=669)
-
-Bounded Context: Knowledge Management
-
-![Container Knowledge Management](https://media.discordapp.net/attachments/912089666939916348/1149460248898326618/Untitled_Diagram.drawio_1.png?width=811&height=608)
-
-- 4.1.3.3. Software Architecture Deployment Diagrams. 
+		- 4.1.3.3. Software Architecture Deployment Diagrams. 
 
 - 4.2. Tactical-Level Domain-Driven Design.
 
@@ -887,5 +879,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTkwMDAwNV19
+eyJoaXN0b3J5IjpbLTE5NzQxMjA0NDMsLTYwMTkwMDAwNV19
 -->
