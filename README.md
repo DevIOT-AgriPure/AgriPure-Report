@@ -559,7 +559,19 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Relacionado con |
 |-----------|-----------|-----------|-----------|-----------|
-| US001    | Registro de usuario    | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios    | Fila 1    | EP002    |
+| US001    | Registro de usuario    | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios    | **Escenario: Registro de cuenta exitoso.** Dado que el usuario tiene una cuenta de correo electrónico Y el usuario se encuentra en la pestaña Login - Registrarse de la aplicación Cuando el usuario ingrese todos sus datos en el formulario Y el usuario seleccione “Registrarse” Entonces la aplicación le mostrará un mensaje de “Cuenta registrada con éxito”. **Escenario: Registro erróneo de cuenta.** Dado que el usuario tiene un correo electrónico Y el usuario se encuentra en la pestaña de Login - Registrarse Cuando el usuario ingrese sus datos en el formulario Y haya ingresado algún valor incorrecto Entonces la aplicación le mostrará un mensaje de “Alguno de los datos ingresados son incorrectos”.
+
+Escenario: Iniciar sesión en cuenta existente
+
+Dado que el usuario ya se registró en la aplicación anteriormente
+
+Y el usuario se encuentra en la pestaña de Login - Inicio de sesión
+
+Cuando el usuario ingrese sus datos
+
+Entonces la aplicación le mostrará un mensaje de “Sesión iniciado con éxito”
+
+Y la aplicación mostrará al usuario la pantalla principal    | EP002    |
 | US002    | Cerrar sesión de usuario    | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | Fila 2    | EP002     |
 | US003    | Actualización de datos del usuario    | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente | Fila 3    | EP002    |
 | US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | Fila 4    | EP001     |
@@ -728,5 +740,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjQ5ODczM119
+eyJoaXN0b3J5IjpbNzg1OTc4NjY1LDE5MTI0OTg3MzNdfQ==
 -->
