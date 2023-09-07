@@ -575,10 +575,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US014   | Aplicación tolerante a fallos   | Fila 14   | Fila 14   | EP004    |
 | US015   | Aplicación responsive   | Fila 15   | Fila 15   | EP004    |
 | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | Escenario: El usuario usa las funciones. Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades   | EP004    |
-| US017   | Aceptar mensajes de agricultor   | Fila 17   | Fila 17   | EP002    |
-| US018   | Fila 18   | Fila 18   | Fila 18   | EP002    |
-| US019   | Fila 19   | Fila 19   | Fila 19   | EP002    |
-| US020   | Fila 20   | Fila 20   | Fila 20   | EP002    |
+| US017   | Aceptar mensajes de otros agricultores   | Fila 17   | Fila 17   | EP002    |
+| US018   | Usar la camara para registrar cultivos   | Fila 18   | Fila 18   | EP002    |
+| US019   | Seleccionar un plan   | Fila 19   | Fila 19   | EP002    |
+| US020   | Cambiar de Plan  | Fila 20   | Fila 20   | EP002    |
 | US021   | Fila 21   | Fila 21   | Fila 21   | EP002    |
 | US022   | Fila 22   | Fila 22   | Fila 22   | EP002    |
 | US023   | Fila 23   | Fila 23   | Fila 23   | EP002    |
@@ -730,5 +730,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAxODY5MTksNjM2NzgwMzddfQ==
+eyJoaXN0b3J5IjpbLTE3NTA3MzQ2NSw2MzY3ODAzN119
 -->
