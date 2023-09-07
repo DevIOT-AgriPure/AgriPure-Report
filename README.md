@@ -955,10 +955,13 @@ Metodos:
 - 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
 ![Component Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149460248898326618/Untitled_Diagram.drawio_1.png?width=811&height=608)
 -  4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
-		- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
-		- 4.2.4.6.2. Bounded Context Database Design Diagram.
 
-	- **4.2.5. Bounded Context: Notifications**
+	- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
+	- 4.2.4.6.2. Bounded Context Database Design Diagram.
+
+![Database Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149491679057956934/image.png?width=703&height=506)
+
+- **4.2.5. Bounded Context: Notifications**
    
 	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
 	
@@ -1023,5 +1026,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg1OTAwOTBdfQ==
+eyJoaXN0b3J5IjpbMTk3NTgwMDI2MF19
 -->
