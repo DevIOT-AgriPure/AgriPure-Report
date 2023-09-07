@@ -542,9 +542,9 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ***Segmento 2: Especialistas***
 
-| Steps | Descubrimiento e interes | Descubrimiento de AgriPure | Adopcion y uso inicial | Integracion y beneficios continuos | 
+| Steps | Descubrimiento e interes | Descubrimiento de AgriPure | Adopcion y uso inicial | Integracion continua | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista ve que en AgriPure puede ofrecerse para ayudar a otros |  | 
+| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista ve que en AgriPure puede ofrecerse para ayudar a otros | El especialista agrega sus datos y se postula como especialista de  | 
 | Thinking | Como sere capaz de apoyar a otros agricultores? | Sera esta mi oportunidad? |  |  | 
 | Feeling | Curiosidad | Emocion y Anticipacion | Entusiasmo | Satisfaccion | 
 
@@ -558,7 +558,6 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | EP004 | Definición de requisitos no funcionales | Como usuario deseo que la aplicación móvil cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
 
 - 3.3. Impact Mapping.
-
 
 ***Segmento 1: Agricultores***
 
@@ -703,5 +702,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTM3NzY0NSwtMTM3NDQ4NjUwNF19
+eyJoaXN0b3J5IjpbMTc4MjQwMjI0NiwtMTM3NDQ4NjUwNF19
 -->
