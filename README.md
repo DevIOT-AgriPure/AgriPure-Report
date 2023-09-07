@@ -201,7 +201,7 @@ Ciclo:
 |Bruno Moisés Palomino Santa Cruz|Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.|
 |Diego Talledo Sanchez|  |
 |Franchesco Alexis Soto Morales|  |
-|Frank Yamil Alva Cordova|  |
+|Frank Yamil Alva Cordova| Mi sombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.|
 
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
