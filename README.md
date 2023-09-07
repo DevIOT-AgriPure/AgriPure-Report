@@ -602,8 +602,8 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 
 | #Orden | Story ID | Titulo | Descripcion | Story Points |
 |-----------|-----------|-----------|-----------|-----------|
-| 1    | Fila 1    | Fila 1    | Fila 1    | Fila 1    |
-| 2    | Fila 2    | Fila 2    | Fila 2    | Fila 2    |
+| 1    | US004    | Fila 1    | Fila 1    | Fila 1    |
+| 2    | US005    | Fila 2    | Fila 2    | Fila 2    |
 | 3    | Fila 3    | Fila 3    | Fila 3    | Fila 3    |
 | 4    | Fila 4    | Fila 4    | Fila 4    | Fila 4    |
 | 5    | Fila 5    | Fila 5    | Fila 5    | Fila 5    |
@@ -622,8 +622,8 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
 | 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
 | 20   | Fila 20   | Fila 20   | Fila 20   | Fila 20   |
-| 21   | US001   | Fila 21   | Fila 21   | 8   |
-| 22   | US002   | Fila 22   | Fila 22   | 2   |
+| 21   | US001   | Registro de usuario   | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios   | 8   |
+| 22   | US002   | Cerrar sesión de usuario   | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | 2   |
 | 23   | US003   | Actualización de datos del usuario   | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente   | 3   |
 
 
@@ -763,5 +763,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDMzNzcwMCwtMTExNDkzOTg5OF19
+eyJoaXN0b3J5IjpbLTEzNTg0OTc5NjUsLTExMTQ5Mzk4OThdfQ
+==
 -->
