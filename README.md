@@ -769,8 +769,8 @@ Metodos:
 
 - 4.2.3.3. Application Layer. 
 
-	- Nombre: CropController
-	- Categoria: Controller
+	- Nombre: addplant.event
+	- Categoria: EventHandler
 	- Proposito: Controlador de los cultivos
 
 - 4.2.3.4. Infrastructure Layer. 
@@ -873,5 +873,6 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNzUyMDA4LC0xMjQ2MzcyOTg3XX0=
+eyJoaXN0b3J5IjpbLTE5MjcyMTcyMTgsNzIwNzUyMDA4LC0xMj
+Q2MzcyOTg3XX0=
 -->
