@@ -523,10 +523,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 - 2.3.3. User Journey Mapping.
 
 ***Segmento 1: Agricultores***
-![Empathy Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149144062583115776/image.png?width=858&height=669)
+![User Journey Map Agricultores](https://media.discordapp.net/attachments/912089666939916348/1149144062583115776/image.png?width=858&height=669)
 
 ***Segmento 2: Especialistas***
 
+![User Journey Map Especialilstas](https://media.discordapp.net/attachments/877599577073647676/1149356844012282037/Customer_journey_map_1.png?width=2218&height=1614)
 - 2.3.4. Empathy Mapping.
 
 ***Segmento 1: Agricultores***
@@ -784,5 +785,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDc2MjAzNiwtMTQ5MDExMjE2Nl19
+eyJoaXN0b3J5IjpbLTEzMDYzODM3OTddfQ==
 -->
