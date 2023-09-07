@@ -525,9 +525,9 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Steps | Descubrimiento e interes | Investiga por internet | Ingresa a un enlace de internet | Obtiene cierta informacion | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista busca por internet formas de contactarse con otros agricultores | El especialista ingresa a una pagina comun y corriente | 
-| Thinking | Como sere capaz de apoyar a otros agricultores? | No veo muchas paginas buenas | Supongo |  | 
-| Feeling | Curiosidad | Decepcion |  |  | 
+| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista busca por internet formas de contactarse con otros agricultores | El especialista ingresa a una pagina comun y corriente | El especialista no recibe ningun contacto, ya que la mayoria de los usuarios no estan interesados en agricultura.
+| Thinking | Como sere capaz de apoyar a otros agricultores? | No veo muchas paginas buenas | Supongo que podre registrarme aqui | No hay nadie que me contacte | 
+| Feeling | Curiosidad | Decepcion | Preocupacion | Tristeza | 
 
 ## Capítulo III: Requirements Specification
 - 3.1. To-Be Scenario Mapping.
@@ -702,5 +702,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzNjgzNDA5LDIwOTYyNTgxMzNdfQ==
+eyJoaXN0b3J5IjpbNjM2NzgwMzddfQ==
 -->
