@@ -598,6 +598,35 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 - 3.4. Product Backlog.
 
+Link del Trello en donde se ubica nuestro Product Backlog:
+
+| #Orden | Columna 2 | Columna 3 | Columna 4 | Columna 5 |
+|-----------|-----------|-----------|-----------|-----------|
+| 1    | Fila 1    | Fila 1    | Fila 1    | Fila 1    |
+| 2    | Fila 2    | Fila 2    | Fila 2    | Fila 2    |
+| 3    | Fila 3    | Fila 3    | Fila 3    | Fila 3    |
+| 4    | Fila 4    | Fila 4    | Fila 4    | Fila 4    |
+| 5    | Fila 5    | Fila 5    | Fila 5    | Fila 5    |
+| 6    | Fila 6    | Fila 6    | Fila 6    | Fila 6    |
+| 7    | Fila 7    | Fila 7    | Fila 7    | Fila 7    |
+| 8    | Fila 8    | Fila 8    | Fila 8    | Fila 8    |
+| 9    | Fila 9    | Fila 9    | Fila 9    | Fila 9    |
+| 10   | Fila 10   | Fila 10   | Fila 10   | Fila 10   |
+| 11   | Fila 11   | Fila 11   | Fila 11   | Fila 11   |
+| 12   | Fila 12   | Fila 12   | Fila 12   | Fila 12   |
+| 13   | Fila 13   | Fila 13   | Fila 13   | Fila 13   |
+| Fila 14   | Fila 14   | Fila 14   | Fila 14   | Fila 14   |
+| Fila 15   | Fila 15   | Fila 15   | Fila 15   | Fila 15   |
+| Fila 16   | Fila 16   | Fila 16   | Fila 16   | Fila 16   |
+| Fila 17   | Fila 17   | Fila 17   | Fila 17   | Fila 17   |
+| Fila 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
+| Fila 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
+| Fila 20   | Fila 20   | Fila 20   | Fila 20   | Fila 20   |
+| Fila 21   | Fila 21   | Fila 21   | Fila 21   | Fila 21   |
+| Fila 22   | Fila 22   | Fila 22   | Fila 22   | Fila 22   |
+| Fila 23   | Fila 23   | Fila 23   | Fila 23   | Fila 23   |
+
+
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Domain-Driven Design. 
 	- 4.1.1. EventStorming. 	
@@ -734,5 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ5Mzk4OThdfQ==
+eyJoaXN0b3J5IjpbLTg3NjM4Mzc0MiwtMTExNDkzOTg5OF19
 -->
