@@ -177,6 +177,12 @@ Ciclo:
 
 # Student Outcome
 
+| Criterio Especifico | Acciones Realizadas | Conclusiones |
+|-----------|-----------|-----------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1):    | Fila 1    |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Fila 2    | Fila 2    |
+
+
 ## Capítulo I: Introducción
 ### 1.1. Startup Profile
 - 1.1.1. Descripción de la Startup
@@ -796,5 +802,5 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzczMjMwNl19
+eyJoaXN0b3J5IjpbLTE0NzM4OTY4MDEsMTA0NzczMjMwNl19
 -->
