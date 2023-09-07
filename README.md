@@ -575,7 +575,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US014   | Aplicación tolerante a fallos   | Como usuario deseo que la aplicación sea tolerante a fallos para que pueda resistir el ingreso de múltiples usuarios a la vez   | **Escenario: Ingreso masivo de usuarios** Dado que la aplicación se encuentra funcionando Cuando la aplicación reciba una gran cantidad de usuarios Entonces la aplicación será capaz de soportar a los usuarios Y la aplicación continuará con sus funciones correctamente   | EP004    |
 | US015   | Aplicación responsive   | Como usuario deseo que la aplicación móvil sea totalmente responsive para poder usarlo desde distintos dispositivos   | **Escenario: Usuario ingresa desde distintos dispositivos** Dado que el usuario utiliza la aplicación móvil Cuando el usuario ingresa a la aplicación desde distintos dispositivos Entonces la aplicación se adaptará a todos Y continuará funcional y visualmente estable   | EP004    |
 | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | **Escenario: El usuario usa las funciones.** Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades   | EP004    |
-| US017   | Aceptar mensajes de otros agricultores   | Fila 17Como especialista, deseo aceptar las solicitudes de los otros agricultore   | Fila 17   | EP002    |
+| US017   | Aceptar mensajes de otros agricultores   | Fila 17Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   | **Escenario: El especialista acepta la solicitud.** Dado que el especialista see encuentre en un chat con un agricultor Cuando le de a "Aceptar mensajes". Entonces podra iniciar la conversacion con el otro agricultor | EP002    |
 | US018   | Usar la camara para registrar cultivos   | Fila 18   | Fila 18   | EP002    |
 | US019   | Seleccionar un plan   | Fila 19   | Fila 19   | EP002    |
 | US020   | Cambiar de Plan  | Fila 20   | Fila 20   | EP002    |
@@ -728,6 +728,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAxMTc0MTIsLTE2Mjc3MDMzMjBdfQ
-==
+eyJoaXN0b3J5IjpbLTY4MTU1MjMxOCwtMTYyNzcwMzMyMF19
 -->
