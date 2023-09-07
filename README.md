@@ -474,10 +474,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | Tener una interfaz practica y facil de usar    | Fila 2    | Fila 2    |
 | Aceptar tarjetas para pagos   | Fila 3    | Fila 3    |
 | Tenga una guia de eleccion de tierra y planta a sembrar | Fila 4    | Fila 4    |
-| Fila 5    | Fila 5    | Fila 5    |
-| Fila 6    | Fila 6    | Fila 6    |
-| Fila 7    | Fila 7    | Fila 7    |
-| Fila 8    | Fila 8    | Fila 8    |
+| Cuente con un caldendario para las fechas de fumigacion o fertilizacion    | Fila 5    | Fila 5    |
+| Sea compatible con diferentes dispositivos o sistemas operativos   | Fila 6    | Fila 6    |
+| Pueda crear o visualizar las parcelas e indice de vegetacion   | Fila 7    | Fila 7    |
+| Informe sobre la distancia entre siembras y     | Fila 8    | Fila 8    |
 | Fila 9    | Fila 9    | Fila 9    |
 | Fila 10   | Fila 10   | Fila 10   |
 | Fila 11   | Fila 11   | Fila 11   |
@@ -690,6 +690,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIwNTg1NzAsMTQ5OTM1OTI2OSw4Mj
+eyJoaXN0b3J5IjpbLTIwMTc5MTE4MjgsMTQ5OTM1OTI2OSw4Mj
 U1MzMwMjJdfQ==
 -->
