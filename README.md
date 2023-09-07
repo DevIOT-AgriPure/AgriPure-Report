@@ -622,9 +622,9 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
 | 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
 | 20   | Fila 20   | Fila 20   | Fila 20   | Fila 20   |
-| 21   | US001   | Fila 21   | Fila 21   | Fila 21   |
-| 22   | US002   | Fila 22   | Fila 22   | Fila 22   |
-| 23   | US003   | Fila 23   | Fila 23   | Fila 23   |
+| 21   | US001   | Fila 21   | Fila 21   | 8   |
+| 22   | US002   | Fila 22   | Fila 22   | 2   |
+| 23   | US003   | Actualización de datos del usuario   | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente   | 3   |
 
 
 ## Capítulo IV: Solution Software Design 
@@ -763,5 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mzg0NzIsLTExMTQ5Mzk4OThdfQ==
+eyJoaXN0b3J5IjpbMTQzNDMzNzcwMCwtMTExNDkzOTg5OF19
 -->
