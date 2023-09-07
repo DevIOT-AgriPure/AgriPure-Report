@@ -788,10 +788,11 @@ Metodos:
 Metodos:
 | Nombre | Tipo de Retorno | Visibilidad |
 |-----------|-----------|-----------|
-| GetAll | Tipo de Retorno | Visibilidad |
-| GetBy | Tipo de Retorno | Visibilidad |
-| Nombre | Tipo de Retorno | Visibilidad |
-| Nombre | Tipo de Retorno | Visibilidad |
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
 
 - 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
 -  4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
@@ -892,5 +893,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjMwNDk0MCwtNjAxOTAwMDA1XX0=
+eyJoaXN0b3J5IjpbLTYyOTczNjcxLC02MDE5MDAwMDVdfQ==
 -->
