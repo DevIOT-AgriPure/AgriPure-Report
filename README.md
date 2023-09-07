@@ -578,7 +578,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US014   | Aplicación tolerante a fallos   | Como usuario deseo que la aplicación sea tolerante a fallos para que pueda resistir el ingreso de múltiples usuarios a la vez   | **Escenario: Ingreso masivo de usuarios** Dado que la aplicación se encuentra funcionando Cuando la aplicación reciba una gran cantidad de usuarios Entonces la aplicación será capaz de soportar a los usuarios Y la aplicación continuará con sus funciones correctamente   | EP004    |
 | US015   | Aplicación responsive   | Como usuario deseo que la aplicación móvil sea totalmente responsive para poder usarlo desde distintos dispositivos   | **Escenario: Usuario ingresa desde distintos dispositivos** Dado que el usuario utiliza la aplicación móvil Cuando el usuario ingresa a la aplicación desde distintos dispositivos Entonces la aplicación se adaptará a todos Y continuará funcional y visualmente estable   | EP004    |
 | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | **Escenario: El usuario usa las funciones.** Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades   | EP004    |
-| US017   | Aceptar mensajes de otros agricultores   | Fila 17Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   | **Escenario: El especialista acepta la solicitud.** Dado que el especialista see encuentre en un chat con un agricultor Cuando le de a "Aceptar mensajes". Entonces podra iniciar la conversacion con el otro agricultor | EP001    |
+| US017   | Aceptar mensajes de otros agricultores   | Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   | **Escenario: El especialista acepta la solicitud.** Dado que el especialista see encuentre en un chat con un agricultor Cuando le de a "Aceptar mensajes". Entonces podra iniciar la conversacion con el otro agricultor | EP001    |
 | US018   | Usar la camara para registrar cultivos   | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil   | **Escenario: El usuario usa la camara.** Dado que el usuario quiere registrar su cultivo, cuando va a la aplicacion en la seccion de fotografia, y le salga la opcion de prender camara Cuando tome una foto a su cultivo, entonces el sistema reconocera automaticamente la imagen gracias a los datos internos de la app.    | EP001    |
 | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure   | **Escenario: El usuario selecciona un plan.** Dado que el usuario quiera seleccionar un plan, cuando se cree una cuenta personal, entonces le saldra la opcion de escoger un plan.   | EP002    |
 | US020   | Mejorar su Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades   | **Escenario: El usuario cambia de plan.** Dado que el usuario quiera mejorar su plan, cuando vaya a las opciones de su cuenta, entonces podra mejorar su plan a un precio especifico.  | EP002    |
@@ -607,15 +607,15 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 3    | US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso   | 3    |
 | 4    | US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | 3    |
 | 5    | US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | 5    |
-| 6    | US009    | Fechas de fertilización    | Fila 6    | 5    |
-| 7    | US010    | Contacto a Especialista    | Fila 7    | 8    |
-| 8    | US011    | Botón call to action    | Fila 8    | 3    |
-| 9    | US012    | Visualización de redes sociales    | Fila 9    | 2    |
-| 10   | US013   | Visualización de características de aplicación  | Fila 10   | 3   |
-| 11   | US014   | Aplicación tolerante a fallos   | Fila 11   | 5   |
-| 12   | US015   | Aplicación responsive   | Fila 12   | 5   |
-| 13   | US016   | Aplicación intuitiva   | Fila 13   | 5   |
-| 14   | US017   | Aceptar mensajes de otros agricultores   | Fila 14   |    |
+| 6    | US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.   | 5    |
+| 7    | US010    | Contacto a Especialista    | Como usuario deseo poder contactar a un especialista para que me pueda ayudar y aconsejarme.   | 8    |
+| 8    | US011    | Botón call to action    | Como usuario deseo que el landing page posea un botón call-to-action para poder descargar directamente hacia la aplicación    | 3    |
+| 9    | US012    | Visualización de redes sociales    | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.    | 2    |
+| 10   | US013   | Visualización de características de aplicación  | Como usuario deseo poder visualizar las características que posee la aplicación en el landing page para estar informado de lo que se me ofrece.   | 3   |
+| 11   | US014   | Aplicación tolerante a fallos   | Como usuario deseo que la aplicación sea tolerante a fallos para que pueda resistir el ingreso de múltiples usuarios a la vez   | 5   |
+| 12   | US015   | Aplicación responsive   | Como usuario deseo que la aplicación sea totalmente responsive para poder usarlo desde distintos dispositivos  | 5   |
+| 13   | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | 5   |
+| 14   | US017   | Aceptar mensajes de otros agricultores   | Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   |    |
 | 15   | US018   | Usar la camara para registrar cultivos   | Fila 15   |    |
 | 16   | US019   | Seleccionar un plan   | Fila 16   | Fila 16   |
 | 17   | US020   | Mejorar su Plan  | Fila 17   | Fila 17   |
@@ -763,6 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI4MjczNTYsLTExMTQ5Mzk4OThdfQ
-==
+eyJoaXN0b3J5IjpbLTk0OTA4Mjg2OCwtMTExNDkzOTg5OF19
 -->
