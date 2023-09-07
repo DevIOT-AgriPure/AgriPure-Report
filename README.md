@@ -600,7 +600,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 Link del Trello en donde se ubica nuestro Product Backlog:
 
-| #Orden | Columna 2 | Columna 3 | Columna 4 | Columna 5 |
+| #Orden | Story ID | Titulo | Descripcion | Story Points |
 |-----------|-----------|-----------|-----------|-----------|
 | 1    | Fila 1    | Fila 1    | Fila 1    | Fila 1    |
 | 2    | Fila 2    | Fila 2    | Fila 2    | Fila 2    |
@@ -615,16 +615,16 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 11   | Fila 11   | Fila 11   | Fila 11   | Fila 11   |
 | 12   | Fila 12   | Fila 12   | Fila 12   | Fila 12   |
 | 13   | Fila 13   | Fila 13   | Fila 13   | Fila 13   |
-| Fila 14   | Fila 14   | Fila 14   | Fila 14   | Fila 14   |
-| Fila 15   | Fila 15   | Fila 15   | Fila 15   | Fila 15   |
-| Fila 16   | Fila 16   | Fila 16   | Fila 16   | Fila 16   |
-| Fila 17   | Fila 17   | Fila 17   | Fila 17   | Fila 17   |
-| Fila 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
-| Fila 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
-| Fila 20   | Fila 20   | Fila 20   | Fila 20   | Fila 20   |
-| Fila 21   | Fila 21   | Fila 21   | Fila 21   | Fila 21   |
-| Fila 22   | Fila 22   | Fila 22   | Fila 22   | Fila 22   |
-| Fila 23   | Fila 23   | Fila 23   | Fila 23   | Fila 23   |
+| 14   | Fila 14   | Fila 14   | Fila 14   | Fila 14   |
+| 15   | Fila 15   | Fila 15   | Fila 15   | Fila 15   |
+| 16   | Fila 16   | Fila 16   | Fila 16   | Fila 16   |
+| 17   | Fila 17   | Fila 17   | Fila 17   | Fila 17   |
+| 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
+| 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
+| 20   | Fila 20   | Fila 20   | Fila 20   | Fila 20   |
+| 21   | US001   | Fila 21   | Fila 21   | Fila 21   |
+| 22   | US002   | Fila 22   | Fila 22   | Fila 22   |
+| 23   | US003   | Fila 23   | Fila 23   | Fila 23   |
 
 
 ## Capítulo IV: Solution Software Design 
@@ -763,5 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjM4Mzc0MiwtMTExNDkzOTg5OF19
+eyJoaXN0b3J5IjpbMTk1Mzg0NzIsLTExMTQ5Mzk4OThdfQ==
 -->
