@@ -753,7 +753,7 @@ Proposito: Registro y control de Plantas
 	- Proposito: Registro automatico de plantas por medio de fotos.
 
 	- Atributos:
-| Nombre | Tipo de Dato | Columna 3 | Columna 4 |
+| Nombre | Tipo de Dato |Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
 | Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 |
 | Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 |
@@ -835,5 +835,5 @@ Proposito: Registro y control de Plantas
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODAyMzI0MCwtMjAzMTEyMjY0MF19
+eyJoaXN0b3J5IjpbLTQ3Mzc5NzY2MiwtMjAzMTEyMjY0MF19
 -->
