@@ -842,16 +842,19 @@ Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 |
-| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 |
-| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 |
-| Fila 4, C1 | Fila 4, C2 | Fila 4, C3 | Fila 4, C4 |
-| Fila 5, C1 | Fila 5, C2 | Fila 5, C3 | Fila 5, C4 |
-| Fila 6, C1 | Fila 6, C2 | Fila 6, C3 | Fila 6, C4 |
+| id | Long | private | Id de la foto |
+| image | String | private | Imagen tomada por el usuario|
 
-	- Nombre: Crop
-	- Categoria: Entity
-	- Proposito: El elemento principal de la aplicacion, siendo los cultivos
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de la foto |
+| getPhoto | void | public | Metodo para obtener la foto |
+
+- Nombre: Crop
+- Categoria: Entity
+- Proposito: El elemento principal de la aplicacion, siendo los cultivos
 
 Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
@@ -870,6 +873,7 @@ Metodos:
 |-----------|-----------|-----------|-----------|
 | Constructor | void | public | Constructor de cultivo |
 | getPlant | void | public | Metodo para obtener la planta |
+
 - 4.2.4.2. Interface Layer. 
 - 4.2.4.3. Application Layer. 
 - 4.2.4.4. Infrastructure Layer. 
@@ -942,6 +946,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA0MTI3MTcsMTY5NzI5MTY4MSwtMT
-g5NjkyMjg1NV19
+eyJoaXN0b3J5IjpbMzg2NDk2Mjc5XX0=
 -->
