@@ -461,19 +461,6 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 - 2.3.1. User Personas.
 
 ***Segmento 1: Agricultores***
-| User Task | Frecuencia | Importancia |
-|-----------|-----------|-----------|
-| Fila 1    | Fila 1    | Fila 1    |
-| Fila 2    | Fila 2    | Fila 2    |
-| Fila 3    | Fila 3    | Fila 3    |
-| Fila 4    | Fila 4    | Fila 4    |
-| Fila 5    | Fila 5    | Fila 5    |
-| Fila 6    | Fila 6    | Fila 6    |
-| Fila 7    | Fila 7    | Fila 7    |
-| Fila 8    | Fila 8    | Fila 8    |
-| Fila 9    | Fila 9    | Fila 9    |
-| Fila 10   | Fila 10   | Fila 10   |
-| Fila 11   | Fila 11   | Fila 11   |
 
 ***Segmento 2: Especialistas***
 
@@ -481,7 +468,19 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ***Segmento 1: Agricultores***
 
-
+| User Task | Frecuencia | Importancia |
+|-----------|-----------|-----------|
+| Se pueda crear una cuenta   | Fila 1    | Fila 1    |
+| Tener una interfaz practica y facil de usar    | Fila 2    | Fila 2    |
+| Aceptar tarjetas para pagos   | Fila 3    | Fila 3    |
+| Tenga una guia de eleccion de tierra y planta a sembrar | Fila 4    | Fila 4    |
+| Fila 5    | Fila 5    | Fila 5    |
+| Fila 6    | Fila 6    | Fila 6    |
+| Fila 7    | Fila 7    | Fila 7    |
+| Fila 8    | Fila 8    | Fila 8    |
+| Fila 9    | Fila 9    | Fila 9    |
+| Fila 10   | Fila 10   | Fila 10   |
+| Fila 11   | Fila 11   | Fila 11   |
 
 ***Segmento 2: Especialistas***
 
@@ -691,6 +690,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODg4ODM1MCwxNDk5MzU5MjY5LDgyNT
-UzMzAyMl19
+eyJoaXN0b3J5IjpbLTE2NzIwNTg1NzAsMTQ5OTM1OTI2OSw4Mj
+U1MzMwMjJdfQ==
 -->
