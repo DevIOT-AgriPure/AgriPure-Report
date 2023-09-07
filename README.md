@@ -737,13 +737,13 @@ Proposito: El elemento principal de la aplicacion, siendo los cultivos
 Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| id | Long | private | Fila 1, C4 |
-| name | String | private | Fila 2, C4 |
-| cientific_name | String | private | Fila 3, C4 |
-| cycle | Fila 4, C2 | private | Fila 4, C4 |
-| watering | Fila 5, C2 | private | Fila 5, C4 |
-| sunlight | Fila 6, C2 | private | Fila 6, C4 |
-| image | Fila 6, C2 | private | Fila 6, C4 |
+| id | Long | private | Id del cultivo |
+| name | String | private | Nombre del cultivo |
+| cientific_name | String | private | Nombre cientifico del cultivo |
+| cycle | String | private | Informacion sobre el ciclo de cultivo |
+| watering | String | private | Informacion sobre el riego de cultivo |
+| sunlight | String | private | Informacion sobre la temperatura adecuada de cultivo |
+| image | String | private | Imagen del cultivo |
 
 - 4.2.3.2. Interface Layer. 
 - 4.2.3.3. Application Layer. 
@@ -847,5 +847,5 @@ Atributos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDAwMDAyMCwtMjAzMTEyMjY0MF19
+eyJoaXN0b3J5IjpbLTYyMjk0MjY1OCwtMjAzMTEyMjY0MF19
 -->
