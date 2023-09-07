@@ -198,7 +198,7 @@ Ciclo:
 | Nombre| Descripción| 
 |-----------|-----------|
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios. |
-|Bruno Moisés Palomino Santa Cruz|  | Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.
+|Bruno Moisés Palomino Santa Cruz|Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.|
 |Diego Talledo Sanchez|  |
 |Franchesco Alexis Soto Morales|  |
 |Frank Yamil Alva Cordova|  |
@@ -784,5 +784,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODYwMzgwMCw3NDQ3NDg1MjBdfQ==
+eyJoaXN0b3J5IjpbLTE0OTAxMTIxNjZdfQ==
 -->
