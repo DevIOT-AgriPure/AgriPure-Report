@@ -479,8 +479,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | Pueda crear o visualizar las parcelas e indice de vegetacion   | Fila 7    | Fila 7    |
 | Informe sobre la distancia entre siembras y la profundidad    | Fila 8    | Fila 8    |
 | Brinde el pronostico de tiempo respecto a mi ubicacion    | Fila 9    | Fila 9    |
-| Permita recibir notificaciones   | Fila 10   | Fila 10   |
-| Fila 11   | Fila 11   | Fila 11   |
+| Permita recibir notificaciones desde su dispositivo  | Fila 10   | Fila 10   |
 
 ***Segmento 2: Especialistas***
 
@@ -690,6 +689,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjkyODI0LDE0OTkzNTkyNjksODI1NT
-MzMDIyXX0=
+eyJoaXN0b3J5IjpbLTE4NDYzMjA5MjAsMTQ5OTM1OTI2OSw4Mj
+U1MzMwMjJdfQ==
 -->
