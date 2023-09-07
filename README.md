@@ -911,6 +911,15 @@ Metodos:
 
 - 4.2.4.3. Application Layer. 
 
+	- Nombre: matchphoto.event
+	- Categoria: EventHandler
+	- Proposito: Gestiona el reconocimiento de la foto con el cultivo
+	
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| handle| void | public |
+
 - 4.2.4.4. Infrastructure Layer. 
 
 	- Nombre: PhotoRepository
@@ -1007,5 +1016,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTgzNTI0Ml19
+eyJoaXN0b3J5IjpbLTE0MDQ0ODIzNDcsLTY4OTgzNTI0Ml19
 -->
