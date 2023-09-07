@@ -749,7 +749,7 @@ El Bounded Context de Crop Management es un area que se enfoca en el registro y 
 Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| id | Long | private | Id del cultivo |
+| id | int | private | Id del cultivo |
 | name | String | private | Nombre del cultivo |
 | cientific_name | String | private | Nombre cientifico del cultivo |
 | cycle | String | private | Informacion sobre el ciclo de cultivo |
@@ -771,7 +771,7 @@ Metodos:
 Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| id | Long | private | Id de la lista |
+| id | int | private | Id de la lista |
 | Crop_id | Long | private | Id del cultivo|
 
 Metodos:
@@ -852,7 +852,7 @@ Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| id | Long | private | Id de la foto |
+| id | int | private | Id de la foto |
 | image | String | private | Imagen tomada por el usuario|
 
 Metodos:
@@ -869,7 +869,7 @@ Metodos:
 Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| id | Long | private | Id del cultivo |
+| id | int | private | Id del cultivo |
 | name | String | private | Nombre del cultivo |
 | cientific_name | String | private | Nombre cientifico del cultivo |
 | cycle | String | private | Informacion sobre el ciclo de cultivo |
@@ -1016,5 +1016,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ0ODIzNDddfQ==
+eyJoaXN0b3J5IjpbMTc1OTE2MTIxN119
 -->
