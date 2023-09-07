@@ -477,7 +477,7 @@ Entrevista #2:
 -  Residencia: Los Olivos
 - Duración: 7:32
 - Tecnologías: Windows, Android. 
-- Resumen: Richard actualmente vive en Los Olivos, es un estudiante universitario y trabaja en un negocio independiente. Se dedica a vender fertilizantes, ademas tiene conocimiento de agronomia. Nos dice que debido a la alza de los precios, algunos productos estan en subido, asi que recomienda algunas marcas economicas para poder adquirir sus productos.Menciona que actualmente hay mucha gente con pocos conocimientos o con falta de informacion de sus cultivos. Tambien comenta que esta interesado en los dispositivos IoT y estaria dispuesto a probarlos en su rubro. 
+- Resumen: Richard actualmente vive en Los Olivos, es un estudiante universitario y trabaja en un negocio independiente. Se dedica a vender fertilizantes, ademas tiene conocimiento de agronomia. Nos dice que debido a la alza de los precios, algunos productos estan de subido, asi que recomienda algunas marcas economicas para poder adquirir sus productos.Menciona que actualmente hay mucha gente con pocos conocimientos o con falta de informacion de sus cultivos. Tambien comenta que esta interesado en los dispositivos IoT y estaria dispuesto a probarlos en su rubro. 
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020026_upc_edu_pe/EVibNqboKx1Bou22mjCq8u0BArsLZvvhochs35TjYIomYQ?e=ShlZRL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 - 2.2.3. Análisis de entrevistas.
