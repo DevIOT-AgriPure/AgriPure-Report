@@ -559,10 +559,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Story ID | Titulo | Descripcion | Criterios de Aceptacion | Relacionado con |
 |-----------|-----------|-----------|-----------|-----------|
-| US001    | Fila 1    | Fila 1    | Fila 1    | EP002    |
-| US002    | Fila 2    | Fila 2    | Fila 2    | EP002     |
-| US003    | Fila 3    | Fila 3    | Fila 3    | EP002     |
-| US004    | Fila 4    | Fila 4    | Fila 4    | EP001     |
+| US001    | Registro de usuario    | Fila 1    | Fila 1    | EP002    |
+| US002    | Cerrar sesión de usuario    | Fila 2    | Fila 2    | EP002     |
+| US003    | Actualización de datos del usuario    | Fila 3    | Fila 3    | EP002     |
+| US004    | Selección de planta a sembrar    | Fila 4    | Fila 4    | EP001     |
 | US005    | Fila 5    | Fila 5    | Fila 5    | EP001     |
 | US006    | Fila 6    | Fila 6    | Fila 6    | EP001     |
 | US007    | Fila 7    | Fila 7    | Fila 7    | EP001     |
@@ -574,7 +574,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US013   | Fila 13   | Fila 13   | Fila 13   | EP003    |
 | US014   | Fila 14   | Fila 14   | Fila 14   | EP004    |
 | US015   | Fila 15   | Fila 15   | Fila 15   | EP004    |
-| US016   | Aplicación intuitiva   | <![endif]--> Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | Escenario: El usuario usa las funciones. Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación   | EP004    |
+| US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | Escenario: El usuario usa las funciones. Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades   | EP004    |
 | US017   | Fila 17   | Fila 17   | Fila 17   | EP002    |
 | US018   | Fila 18   | Fila 18   | Fila 18   | EP002    |
 | US019   | Fila 19   | Fila 19   | Fila 19   | EP002    |
@@ -730,5 +730,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MjQ1OTkwLDYzNjc4MDM3XX0=
+eyJoaXN0b3J5IjpbLTkwNjEyNTk1NSw2MzY3ODAzN119
 -->
