@@ -624,8 +624,6 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 - 3.4. Product Backlog.
 
-Link del Trello en donde se ubica nuestro Product Backlog:
-
 | #Orden | Story ID | Titulo | Descripcion | Story Points |
 |-----------|-----------|-----------|-----------|-----------|
 | 1    | US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | 8    |
@@ -785,13 +783,17 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 			- 4.2.9.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.9.6.2. Bounded Context Database Design Diagram.
 
+## Conclusiones
+
+## Anexos
+
+ANEXO A: Product Backlog
+
+
 
 Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBOamljTkwxbmdUMmVZSFM3RGRUMFkzek5SSTJkd3wzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=426406113622	
-
-
-Bounded Context Canvases:
-https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
+Bounded Context Canvases:https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA1MDg4MjQsODM0MjM2MjE5LC0xNj
-I4MTgyNDQxXX0=
+eyJoaXN0b3J5IjpbMTY0NDIxODg5MSw4MzQyMzYyMTksLTE2Mj
+gxODI0NDFdfQ==
 -->
