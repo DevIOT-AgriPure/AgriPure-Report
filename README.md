@@ -787,15 +787,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ## Anexos
 
-ANEXO A: Product Backlog
+**ANEXO A: Product Backlog**
 
-![Prod]()
-
-https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669
-
-Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBOamljTkwxbmdUMmVZSFM3RGRUMFkzek5SSTJkd3wzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=426406113622	
-Bounded Context Canvases:https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
+![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
+Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTAwODA0Miw4MzQyMzYyMTksLTE2Mj
+eyJoaXN0b3J5IjpbMTY0MDM1NTY4Niw4MzQyMzYyMTksLTE2Mj
 gxODI0NDFdfQ==
 -->
