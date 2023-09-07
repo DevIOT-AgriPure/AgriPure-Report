@@ -563,13 +563,9 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US002    | Cerrar sesión de usuario    | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | **Escenario: Acceso al botón de Cerrar Sesión.** Dado que el usuario se encuentra en la pantalla principal Y el usuario desee cerrar su sesión Cuando el usuario seleccione el botón de Configuraciones Entonces la aplicación le mostrará una serie de configuraciones, y entre ellas la opción de cerrar sesión. **Escenario: Confirmación de cierre de sesión.** Dado que el usuario se encuentra en la pestaña Configuraciones Y el usuario visualice la opción “Cerrar Sesión” Cuando el usuario seleccione dicha opción Entonces la aplicación le mostrará una pantalla de confirmación **Escenario: Cierre de sesión.** Dado que el usuario visualiza una pantalla de confirmación de cierre de sesión Cuando el usuario seleccione confirmar Entonces la aplicación cerrará su sesión Y mostrará la pantalla de Login    | EP002     |
 | US003    | Actualización de datos del usuario    | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente | **Escenario: Acceso a pestaña Información Personal.** Dado que el usuario quiere actualizar sus datos Cuando el usuario seleccione el botón de Configuraciones Entonces la aplicación le mostrará una serie de configuraciones, y entre ellas la opción de Información Personal **Escenario: Actualización de los datos.** Dado que el usuario se encuentra en la pestaña información Personal Cuando el usuario haya actualizado todos los datos que desee Y el usuario seleccione el botón “Aceptar” Entonces la aplicación le muestra una pequeña ventana de confirmación. **Escenario: Confirmación de cambios** Dado que el usuario se encuentra en la pequeña ventana de confirmación para actualización de datos Cuando el usuario seleccione Aceptar Entonces la aplicación actualizará los datos Y mostrará un mensaje diciendo “Datos actualizados correctamente”    | EP002    |
 | US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | **Escenario: Ingreso de nueva planta** Dado que el usuario se encuentra en la pantalla principal Cuando el usuario seleccione “Nueva planta” Entonces la aplicación le solicitará el nombre de la planta a sembrar **Escenario: Lista de posibles plantas buscadas** Dado que el usuario ya ingresó el nombre de la planta Cuando el usuario seleccione Buscar Entonces la aplicación le mostrará todas las opciones que coincidan con el nombre ingresado **Escenario: Selección de nueva planta** Dado que el usuario visualiza la lista de posibles plantas que busca Cuando el usuario seleccione una de las opciones Entonces la aplicación le mostrará una serie de información Y le dará la opción de Guardar nueva planta    | EP001     |
-| US005    | Guía de elección de tierra de sembrado    | Como usuario deseo saber qué tipo de tierra debe usarse por cada tipo de planta para que la siembra sea más eficiente    | **Escenario: Ver opciones de la planta guardada** Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas que ha guardado previamente Entonces la aplicación le mostrará una serie de opciones, entre ellas Ver tipo de tierra **Escenario: Visualizar la información sobre el tipo de tierra
-
-Dado que el usuario visualiza las opciones de la planta
-
-Cuando el usuario seleccione Ver tipo de tierra
-
-Entonces la aplicación le mostrará información acerca del tipo de tierra en el que debe plantar junto con otras indicaciones como el PH o el nivel de humedad
+| US005    | Guía de elección de tierra de sembrado    | Como usuario deseo saber qué tipo de tierra debe usarse por cada tipo de planta para que la siembra sea más eficiente    | **Escenario: Ver opciones de la planta guardada** Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas que ha guardado previamente Entonces la aplicación le mostrará una serie de opciones, entre ellas Ver tipo de tierra. **Escenario: Visualizar la información sobre el tipo de tierra** Dado que el usuario visualiza las opciones de la planta Cuando el usuario seleccione Ver tipo de tierra Entonces la aplicación le mostrará información acerca del tipo de tierra en el que debe plantar junto con otras indicaciones como el PH o el nivel de humedad. **Escenario: Ver opciones de la planta** Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas guardadas previamente Entonces la aplicación le mostrará la opción Distancia de siembra. **Escenario: Ver distancia entre plantas** Dado que el usuario visualiza las opciones de la planta Cuando el usuario seleccione la opción Distancia de siembra Entonces la aplicación le mostrará a forma de texto y gráficos la distancia óptima de siembra de la planta    | EP001     |
+| US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso    | Fila 6    | EP001     |
+| US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | <![endif]-->
 
 Escenario: Ver opciones de la planta
 
@@ -577,21 +573,87 @@ Dado que el usuario se encuentra en la aplicación
 
 Cuando el usuario seleccione alguna de las plantas guardadas previamente
 
-Entonces la aplicación le mostrará la opción Distancia de siembra
+Entonces la aplicación le mostrará la opción Profundidad de siembra
 
-Escenario: Ver distancia entre plantas
+Escenario: Ver profundidad al plantar
 
 Dado que el usuario visualiza las opciones de la planta
 
-Cuando el usuario seleccione la opción Distancia de siembra
+Cuando el usuario seleccione la opción Profundidad de siembra
 
-Entonces la aplicación le mostrará a forma de texto y gráficos la distancia óptima de siembra de la planta    | EP001     |
-| US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso    | Fila 6    | EP001     |
-| US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | Fila 7    | EP001     |
-| US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | Fila 8    | EP001     |
-| US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.    | Fila 9    | EP001     |
+Entonces la aplicación le mostrará un gráfico en el cual se mostrará la profundidad adecuada a la que se debe sembrar la planta    | EP001     |
+| US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | <![endif]-->
+
+Escenario: Generar fechas de fumigación
+
+Dado que el usuario guardó una planta previamente
+
+Y el usuario se encuentra en la pestaña de Opciones de la planta
+
+Cuando el usuario seleccione la opción Generar fechas de fumigación
+
+Entonces la aplicación mostrará en pantalla que días son los adecuados y los colocará en un calendario.
+
+Escenario: Visualizar fechas en calendario
+
+Dado que el usuario ya generó las fechas de fumigación de ciertas plantas
+
+Cuando el usuario ingresé al calendario desde la pantalla principal
+
+Entonces la aplicación le mostrará el calendario con las fechas en las que debe de fumigar la planta.    | EP001     |
+| US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.    | <![endif]-->
+
+Escenario: Generar fechas de fertilización
+
+Dado que el usuario guardó una planta previamente
+
+Y el usuario se encuentra en la pestaña de Opciones de la planta
+
+Cuando el usuario seleccione la opción Generar fechas de fertilización
+
+Entonces la aplicación mostrará en pantalla que días son los adecuados y los colocará en un calendario.
+
+Escenario: Visualizar fechas en calendario
+
+Dado que el usuario ya generó las fechas de fertilización de ciertas plantas
+
+Cuando el usuario ingresé al calendario desde la pantalla principal
+
+Entonces la aplicación le mostrará el calendario con las fechas en las que debe fertilizar la planta.
+
+Escenario: Acceso a la sección Expertos
+
+Dado que el usuario se encuentra en la pantalla principal
+
+Cuando el usuario seleccione el icono de especialistas en la parte inferior de la pantalla
+
+Entonces la aplicación lo redirigirá a la sección de Expertos.
+
+Escenario: Buscar a un especialista
+
+Dado que el usuario se encuentra en la pestaña Expertos
+
+Cuando el usuario seleccione en una categoría que necesite ayuda
+
+Entonces la aplicación le mostrara un listado de expertos que conocen cierto tema.
+
+Escenario: Contactar a un especialista
+
+Dado que el usuario se encuentra en la pestaña Expertos y encuentre a un especialista
+
+Cuando el usuario pulse la opción  “Detalles”.
+
+Entonces le mostrara la opción de contactar a ese especialista, al igual que ver información sobre ella.    | EP001     |
 | US010   | Contacto a Especialista   | Como usuario deseo poder contactar a un especialista para que me pueda ayudar y aconsejarme.   | Fila 10   | EP001    |
-| US011   | Botón call to action   | Como usuario deseo que el landing page posea un botón call-to-action para poder descargar directamente hacia la aplicación   | Fila 11   | EP003    |
+| US011   | Botón call to action   | Como usuario deseo que el landing page posea un botón call-to-action para poder descargar directamente hacia la aplicación   | <![endif]-->
+
+Escenario: Presión del botón CTA
+
+Dado que el usuario se encuentra en el landing page
+
+Cuando el usuario seleccione el botón Call to action llamado Descargar
+
+Entonces el sistema redirigirá a tienda virtual que posea el dispositivo para descargar la aplicación móvil.   | EP003    |
 | US012   | Visualización de redes sociales   | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.   | Fila 12   | EP003    |
 | US013   | Visualización de características de aplicación   | Como usuario deseo poder visualizar las características que posee la aplicación en el landing page para estar informado de lo que se me ofrece.   | Fila 13   | EP003    |
 | US014   | Aplicación tolerante a fallos   | Como usuario deseo que la aplicación sea tolerante a fallos para que pueda resistir el ingreso de múltiples usuarios a la vez   | Fila 14   | EP004    |
@@ -750,5 +812,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4MjYzMDAsLTM4MDg3NTM4MV19
+eyJoaXN0b3J5IjpbLTE5MTE5NDIzNzYsLTM4MDg3NTM4MV19
 -->
