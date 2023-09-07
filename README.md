@@ -544,8 +544,8 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 | Steps | Descubrimiento e interes | Descubrimiento de AgriPure | Adopcion y uso inicial | Integracion y beneficios continuos | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
-| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores |  |  | 
-| Thinking | Como sere capaz de apoyar a otros agricultores? |  |  |  | 
+| Doing | El especialista se cuestiona si podria enseñar sus capacidades a otros agricultores | El especialista ve que en AgriPure puede ofrecerse para ayudar a otros |  | 
+| Thinking | Como sere capaz de apoyar a otros agricultores? | Sera esta mi oportunidad? |  |  | 
 | Feeling | Curiosidad | Emocion y Anticipacion | Entusiasmo | Satisfaccion | 
 
 - 3.2. User Stories.
@@ -703,5 +703,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDIyMjM2LC0xMzc0NDg2NTA0XX0=
+eyJoaXN0b3J5IjpbMTI4OTM3NzY0NSwtMTM3NDQ4NjUwNF19
 -->
