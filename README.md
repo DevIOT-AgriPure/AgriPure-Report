@@ -23,7 +23,7 @@ AgriPure
 Relación de integrantes:
 
  - Diego Talledo Sanchez
- - Bruno Moisés Palomino Santa Cruz 
+ - Bruno Moisés Palomino Santa Cruz (U201914974)
  - Andres Christian Reynoso (U202010196)
  - Frank Yamil Alva Cordova (U
 - Franchesco Alexis Soto Morales
