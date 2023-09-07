@@ -772,7 +772,7 @@ Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
 | id | int | private | Id de la lista |
-| Crop_id | Long | private | Id del cultivo|
+| Crop_id | Longint | private | Id del cultivo|
 
 Metodos:
 
@@ -1016,5 +1016,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTE2MTIxN119
+eyJoaXN0b3J5IjpbMzEwODc3NDAsMTc1OTE2MTIxN119
 -->
