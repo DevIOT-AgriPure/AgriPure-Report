@@ -473,13 +473,13 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | Se pueda crear una cuenta   | A Veces    | Alta    |
 | Tener una interfaz practica y facil de usar    | Siempre    | Media   |
 | Aceptar tarjetas para pagos   | A Veces    | Alta    |
-| Tenga una guia de eleccion de tierra y planta a sembrar | A Veces    | Fila 4    |
-| Cuente con un caldendario para las fechas de fumigacion o fertilizacion    | Fila 5    | Fila 5    |
-| Sea compatible con diferentes dispositivos o sistemas operativos   | Fila 6    | Fila 6    |
-| Pueda crear o visualizar las parcelas e indice de vegetacion   | Fila 7    | Fila 7    |
-| Informe sobre la distancia entre siembras y la profundidad    | Fila 8    | Fila 8    |
-| Brinde el pronostico de tiempo respecto a mi ubicacion    | Fila 9    | Fila 9    |
-| Permita recibir notificaciones desde su dispositivo  | Fila 10   | Fila 10   |
+| Tenga una guia de eleccion de tierra y planta a sembrar | A Veces    | Media    |
+| Cuente con un caldendario para las fechas de fumigacion o fertilizacion    | Seguido    | Media Alta    |
+| Sea compatible con diferentes dispositivos o sistemas operativos   | A Veces    | Alta    |
+| Pueda crear o visualizar las parcelas e indice de vegetacion   | Seguido   | Media    |
+| Informe sobre la distancia entre siembras y la profundidad    | Seguido   | Media    |
+| Brinde el pronostico de tiempo respecto a mi ubicacion    | Siempre    | Alta    |
+| Permita recibir notificaciones desde su dispositivo  | Seguido   | Media Alta   |
 
 ***Segmento 2: Especialistas***
 
@@ -702,6 +702,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgxNjE4MywxNDk5MzU5MjY5LDgyNT
-UzMzAyMl19
+eyJoaXN0b3J5IjpbMTkzNDI1NDM4MV19
 -->
