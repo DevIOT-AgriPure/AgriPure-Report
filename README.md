@@ -482,6 +482,8 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ***Segmento 2: Especialistas***
 
+![Empathy Map Especialistas](https://media.discordapp.net/attachments/912089666939916348/1149136554577633400/Flowchart.jpg?width=810&height=669)
+
 - 2.3.5. As-is Scenario Mapping.
 
 ***Segmento 1: Agricultores***
@@ -674,6 +676,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE1MTU4MDksLTUwOTcwMjUwLDE2ND
-I1MDk0ODNdfQ==
+eyJoaXN0b3J5IjpbODI1NTMzMDIyXX0=
 -->
