@@ -566,56 +566,8 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US005    | Guía de elección de tierra de sembrado    | Como usuario deseo saber qué tipo de tierra debe usarse por cada tipo de planta para que la siembra sea más eficiente    | **Escenario: Ver opciones de la planta guardada** Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas que ha guardado previamente Entonces la aplicación le mostrará una serie de opciones, entre ellas Ver tipo de tierra. **Escenario: Visualizar la información sobre el tipo de tierra** Dado que el usuario visualiza las opciones de la planta Cuando el usuario seleccione Ver tipo de tierra Entonces la aplicación le mostrará información acerca del tipo de tierra en el que debe plantar junto con otras indicaciones como el PH o el nivel de humedad. **Escenario: Ver opciones de la planta** Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas guardadas previamente Entonces la aplicación le mostrará la opción Distancia de siembra. **Escenario: Ver distancia entre plantas** Dado que el usuario visualiza las opciones de la planta Cuando el usuario seleccione la opción Distancia de siembra Entonces la aplicación le mostrará a forma de texto y gráficos la distancia óptima de siembra de la planta    | EP001     |
 | US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso    | **Escenario: Ver opciones de la planta** Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas guardadas previamente Entonces la aplicación le mostrará la opción Distancia de siembra. **Escenario: Ver distancia entre plantas** Dado que el usuario visualiza las opciones de la planta Cuando el usuario seleccione la opción Distancia de siembra Entonces la aplicación le mostrará a forma de texto y gráficos la distancia óptima de siembra de la planta    | EP001     |
 | US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | **Escenario: Ver opciones de la planta** Dado que el usuario se encuentra en la aplicación Cuando el usuario seleccione alguna de las plantas guardadas previamente Entonces la aplicación le mostrará la opción Profundidad de siembra. **Escenario: Ver profundidad al plantar** Dado que el usuario visualiza las opciones de la planta Cuando el usuario seleccione la opción Profundidad de siembra Entonces la aplicación le mostrará un gráfico en el cual se mostrará la profundidad adecuada a la que se debe sembrar la planta    | EP001    |
-| US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | **Escenario: Generar fechas de fumigación**Dado que el usuario guardó una planta previamente Y el usuario se encuentra en la pestaña de Opciones de la planta Cuando el usuario seleccione la opción Generar fechas de fumigación Entonces la aplicación mostrará en pantalla que días son los adecuados y los colocará en un calendario.
-
-Escenario: Visualizar fechas en calendario
-
-Dado que el usuario ya generó las fechas de fumigación de ciertas plantas
-
-Cuando el usuario ingresé al calendario desde la pantalla principal
-
-Entonces la aplicación le mostrará el calendario con las fechas en las que debe de fumigar la planta.    | EP001     |
-| US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.    | <![endif]-->
-
-Escenario: Generar fechas de fertilización
-
-Dado que el usuario guardó una planta previamente
-
-Y el usuario se encuentra en la pestaña de Opciones de la planta
-
-Cuando el usuario seleccione la opción Generar fechas de fertilización
-
-Entonces la aplicación mostrará en pantalla que días son los adecuados y los colocará en un calendario.
-
-Escenario: Visualizar fechas en calendario
-
-Dado que el usuario ya generó las fechas de fertilización de ciertas plantas
-
-Cuando el usuario ingresé al calendario desde la pantalla principal
-
-Entonces la aplicación le mostrará el calendario con las fechas en las que debe fertilizar la planta.
-
-Escenario: Acceso a la sección Expertos
-
-Dado que el usuario se encuentra en la pantalla principal
-
-Cuando el usuario seleccione el icono de especialistas en la parte inferior de la pantalla
-
-Entonces la aplicación lo redirigirá a la sección de Expertos.
-
-Escenario: Buscar a un especialista
-
-Dado que el usuario se encuentra en la pestaña Expertos
-
-Cuando el usuario seleccione en una categoría que necesite ayuda
-
-Entonces la aplicación le mostrara un listado de expertos que conocen cierto tema.
-
-Escenario: Contactar a un especialista
-
-Dado que el usuario se encuentra en la pestaña Expertos y encuentre a un especialista
-
-Cuando el usuario pulse la opción  “Detalles”.
+| US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | **Escenario: Generar fechas de fumigación**Dado que el usuario guardó una planta previamente Y el usuario se encuentra en la pestaña de Opciones de la planta Cuando el usuario seleccione la opción Generar fechas de fumigación Entonces la aplicación mostrará en pantalla que días son los adecuados y los colocará en un calendario. **Escenario: Visualizar fechas en calendario** Dado que el usuario ya generó las fechas de fumigación de ciertas plantas Cuando el usuario ingresé al calendario desde la pantalla principal Entonces la aplicación le mostrará el calendario con las fechas en las que debe de fumigar la planta.    | EP001     |
+| US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.    |**Escenario: Generar fechas de fertilización** Dado que el usuario guardó una planta previamente Y el usuario se encuentra en la pestaña de Opciones de la planta Cuando el usuario seleccione la opción Generar fechas de fertilización Entonces la aplicación mostrará en pantalla que días son los adecuados y los colocará en un calendario. **Escenario: Visualizar fechas en calendario** Dado que el usuario ya generó las fechas de fertilización de ciertas plantas Cuando el usuario ingresé al calendario desde la pantalla principal Entonces la aplicación le mostrará el calendario con las fechas en las que debe fertilizar la planta. **Escenario: Acceso a la sección Expertos** Dado que el usuario se encuentra en la pantalla principal Cuando el usuario seleccione el icono de especialistas en la parte inferior de la pantalla Entonces la aplicación lo redirigirá a la sección de Expertos. **Escenario: Buscar a un especialista** Dado que el usuario se encuentra en la pestaña Expertos Cuando el usuario seleccione en una categoría que necesite ayuda Entonces la aplicación le mostrara un listado de expertos que conocen cierto tema.**Escenario: Contactar a un especialista** Dado que el usuario se encuentra en la pestaña Expertos y encuentre a un especialista Cuando el usuario pulse la opción  “Detalles”.
 
 Entonces le mostrara la opción de contactar a ese especialista, al igual que ver información sobre ella.    | EP001     |
 | US010   | Contacto a Especialista   | Como usuario deseo poder contactar a un especialista para que me pueda ayudar y aconsejarme.   | Fila 10   | EP001    |
@@ -794,5 +746,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA1MzczMTgsLTM4MDg3NTM4MV19
+eyJoaXN0b3J5IjpbLTM4NTQ2NjY2MSwtMzgwODc1MzgxXX0=
 -->
