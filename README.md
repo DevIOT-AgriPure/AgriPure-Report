@@ -444,9 +444,13 @@ Estas son algunas preguntas diseñadas para comprender mejor su perspectiva y ex
 
 ***Segmento 1: Agricultores***
 
-Entrevista #1: Alejandro Rojas
+Entrevista #1: 
 
 ![Entrevista 1](https://media.discordapp.net/attachments/912089666939916348/1149060093338452008/image.png?width=866&height=415)
+- Nombre: Alejandro Rojas 
+- Edad: 20 años 
+-  Residencia: Santiago de Surco - Duración: 6:36 - Tecnologías: Windows, Android. Resumen: Edery es un ingeniero agrónomo egresado de los últimos años. Ha tenido experiencia trabajando en cultivos a lo largo del país. Cada vez que va a realizar una asesoría, hace visitas al campo para poder analizar el entorno que rodea al cultivo. Él piensa que el cambio climático es uno de los factores que más afectan el desarrollo de las plantas. Edery piensa que un factor importante es revisar la calidad de las semillas al momento de comprarlas. Para finalizar, le parece muy interesante la idea de utilizar dispositivos IoT para el monitoreo de cultivos. Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/ESAJCfpt8QBCl6WlMlE756kBjIz0hnkFpV__pWrdVZUqmA?e=qJaQkN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
 - Duracion: 10 minutos con 59 segundos
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/EVKPqn5GvHxEi0I50aI7zN0BPDyPcVPINcKEnkYodNrqpw?e=yZaMfK
 - Descripcion: Alejandro es un estudiante universitario que posee una residencia en Chosica. En ese lugar, junto con su familia, se dedica a la agricultura los fines de semana, cultivando diversas plantas y cultivos. Además, en su hogar en Lima, cultiva plantas pequeñas como el romero. Explica que utiliza tierras ricas en nutrientes para el cultivo, empleando composta, que se compone de residuos, para favorecer el crecimiento de las plantas. Alejandro se dedica a podar las plantas semanalmente para evitar que crezcan en exceso. También menciona que la temporada óptima para el cultivo de plantas suele ser durante la primavera y el verano, aunque no está completamente seguro de ello. Por último, muestra interés en una aplicación que le permita visualizar el estado de la vegetación en sus terrenos y que disponga de tecnologias IOT, aunque señala que en Chosica solo puede acceder a datos móviles, ya que la señal Wi-Fi es muy débil en esa zona.
@@ -729,5 +733,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNTY5NjMwXX0=
+eyJoaXN0b3J5IjpbNjY1ODAwOTUsNDgwNTY5NjMwXX0=
 -->
