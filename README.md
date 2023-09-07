@@ -626,7 +626,7 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 |-----------|-----------|-----------|-----------|-----------|
 | 1    | US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | 8    |
 | 2    | US005    | Guía de elección de tierra de sembrado    | Como usuario deseo saber qué tipo de tierra debe usarse por cada tipo de planta para que la siembra sea más eficiente    | 8    |
-| 7    | US010    | Contacto a Especialista    | Como usuario deseo poder contactar a un especialista para que me pueda ayudar y aconsejarme.   | 8    || 3    | US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso   | 3    |
+| 3    | US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso   | 3    |
 | 4    | US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | 3    |
 | 5    | US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | 5    |
 | 6    | US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.   | 5    |
@@ -638,8 +638,8 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 13   | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | 5   |
 | 14   | US017   | Aceptar mensajes de otros agricultores   | Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   |  5  |
 | 15   | US018   | Usar la camara para registrar cultivos   | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil   |  5  |
-| 16   | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure   | 8 Fila 16   |
-| 17   | US020   | Mejorar su Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades   | 5  |
+| 16   | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure   | 8   |
+| 17   | US020   | Mejorar su Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades   | 5   |
 | 18   | US021   | Coordinar fechas con especialista   | Como usuario de la aplicacion, me gustaria coordinar una fecha unica con el especialista para que pueda apoyarme por llamada o presencialmente   | 8   |
 | 19   | US022   | Establecer horarios de disponibilidad   | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad  | 8   |
 | 20   | US023   | Modificar mi perfil de especialista   | Como especialista me gustaria modificar mi perfil para que pueda mostrar mas informacion mia, al igual que enlaces a mis otros contactos.   | 8   |
@@ -784,6 +784,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4ODQ5Mzg1LDE2ODE0MDczOTcsMzEwNT
-I2NTYxXX0=
+eyJoaXN0b3J5IjpbNzQ0NzQ4NTIwXX0=
 -->
