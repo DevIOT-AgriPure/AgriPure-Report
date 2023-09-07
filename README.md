@@ -754,14 +754,17 @@ Metodos:
 
 - 4.2.3.2. Interface Layer. 
 
-	- Nombre: Crop
-	- Categoria: Entity
-	- Proposito: El elemento principal de la aplicacion, siendo los cultivos
+	- Nombre: CropController
+	- Categoria: Controller
+	- Proposito: Controlador de los cultivos
 
-Atributos:
-| Nombre | Tipo de Dato | Visibilidad | Descripcion |
-|-----------|-----------|-----------|-----------|
-| id | Long | private | Id del cultivo |
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| Long | public |
+| GetById| Long | public |
+| Add| Long | public |
+| GetAll| Long | public |
 
 - 4.2.3.3. Application Layer. 
 - 4.2.3.4. Infrastructure Layer. 
@@ -864,5 +867,5 @@ Atributos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzMwMDM5MV19
+eyJoaXN0b3J5IjpbLTE1NDM3MTk2MjUsMTQ2MzMwMDM5MV19
 -->
