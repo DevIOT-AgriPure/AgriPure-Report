@@ -745,7 +745,11 @@ Atributos:
 | sunlight | String | private | Informacion sobre la temperatura adecuada de cultivo |
 | image | String | private | Imagen del cultivo |
 Metodos:
-
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de cultivo |
+| Constructor | void | public | Constructor de cultivo |
+| Constructor | void | public | Constructor de cultivo |
 
 - 4.2.3.2. Interface Layer. 
 - 4.2.3.3. Application Layer. 
@@ -849,5 +853,6 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMjIwODg1LC0yMDMxMTIyNjQwXX0=
+eyJoaXN0b3J5IjpbLTE0Nzg2ODU0ODMsLTIwMzExMjI2NDBdfQ
+==
 -->
