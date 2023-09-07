@@ -855,7 +855,7 @@ Metodos:
 - 4.2.4.3. Application Layer. 
 - 4.2.4.4. Infrastructure Layer. 
 - 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
-![Component Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149456748999090336/Untitled_Diagram.drawio.png?width=664&height=669)
+![Component Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149460248898326618/Untitled_Diagram.drawio_1.png?width=811&height=608)
 -  4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
 		- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
 		- 4.2.4.6.2. Bounded Context Database Design Diagram.
@@ -923,6 +923,6 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTY0MTEzOCwxNjk3MjkxNjgxLC0xOD
-k2OTIyODU1XX0=
+eyJoaXN0b3J5IjpbLTE1OTE5MTk0NDIsMTY5NzI5MTY4MSwtMT
+g5NjkyMjg1NV19
 -->
