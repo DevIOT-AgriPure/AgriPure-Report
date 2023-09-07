@@ -604,9 +604,9 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 |-----------|-----------|-----------|-----------|-----------|
 | 1    | US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | 8    |
 | 2    | US005    | Guía de elección de tierra de sembrado    | Como usuario deseo saber qué tipo de tierra debe usarse por cada tipo de planta para que la siembra sea más eficiente    | 8    |
-| 3    | US006    | Distancia de siembra entre las plantas    | Fila 3    | 3    |
-| 4    | US007    | Distancia de profundidad de siembra    | Fila 4    | 3    |
-| 5    | US008    | Fechas de fumigación    | Fila 5    | 5    |
+| 3    | US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso   | 3    |
+| 4    | US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | 3    |
+| 5    | US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | 5    |
 | 6    | US009    | Fechas de fertilización    | Fila 6    | 5    |
 | 7    | US010    | Contacto a Especialista    | Fila 7    | 8    |
 | 8    | US011    | Botón call to action    | Fila 8    | 3    |
@@ -763,5 +763,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTA5NTY1LC0xMTE0OTM5ODk4XX0=
+eyJoaXN0b3J5IjpbLTE0ODI4MjczNTYsLTExMTQ5Mzk4OThdfQ
+==
 -->
