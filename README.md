@@ -616,12 +616,12 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 12   | US015   | Aplicación responsive   | Como usuario deseo que la aplicación sea totalmente responsive para poder usarlo desde distintos dispositivos  | 5   |
 | 13   | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | 5   |
 | 14   | US017   | Aceptar mensajes de otros agricultores   | Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   |    |
-| 15   | US018   | Usar la camara para registrar cultivos   | Fila 15   |    |
-| 16   | US019   | Seleccionar un plan   | Fila 16   | Fila 16   |
-| 17   | US020   | Mejorar su Plan  | Fila 17   | Fila 17   |
-| 18   | US021   | Coordinar fechas con especialista   | Fila 18   | Fila 18   |
-| 19   | US022   | Establecer horarios de disponibilidad   | Fila 19   | Fila 19   |
-| 20   | US023   | Modificar mi perfil de especialista   | Fila 20   | Fila 20   |
+| 15   | US018   | Usar la camara para registrar cultivos   | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil   |    |
+| 16   | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure   | Fila 16   |
+| 17   | US020   | Mejorar su Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades   | Fila 17   |
+| 18   | US021   | Coordinar fechas con especialista   | Como usuario de la aplicacion, me gustaria coordinar una fecha unica con el especialista para que pueda apoyarme por llamada o presencialmente   | 8   |
+| 19   | US022   | Establecer horarios de disponibilidad   | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad  | 8   |
+| 20   | US023   | Modificar mi perfil de especialista   | Como especialista me gustaria modificar mi perfil para que pueda mostrar mas informacion mia, al igual que enlaces a mis otros contactos.   | 8   |
 | 21   | US001   | Registro de usuario   | Como usuario deseo poder registrarme en la aplicación para poder acceder a sus beneficios   | 8   |
 | 22   | US002   | Cerrar sesión de usuario   | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | 2   |
 | 23   | US003   | Actualización de datos del usuario   | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente   | 3   |
@@ -763,5 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTA4Mjg2OCwtMTExNDkzOTg5OF19
+eyJoaXN0b3J5IjpbLTQzNjU0MTQxMywtMTExNDkzOTg5OF19
 -->
