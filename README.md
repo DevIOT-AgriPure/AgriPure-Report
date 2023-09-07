@@ -576,7 +576,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US015   | Aplicación responsive   | Como usuario deseo que la aplicación móvil sea totalmente responsive para poder usarlo desde distintos dispositivos   | **Escenario: Usuario ingresa desde distintos dispositivos** Dado que el usuario utiliza la aplicación móvil Cuando el usuario ingresa a la aplicación desde distintos dispositivos Entonces la aplicación se adaptará a todos Y continuará funcional y visualmente estable   | EP004    |
 | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | **Escenario: El usuario usa las funciones.** Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades   | EP004    |
 | US017   | Aceptar mensajes de otros agricultores   | Fila 17Como especialista, deseo aceptar las solicitudes de los otros agricultores para poder apoyarlos en sus consultas   | **Escenario: El especialista acepta la solicitud.** Dado que el especialista see encuentre en un chat con un agricultor Cuando le de a "Aceptar mensajes". Entonces podra iniciar la conversacion con el otro agricultor | EP001    |
-| US018   | Usar la camara para registrar cultivos   | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil   | Fila 18   | EP001    |
+| US018   | Usar la camara para registrar cultivos   | Como usuario, deseo usar la funcionalidad de camara para que pueda registrar mis cultivos de manera mas facil   | **Escenario: El usuario usa la camara.** Dado que el usuario quiere registrar su cultivo, cuando va a la aplicacion en la seccion de fotografia, y le salga la opcion de prender camara Cuando tome una foto a su cultivo, entonces     | EP001    |
 | US019   | Seleccionar un plan   | Fila 19   | Fila 19   | EP002    |
 | US020   | Cambiar de Plan  | Fila 20   | Fila 20   | EP002    |
 | US021   | Coordinar fechas   | Fila 21   | Fila 21   | EP002    |
@@ -728,6 +728,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgyNjg0NTAsLTE2Mjc3MDMzMjBdfQ
-==
+eyJoaXN0b3J5IjpbMTAwNDY0OTU3NSwtMTYyNzcwMzMyMF19
 -->
