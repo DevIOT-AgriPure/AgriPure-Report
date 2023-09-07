@@ -764,6 +764,13 @@ Atributos:
 | id | Long | private | Id de la lista |
 | Crop_id | Long | private | Id del cultivo|
 
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de la lista |
+| getList | void | public | Metodo para obtener la lista |
+
 - 4.2.3.2. Interface Layer. 
 
 	- Nombre: CropController
@@ -848,6 +855,7 @@ Metodos:
 - 4.2.4.3. Application Layer. 
 - 4.2.4.4. Infrastructure Layer. 
 - 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
+![Component Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149456748999090336/Untitled_Diagram.drawio.png?width=664&height=669)
 -  4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
 		- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
 		- 4.2.4.6.2. Bounded Context Database Design Diagram.
@@ -915,6 +923,6 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE0MjU3NTUsMTY5NzI5MTY4MSwtMT
-g5NjkyMjg1NV19
+eyJoaXN0b3J5IjpbMTc3MTY0MTEzOCwxNjk3MjkxNjgxLC0xOD
+k2OTIyODU1XX0=
 -->
