@@ -513,7 +513,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ***Segmento 2: Especialistas***
 
-| Steps |  | Descubri |  |  | 
+| Steps | Descubrimiento e interes | Descubrimiento de AgriPure | Adopcion y uso inicial | Integracion y beneficios continuos | 
 | -------------- | -------------- | -------------- | -------------- | -------------- | 
 | Doing |  |  |  | 
 | Thinking |  |  |  |  | 
@@ -674,5 +674,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjIzNzYzNSwxNjQyNTA5NDgzXX0=
+eyJoaXN0b3J5IjpbLTUwOTcwMjUwLDE2NDI1MDk0ODNdfQ==
 -->
