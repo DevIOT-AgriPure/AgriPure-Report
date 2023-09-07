@@ -739,6 +739,11 @@ Proposito: Registro y control de Plantas
 	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
 
 - 4.2.4.1. Domain Layer. 
+
+Nombre: Knowledge Management 
+Categoria: Entity
+Proposito: Registro automatico de plantas por medio de fotos.
+
 - 4.2.4.2. Interface Layer. 
 - 4.2.4.3. Application Layer. 
 - 4.2.4.4. Infrastructure Layer. 
@@ -810,5 +815,5 @@ Proposito: Registro y control de Plantas
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNTU0NDcsLTQ2OTM2NzUxN119
+eyJoaXN0b3J5IjpbMTIwMDM5MDQ2XX0=
 -->
