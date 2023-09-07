@@ -748,9 +748,21 @@ Proposito: Registro y control de Plantas
 
 - 4.2.4.1. Domain Layer. 
 
-Nombre: Knowledge Management 
-Categoria: Entity
-Proposito: Registro automatico de plantas por medio de fotos.
+	- Nombre: Knowledge Management.
+	- Categoria: Entity.
+	- Proposito: Registro automatico de plantas por medio de fotos.
+
+	- Atributos:
+| Nombre | Tipo de Dato | Columna 3 | Columna 4 |
+|-----------|-----------|-----------|-----------|
+| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 |
+| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 |
+| Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 |
+| Fila 4, C1 | Fila 4, C2 | Fila 4, C3 | Fila 4, C4 |
+| Fila 5, C1 | Fila 5, C2 | Fila 5, C3 | Fila 5, C4 |
+| Fila 6, C1 | Fila 6, C2 | Fila 6, C3 | Fila 6, C4 |
+
+
 
 - 4.2.4.2. Interface Layer. 
 - 4.2.4.3. Application Layer. 
@@ -823,5 +835,5 @@ Proposito: Registro automatico de plantas por medio de fotos.
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzExMjI2NDBdfQ==
+eyJoaXN0b3J5IjpbMjAwODAyMzI0MCwtMjAzMTEyMjY0MF19
 -->
