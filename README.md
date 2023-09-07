@@ -580,8 +580,8 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US019   | Seleccionar un plan   | Como usuario de la aplicacion, me gustaria seleccionar uno de los planes que ofrece AgriPure   | **Escenario: El usuario selecciona un plan.** Dado que el usuario quiera seleccionar un plan, cuando se cree una cuenta personal, entonces le saldra la opcion de escoger un plan.   | EP002    |
 | US020   | Mejorar su Plan  | Como usuario de la aplicacion, me gustaria cambiar mi plan gratis a uno premium para que pueda apreciar mejores funcionalidades   | **Escenario: El usuario cambia de plan.** Dado que el usuario quiera mejorar su plan, cuando vaya a las opciones de su cuenta, entonces podra mejorar su plan a un precio especifico.  | EP002    |
 | US021   | Coordinar fechas con especialista   | Como usuario de la aplicacion, me gustaria coordinar una fecha unica con el especialista para que pueda apoyarme por llamada o presencialmente | **Escenario: El especialista rechaza la fecha.** Dado que el usuario quiera coordinar una fecha, cuando ponga la opcion de coordinar fecha y el especialista rechaze, entonces no podra realizar la reunion. **Escenario: El especialista acepta la fecha.** Dado que el usuario quiera coordinar una fecha, cuando ponga la opcion de coordinar fecha y el especialista acepte, entonces se podra realizar la reunion.   | EP001    |
-| US022   | Establecer horarios de disponibilidad   | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad   | **Escenario: El especialista establece su disponibilidad.** Dado que el especialista quiera establecer su disponibilidad, cuando ponga la opcion de coordinar fecha y el especialista rechaze, entonces no podra realizar la reunion.   | EP002    |
-| US023   | Modificar mi perfil de especialista   | Fila 23   | Fila 23   | EP002    |
+| US022   | Establecer horarios de disponibilidad   | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad   | **Escenario: El especialista establece su disponibilidad.** Dado que el especialista quiera establecer su disponibilidad, cuando vaya a la opcion de establecer horarios, entonces podra marcar que horas esta libre o no para que pueda ser contactado. | EP002    |
+| US023   | Modificar mi perfil de especialista   | Como especialista me gustaria modificar mi per | **Escenario: El especialista modifiqua su perfil.** Dado que el especialista quiera establecer su disponibilidad, cuando vaya a la opcion de establecer horarios, entonces podra marcar que horas esta libre o no para que pueda ser contactado.   | EP002    |
 
 - 3.3. Impact Mapping.
 
@@ -728,5 +728,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTA2ODM0LDE2NTE2MDk5XX0=
+eyJoaXN0b3J5IjpbMTQxMjkxOTE1NiwxNjUxNjA5OV19
 -->
