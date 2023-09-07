@@ -567,11 +567,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso    | Fila 6    | EP001     |
 | US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | Fila 7    | EP001     |
 | US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | Fila 8    | EP001     |
-| US009    | Fechas de fertilización    | <![endif]--> Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos    | Fila 9    | EP001     |
-| US010   | Contacto a Especialista   | Fila 10   | Fila 10   | EP001    |
-| US011   | Botón call to action   | Fila 11   | Fila 11   | EP003    |
-| US012   | Visualización de redes sociales   | Fila 12   | Fila 12   | EP003    |
-| US013   | Visualización de características de aplicación   | Fila 13   | Fila 13   | EP003    |
+| US009    | Fechas de fertilización    | Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos.    | Fila 9    | EP001     |
+| US010   | Contacto a Especialista   | Como usuario deseo poder contactar a un especialista para que me pueda ayudar y aconsejarme.   | Fila 10   | EP001    |
+| US011   | Botón call to action   | Como usuario deseo que el landing page posea un botón call-to-action para poder descargar directamente hacia la aplicación   | Fila 11   | EP003    |
+| US012   | Visualización de redes sociales   | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.   | Fila 12   | EP003    |
+| US013   | Visualización de características de aplicación   | Como usuario deseo poder visualizar las características que posee la aplicación en el landing page para estar informado de lo que se me ofrece.   | Fila 13   | EP003    |
 | US014   | Aplicación tolerante a fallos   | Fila 14   | Fila 14   | EP004    |
 | US015   | Aplicación responsive   | Fila 15   | Fila 15   | EP004    |
 | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | Escenario: El usuario usa las funciones. Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades   | EP004    |
@@ -728,5 +728,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTcxNzM3LC0xODk1MzE5NDEzXX0=
+eyJoaXN0b3J5IjpbLTkwNzA5NzEzNiwtMTg5NTMxOTQxM119
 -->
