@@ -610,14 +610,14 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | 6    | US009    | Fila 6    | Fila 6    | 5    |
 | 7    | US010    | Fila 7    | Fila 7    | 8    |
 | 8    | US011    | Fila 8    | Fila 8    | 3    |
-| 9    | US012    | Fila 9    | Fila 9    | 2    |
-| 10   | US013   | Fila 10   | Fila 10   | 3   |
-| 11   | US014   | Fila 11   | Fila 11   | 5   |
-| 12   | US015   | Fila 12   | Fila 12   | 5   |
-| 13   | US016   | Fila 13   | Fila 13   | 5   |
-| 14   | US017   | Fila 14   | Fila 14   |    |
-| 15   | US018   | Fila 15   | Fila 15   |    |
-| 16   | US019   | Fila 16   | Fila 16   | Fila 16   |
+| 9    | US012    | Visualización de redes sociales    | Fila 9    | 2    |
+| 10   | US013   | Visualización de características de aplicación  | Fila 10   | 3   |
+| 11   | US014   | Aplicación tolerante a fallos   | Fila 11   | 5   |
+| 12   | US015   | Aplicación responsive   | Fila 12   | 5   |
+| 13   | US016   | Aplicación intuitiva   | Fila 13   | 5   |
+| 14   | US017   | Aceptar mensajes de otros agricultores   | Fila 14   |    |
+| 15   | US018   | Usar la camara para registrar cultivos   | Fila 15   |    |
+| 16   | US019   | Seleccionar un plan   | Fila 16   | Fila 16   |
 | 17   | US020   | Mejorar su Plan  | Fila 17   | Fila 17   |
 | 18   | US021   | Coordinar fechas con especialista   | Fila 18   | Fila 18   |
 | 19   | US022   | Establecer horarios de disponibilidad   | Fila 19   | Fila 19   |
@@ -763,5 +763,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3Nzk2NjkzLC0xMTE0OTM5ODk4XX0=
+eyJoaXN0b3J5IjpbLTE1MzE0MjM4NTAsLTExMTQ5Mzk4OThdfQ
+==
 -->
