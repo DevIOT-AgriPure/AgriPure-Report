@@ -886,9 +886,20 @@ Metodos:
 
 - 4.2.4.2. Interface Layer. 
 
-
-
 	- Nombre: CropController
+	- Categoria: Controller
+	- Proposito: Controlador de los cultivos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
+
+- Nombre: CropController
 	- Categoria: Controller
 	- Proposito: Controlador de los cultivos
 
@@ -976,5 +987,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzcxMzAwNywyNzQ0NjUzMThdfQ==
+eyJoaXN0b3J5IjpbMTQ3OTI3MTU0OCwyNzQ0NjUzMThdfQ==
 -->
