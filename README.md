@@ -571,15 +571,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US010   | Contacto a Especialista   | Como usuario deseo poder contactar a un especialista para que me pueda ayudar y aconsejarme.   | **Escenario: Acceso a la sección Expertos** Dado que el usuario se encuentra en la pantalla principal Cuando el usuario seleccione el icono de especialistas en la parte inferior de la pantalla Entonces la aplicación lo redirigirá a la sección de Expertos. **Escenario: Buscar a un especialista** Dado que el usuario se encuentra en la pestaña Expertos Cuando el usuario seleccione en una categoría que necesite ayuda Entonces la aplicación le mostrara un listado de expertos que conocen cierto tema.**Escenario: Contactar a un especialista** Dado que el usuario se encuentra en la pestaña Expertos y encuentre a un especialista Cuando el usuario pulse la opción  “Detalles”. Entonces le mostrara la opción de contactar a ese especialista, al igual que ver información sobre ella.    | EP001    |
 | US011   | Botón call to action   | Como usuario deseo que el landing page posea un botón call-to-action para poder descargar directamente hacia la aplicación   | **Escenario: Presión del botón CTA** Dado que el usuario se encuentra en el landing page Cuando el usuario seleccione el botón Call to action llamado Descargar Entonces el sistema redirigirá a tienda virtual que posea el dispositivo para descargar la aplicación móvil.   | EP003    |
 | US012   | Visualización de redes sociales   | Como usuario deseo poder acceder a las redes sociales del startup por medio del landing page para conocer más acerca de este.   | **Escenario: Visualización de redes sociales en el footer** Dado que el usuario se encuentra en el landing page Cuando el usuario deslice la página hasta el final Entonces la aplicación mostrará el footer en el cual se encontrarán las redes sociales y demás información  | EP003    |
-| US013   | Visualización de características de aplicación   | Como usuario deseo poder visualizar las características que posee la aplicación en el landing page para estar informado de lo que se me ofrece.   | <![endif]-->
-
-Escenario: Visualización de las características
-
-Dado que el usuario se encuentra en el landing page
-
-Cuando el usuario deslice la página
-
-Entonces el landing page le irá mostrando uno a uno las características y lo que ofrece la aplicación móvil.   | EP003    |
+| US013   | Visualización de características de aplicación   | Como usuario deseo poder visualizar las características que posee la aplicación en el landing page para estar informado de lo que se me ofrece.   | **Escenario: Visualización de las características** Dado que el usuario se encuentra en el landing page Cuando el usuario deslice la página Entonces el landing page le irá mostrando uno a uno las características y lo que ofrece la aplicación.   | EP003    |
 | US014   | Aplicación tolerante a fallos   | Como usuario deseo que la aplicación sea tolerante a fallos para que pueda resistir el ingreso de múltiples usuarios a la vez   | **Escenario: Ingreso masivo de usuarios** Dado que la aplicación se encuentra funcionando Cuando la aplicación reciba una gran cantidad de usuarios Entonces la aplicación será capaz de soportar a los usuarios Y la aplicación continuará con sus funciones correctamente   | EP004    |
 | US015   | Aplicación responsive   | Como usuario deseo que la aplicación móvil sea totalmente responsive para poder usarlo desde distintos dispositivos   | **Escenario: Usuario ingresa desde distintos dispositivos** Dado que el usuario utiliza la aplicación móvil Cuando el usuario ingresa a la aplicación desde distintos dispositivos Entonces la aplicación se adaptará a todos Y continuará funcional y visualmente estable   | EP004    |
 | US016   | Aplicación intuitiva   | Como usuario deseo que la aplicación móvil sea intuitiva y de fácil uso para poder manejarla de manera eficiente   | **Escenario: El usuario usa las funciones.** Dado que el usuario se ha registrado en la aplicación móvil. Cuando el usuario decida utilizar la aplicación. Entonces el usuario no tendrá ningún problema en utilizar cualquiera de las funcionalidades   | EP004    |
@@ -736,5 +728,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTQ1ODk5Ml19
+eyJoaXN0b3J5IjpbLTE2Mjc3MDMzMjBdfQ==
 -->
