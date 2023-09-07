@@ -563,11 +563,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US002    | Cerrar sesión de usuario    | Como usuario deseo poder cerrar sesión en el dispositivo para que nadie más pueda usar mi cuenta   | Fila 2    | EP002     |
 | US003    | Actualización de datos del usuario    | Como usuario deseo poder actualizar mis datos guardados en la aplicación para que la aplicación me funcione correctamente | Fila 3    | EP002    |
 | US004    | Selección de planta a sembrar    | Como usuario deseo poder ingresar la planta que deseo sembrar para que la aplicación me ayude en su control    | Fila 4    | EP001     |
-| US005    | Guía de elección de tierra de sembrado    | Fila 5    | Fila 5    | EP001     |
-| US006    | Distancia de siembra entre las plantas    | Fila 6    | Fila 6    | EP001     |
-| US007    | Distancia de profundidad de siembra    | Fila 7    | Fila 7    | EP001     |
-| US008    | Fechas de fumigación    | Fila 8    | Fila 8    | EP001     |
-| US009    | Fechas de fertilización    | Fila 9    | Fila 9    | EP001     |
+| US005    | Guía de elección de tierra de sembrado    | Como usuario deseo saber qué tipo de tierra debe usarse por cada tipo de planta para que la siembra sea más eficiente    | Fila 5    | EP001     |
+| US006    | Distancia de siembra entre las plantas    | Como usuario deseo saber a qué distancia debo plantar cada planta para optimizar el proceso    | Fila 6    | EP001     |
+| US007    | Distancia de profundidad de siembra    | Como usuario deseo saber a qué profundidad debo plantar cada planta para que estas crezcan de la mejor manera    | Fila 7    | EP001     |
+| US008    | Fechas de fumigación    | Como usuario deseo saber cuáles son los días que debo fumigar mis plantas para que no se infecten de plagas    | Fila 8    | EP001     |
+| US009    | Fechas de fertilización    | <![endif]--> Como usuario deseo saber en qué fechas debo fertilizar mis plantas para que crezcan y produzcan más frutos    | Fila 9    | EP001     |
 | US010   | Contacto a Especialista   | Fila 10   | Fila 10   | EP001    |
 | US011   | Botón call to action   | Fila 11   | Fila 11   | EP003    |
 | US012   | Visualización de redes sociales   | Fila 12   | Fila 12   | EP003    |
@@ -728,6 +728,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY1ODM4NDIsLTE4OTUzMTk0MTNdfQ
-==
+eyJoaXN0b3J5IjpbMjA1NTcxNzM3LC0xODk1MzE5NDEzXX0=
 -->
