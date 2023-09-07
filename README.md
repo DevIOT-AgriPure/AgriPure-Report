@@ -732,13 +732,13 @@ El Bounded Context de Crop Management es un area que se enfoca en el registro y 
 
 Nombre: Crop
 Categoria: Entity
-Proposito: Registro y control de Plantas
+Proposito: El elemento principal de la aplicacion, siendo los cultivos
 
 Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| Fila 1, C1 | Fila 1, C2 | Fila 1, C3 | Fila 1, C4 |
-| Fila 2, C1 | Fila 2, C2 | Fila 2, C3 | Fila 2, C4 |
+| id | Long | Fila 1, C3 | Fila 1, C4 |
+| name | String | Fila 2, C3 | Fila 2, C4 |
 | Fila 3, C1 | Fila 3, C2 | Fila 3, C3 | Fila 3, C4 |
 | Fila 4, C1 | Fila 4, C2 | Fila 4, C3 | Fila 4, C4 |
 | Fila 5, C1 | Fila 5, C2 | Fila 5, C3 | Fila 5, C4 |
@@ -846,6 +846,5 @@ Atributos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE0OTg2ODMsLTIwMzExMjI2NDBdfQ
-==
+eyJoaXN0b3J5IjpbMTUzMDQ2MTg4MSwtMjAzMTEyMjY0MF19
 -->
