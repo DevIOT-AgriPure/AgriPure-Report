@@ -198,7 +198,7 @@ Ciclo:
 | Nombre| Descripción| 
 |-----------|-----------|
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios. |
-|Bruno Moisés Palomino Santa Cruz|  |
+|Bruno Moisés Palomino Santa Cruz|  | Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos
 |Diego Talledo Sanchez|  |
 |Franchesco Alexis Soto Morales|  |
 |Frank Yamil Alva Cordova|  |
