@@ -461,7 +461,7 @@ Entrevista #1:
 - Resumen: Alejandro es un estudiante universitario que posee una residencia en Chosica. En ese lugar, junto con su familia, se dedica a la agricultura los fines de semana, cultivando diversas plantas y cultivos. Además, en su hogar en Lima, cultiva plantas pequeñas como el romero. Explica que utiliza tierras ricas en nutrientes para el cultivo, empleando composta, que se compone de residuos, para favorecer el crecimiento de las plantas. Alejandro se dedica a podar las plantas semanalmente para evitar que crezcan en exceso. También menciona que la temporada óptima para el cultivo de plantas suele ser durante la primavera y el verano, aunque no está completamente seguro de ello. Por último, muestra interés en una aplicación que le permita visualizar el estado de la vegetación en sus terrenos y que disponga de tecnologias IOT, aunque señala que en Chosica solo puede acceder a datos móviles, ya que la señal Wi-Fi es muy débil en esa zona. 
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010196_upc_edu_pe/EVKPqn5GvHxEi0I50aI7zN0BPDyPcVPINcKEnkYodNrqpw?e=yZaMfK
 
-- ![Entrevista 2](https://media.discordapp.net/attachments/912089666939916348/1149060093338452008/image.png?width=866&height=415)
+- ![Entrevista 2](https://media.discordapp.net/attachments/912089666939916348/1149479957538558052/image.png?width=1182&height=610)
 - Nombre: Carmen Martinez 
 - Edad: 50 años 
 -  Residencia: Huaral 
@@ -903,6 +903,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMwNTAzMTEsLTE1MDUxNDI5ODQsLT
-YwMTkwMDAwNV19
+eyJoaXN0b3J5IjpbLTE4OTY5MjI4NTVdfQ==
 -->
