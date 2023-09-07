@@ -557,7 +557,33 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | EP003 | Definición de estructura del landing page | Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación |
 | EP004 | Definición de requisitos no funcionales | Como usuario deseo que la aplicación cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
 
-
+| Story ID | Titulo | Descripcion | Criterios de Aceptacion | Relacionado con |
+|-----------|-----------|-----------|-----------|-----------|
+| Fila 1    | Fila 1    | Fila 1    | Fila 1    | EP002    |
+| Fila 2    | Fila 2    | Fila 2    | Fila 2    | EP002     |
+| Fila 3    | Fila 3    | Fila 3    | Fila 3    | EP002     |
+| Fila 4    | Fila 4    | Fila 4    | Fila 4    | EP002     |
+| Fila 5    | Fila 5    | Fila 5    | Fila 5    | EP002     |
+| Fila 6    | Fila 6    | Fila 6    | Fila 6    | EP002     |
+| Fila 7    | Fila 7    | Fila 7    | Fila 7    | EP002     |
+| Fila 8    | Fila 8    | Fila 8    | Fila 8    | EP002     |
+| Fila 9    | Fila 9    | Fila 9    | Fila 9    | EP002     |
+| Fila 10   | Fila 10   | Fila 10   | Fila 10   | EP002    |
+| Fila 11   | Fila 11   | Fila 11   | Fila 11   | Fila 11   |
+| Fila 12   | Fila 12   | Fila 12   | Fila 12   | Fila 12   |
+| Fila 13   | Fila 13   | Fila 13   | Fila 13   | Fila 13   |
+| Fila 14   | Fila 14   | Fila 14   | Fila 14   | Fila 14   |
+| Fila 15   | Fila 15   | Fila 15   | Fila 15   | Fila 15   |
+| Fila 16   | Fila 16   | Fila 16   | Fila 16   | Fila 16   |
+| Fila 17   | Fila 17   | Fila 17   | Fila 17   | Fila 17   |
+| Fila 18   | Fila 18   | Fila 18   | Fila 18   | Fila 18   |
+| Fila 19   | Fila 19   | Fila 19   | Fila 19   | Fila 19   |
+| Fila 20   | Fila 20   | Fila 20   | Fila 20   | EP002    |
+| Fila 21   | Fila 21   | Fila 21   | Fila 21   | EP002    |
+| Fila 22   | Fila 22   | Fila 22   | Fila 22   | EP002    |
+| Fila 23   | Fila 23   | Fila 23   | Fila 23   | EP002    |
+| Fila 24   | Fila 24   | Fila 24   | Fila 24   | EP002    |
+| Fila 25   | Fila 25   | Fila 25   | Fila 25   | EP002    |
 
 - 3.3. Impact Mapping.
 
@@ -704,5 +730,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMzOTYxNjIsNjM2NzgwMzddfQ==
+eyJoaXN0b3J5IjpbLTE3NjUxNzA3OCw2MzY3ODAzN119
 -->
