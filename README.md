@@ -461,6 +461,19 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 - 2.3.1. User Personas.
 
 ***Segmento 1: Agricultores***
+| User Task | Frecuencia | Importancia |
+|-----------|-----------|-----------|
+| Fila 1    | Fila 1    | Fila 1    |
+| Fila 2    | Fila 2    | Fila 2    |
+| Fila 3    | Fila 3    | Fila 3    |
+| Fila 4    | Fila 4    | Fila 4    |
+| Fila 5    | Fila 5    | Fila 5    |
+| Fila 6    | Fila 6    | Fila 6    |
+| Fila 7    | Fila 7    | Fila 7    |
+| Fila 8    | Fila 8    | Fila 8    |
+| Fila 9    | Fila 9    | Fila 9    |
+| Fila 10   | Fila 10   | Fila 10   |
+| Fila 11   | Fila 11   | Fila 11   |
 
 ***Segmento 2: Especialistas***
 
@@ -678,6 +691,6 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTk4MjI4MSwxNDk5MzU5MjY5LDgyNT
+eyJoaXN0b3J5IjpbMTY3ODg4ODM1MCwxNDk5MzU5MjY5LDgyNT
 UzMzAyMl19
 -->
