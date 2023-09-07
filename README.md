@@ -754,14 +754,15 @@ Metodos:
 | Constructor | void | public | Constructor de cultivo |
 | getPlant | void | public | Metodo para obtener la planta |
 
-	- Nombre: Crop
-	- Categoria: Entity
-	- Proposito: El elemento principal de la aplicacion, siendo los cultivos
+- Nombre: CropList
+- Categoria: Entity
+- Proposito: Es la lista de cultivos del usuario
 
 Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| id | Long | private | Id del cultivo |
+| id | Long | private | Id de la lista |
+| Crop_id | Long | private | Id del cultivo|
 
 - 4.2.3.2. Interface Layer. 
 
@@ -914,5 +915,6 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzI5MTY4MSwtMTg5NjkyMjg1NV19
+eyJoaXN0b3J5IjpbLTIwMzE0MjU3NTUsMTY5NzI5MTY4MSwtMT
+g5NjkyMjg1NV19
 -->
