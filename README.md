@@ -752,7 +752,7 @@ Proposito: Registro automatico de plantas por medio de fotos.
 		- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
 		- 4.2.4.6.2. Bounded Context Database Design Diagram.
 
-	- 4.2.5. Bounded Context: Notifications
+	- **4.2.5. Bounded Context: Notifications**
    
 	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
 		- 4.2.5.1. Domain Layer. 
@@ -763,7 +763,7 @@ Proposito: Registro automatico de plantas por medio de fotos.
 		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.5.6.2. Bounded Context Database Design Diagram.
-	- 4.2.6. Bounded Context: Subscription and Payments
+	- **4.2.6. Bounded Context: Subscription and Payments**
    
    El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
 		- 4.2.6.1. Domain Layer. 
@@ -774,7 +774,7 @@ Proposito: Registro automatico de plantas por medio de fotos.
 		- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.6.6.2. Bounded Context Database Design Diagram.
-	- 4.2.7. Bounded Context: 
+	- **4.2.7. Bounded Context: **
 		- 4.2.7.1. Domain Layer. 
 		- 4.2.7.2. Interface Layer. 
 		- 4.2.7.3. Application Layer. 
@@ -783,7 +783,7 @@ Proposito: Registro automatico de plantas por medio de fotos.
 		- 4.2.7.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.7.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.7.6.2. Bounded Context Database Design Diagram.
-	- 4.2.8. Bounded Context: 
+	- **4.2.8. Bounded Context: **
 		- 4.2.8.1. Domain Layer. 
 		- 4.2.8.2. Interface Layer. 
 		- 4.2.8.3. Application Layer. 
@@ -792,7 +792,7 @@ Proposito: Registro automatico de plantas por medio de fotos.
 		- 4.2.8.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.8.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.8.6.2. Bounded Context Database Design Diagram.
-	- 4.2.9. Bounded Context: 
+	- **4.2.9. Bounded Context: **
 		- 4.2.9.1. Domain Layer. 
 		- 4.2.9.2. Interface Layer. 
 		- 4.2.9.3. Application Layer. 
@@ -815,5 +815,5 @@ Proposito: Registro automatico de plantas por medio de fotos.
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUzMzE3MDYsMTIwMDM5MDQ2XX0=
+eyJoaXN0b3J5IjpbMTgyMDgwMjE4Ml19
 -->
