@@ -603,13 +603,13 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 | #Orden | Story ID | Titulo | Descripcion | Story Points |
 |-----------|-----------|-----------|-----------|-----------|
 | 1    | US004    | Selección de planta a sembrar    | Fila 1    | 8    |
-| 2    | US005    | Fila 2    | Fila 2    | 8    |
-| 3    | US006    | Fila 3    | Fila 3    | 3    |
-| 4    | US007    | Fila 4    | Fila 4    | 3    |
-| 5    | US008    | Fila 5    | Fila 5    | 5    |
-| 6    | US009    | Fila 6    | Fila 6    | 5    |
-| 7    | US010    | Fila 7    | Fila 7    | 8    |
-| 8    | US011    | Fila 8    | Fila 8    | 3    |
+| 2    | US005    | Guía de elección de tierra de sembrado    | Fila 2    | 8    |
+| 3    | US006    | Distancia de siembra entre las plantas    | Fila 3    | 3    |
+| 4    | US007    | Distancia de profundidad de siembra    | Fila 4    | 3    |
+| 5    | US008    | Fechas de fumigación    | Fila 5    | 5    |
+| 6    | US009    | Fechas de fertilización    | Fila 6    | 5    |
+| 7    | US010    | Contacto a Especialista    | Fila 7    | 8    |
+| 8    | US011    | Botón call to action    | Fila 8    | 3    |
 | 9    | US012    | Visualización de redes sociales    | Fila 9    | 2    |
 | 10   | US013   | Visualización de características de aplicación  | Fila 10   | 3   |
 | 11   | US014   | Aplicación tolerante a fallos   | Fila 11   | 5   |
@@ -763,6 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE0MjM4NTAsLTExMTQ5Mzk4OThdfQ
-==
+eyJoaXN0b3J5IjpbLTkwNzg5Njg5MSwtMTExNDkzOTg5OF19
 -->
