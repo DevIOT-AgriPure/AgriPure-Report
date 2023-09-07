@@ -744,13 +744,25 @@ Atributos:
 | watering | String | private | Informacion sobre el riego de cultivo |
 | sunlight | String | private | Informacion sobre la temperatura adecuada de cultivo |
 | image | String | private | Imagen del cultivo |
+
 Metodos:
+
 | Nombre | Tipo de Retorno | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
 | Constructor | void | public | Constructor de cultivo |
 | getPlant | void | public | Metodo para obtener la planta |
 
 - 4.2.3.2. Interface Layer. 
+
+Nombre: Crop
+Categoria: Entity
+Proposito: El elemento principal de la aplicacion, siendo los cultivos
+
+Atributos:
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | Long | private | Id del cultivo |
+
 - 4.2.3.3. Application Layer. 
 - 4.2.3.4. Infrastructure Layer. 
 - 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
@@ -852,5 +864,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA5Nzg1NzddfQ==
+eyJoaXN0b3J5IjpbMTI4NDA5OTg0N119
 -->
