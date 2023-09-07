@@ -459,7 +459,7 @@ Entrevista #1:
 ***Segmento 2: Especialistas***
 Entrevista #1: 
 
-
+![Entrevista 1](https://media.discordapp.net/attachments/912089666939916348/1149060093338452008/image.png?width=866&height=415)https://media.discordapp.net/attachments/877599577073647676/1149365323670229022/e89aa1c7-8c8a-43a2-93ea-6eaeaa6e02bd.png?width=2138&height=700
 - Nombre: Erick Joaquin 
 - Edad: 21 años 
 -  Residencia: Lima
@@ -786,5 +786,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNjc0MzgyXX0=
+eyJoaXN0b3J5IjpbNTY3MzU3MjI3LDQ4MjY3NDM4Ml19
 -->
