@@ -602,19 +602,19 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 
 | #Orden | Story ID | Titulo | Descripcion | Story Points |
 |-----------|-----------|-----------|-----------|-----------|
-| 1    | US004    | Fila 1    | Fila 1    | Fila 1    |
-| 2    | US005    | Fila 2    | Fila 2    | Fila 2    |
-| 3    | US006    | Fila 3    | Fila 3    | Fila 3    |
-| 4    | US007    | Fila 4    | Fila 4    | Fila 4    |
-| 5    | US008    | Fila 5    | Fila 5    | Fila 5    |
-| 6    | US009    | Fila 6    | Fila 6    | Fila 6    |
-| 7    | US010    | Fila 7    | Fila 7    | Fila 7    |
-| 8    | US011    | Fila 8    | Fila 8    | Fila 8    |
-| 9    | US012    | Fila 9    | Fila 9    | Fila 9    |
-| 10   | US013   | Fila 10   | Fila 10   | Fila 10   |
-| 11   | US014   | Fila 11   | Fila 11   | Fila 11   |
-| 12   | US015   | Fila 12   | Fila 12   | Fila 12   |
-| 13   | US016   | Fila 13   | Fila 13   | Fila 13   |
+| 1    | US004    | Selección de planta a sembrar    | Fila 1    | 8    |
+| 2    | US005    | Fila 2    | Fila 2    | 8    |
+| 3    | US006    | Fila 3    | Fila 3    | 3    |
+| 4    | US007    | Fila 4    | Fila 4    | 3    |
+| 5    | US008    | Fila 5    | Fila 5    | 5    |
+| 6    | US009    | Fila 6    | Fila 6    | 5    |
+| 7    | US010    | Fila 7    | Fila 7    | 8    |
+| 8    | US011    | Fila 8    | Fila 8    | 3    |
+| 9    | US012    | Fila 9    | Fila 9    | 2    |
+| 10   | US013   | Fila 10   | Fila 10   | 3   |
+| 11   | US014   | Fila 11   | Fila 11   | 5   |
+| 12   | US015   | Fila 12   | Fila 12   | 5   |
+| 13   | US016   | Fila 13   | Fila 13   | 8   |
 | 14   | US017   | Fila 14   | Fila 14   | Fila 14   |
 | 15   | US018   | Fila 15   | Fila 15   | Fila 15   |
 | 16   | US019   | Fila 16   | Fila 16   | Fila 16   |
@@ -763,6 +763,5 @@ Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonb
 Bounded Context Canvases:
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI0NDEzNDEsLTExMTQ5Mzk4OThdfQ
-==
+eyJoaXN0b3J5IjpbOTQ1ODQxNDE2LC0xMTE0OTM5ODk4XX0=
 -->
