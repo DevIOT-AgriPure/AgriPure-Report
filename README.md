@@ -457,7 +457,17 @@ Entrevista #1:
 
 
 ***Segmento 2: Especialistas***
+Entrevista #1: 
 
+
+- Nombre: Erick Joaquin 
+- Edad: 21 años 
+-  Residencia: Lima
+- Duración: 5:16
+- Tecnologías: Windows, Android. 
+- Resumen: Erick es un egresado de la carrera de ingenieria agronomica. Esta comenzando hacer practicas por lo que adquirio conceptos sobre es asesoramiento de los cultivos, Explica que recomienda la elección adecuada de cultivos, mejora del suelo y prácticas sostenibles. Ademas de los desafios que presentan los agricultores identifico algunos como el clima y la gestión del agua. Tambien meciona que las tendencias actuales, como la agricultura de precisión, son prometedoras. Por ultimo, Actualmente no tiene recursos para invertir en dispositivos IoT, pero estaria dispuesto a explorar opciones de financiamiento y colaboración.
+
+- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914974_upc_edu_pe/EVkAz7lh0g1IgLz4n2cgjoEB59n9RaSF-3ZVcqTBfRMVMg?e=wI5nBJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 - 2.2.3. Análisis de entrevistas.
 
 En resumen, las entrevistas muestran que los agricultores entrevistados valoran sus conocimientos agrícolas, pero buscan soluciones tecnológicas que les ayuden a optimizar sus procesos y afrontar desafíos como la conectividad irregular, la necesidad de pronósticos climáticos y la falta de conocimientos agrícolas entre los jóvenes. Ven con interés la idea de una aplicación integral que les brinde información precisa y herramientas para mejorar la gestión de sus cultivos, reconociendo su dependencia económica de la agricultura y su deseo de mantenerse a la vanguardia de las prácticas agrícolas.
