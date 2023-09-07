@@ -771,7 +771,12 @@ Metodos:
 
 	- Nombre: addplant.event
 	- Categoria: EventHandler
-	- Proposito: Controlador de los cultivos
+	- Proposito: Gestiona la creacion del evento de agregar plantas
+	
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
 
 - 4.2.3.4. Infrastructure Layer. 
 - 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
@@ -873,6 +878,6 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcyMTcyMTgsNzIwNzUyMDA4LC0xMj
-Q2MzcyOTg3XX0=
+eyJoaXN0b3J5IjpbMzY4ODczNTg0LC0xOTI3MjE3MjE4LDcyMD
+c1MjAwOCwtMTI0NjM3Mjk4N119
 -->
