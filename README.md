@@ -734,7 +734,8 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 		- 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.4.6.2. Bounded Context Database Design Diagram.
-	- 4.2.5. Bounded Context: 
+	- 4.2.5. Bounded Context: Notifications
+	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
 		- 4.2.5.1. Domain Layer. 
 		- 4.2.5.2. Interface Layer. 
 		- 4.2.5.3. Application Layer. 
@@ -743,7 +744,8 @@ Link del Trello en donde se ubica nuestro Product Backlog:
 		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.5.6.2. Bounded Context Database Design Diagram.
-	- 4.2.6. Bounded Context: 
+	- 4.2.6. Bounded Context: Subscription and Payments
+   El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
 		- 4.2.6.1. Domain Layer. 
 		- 4.2.6.2. Interface Layer. 
 		- 4.2.6.3. Application Layer. 
