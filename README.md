@@ -970,6 +970,9 @@ Metodos:
 	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
 	
 	- 4.2.5.1. Domain Layer. 
+		- Nombre: Crop
+		- Categoria: Entity
+		- Proposito: El elemento principal de la aplicacion, siendo los cultivos
 		- 4.2.5.2. Interface Layer. 
 		- 4.2.5.3. Application Layer. 
 		- 4.2.5.4. Infrastructure Layer. 
@@ -1035,7 +1038,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQyODk4NDksLTEwMzMxNDExMzYsMT
-IwMzAxNTczMywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcw
-NTM3MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3XX0=
+eyJoaXN0b3J5IjpbMjA0NjI2MTYsLTEwMzMxNDExMzYsMTIwMz
+AxNTczMywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3
+MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3XX0=
 -->
