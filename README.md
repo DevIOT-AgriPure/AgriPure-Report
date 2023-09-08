@@ -994,18 +994,18 @@ Metodos:
 | getAllNotifications| List | public | Obtiene todas las notificaciones |
 | configurePreferences | void | public | Permite configurar las notificaciones |
 
-	- Nombre: Notificaciones.
+- Nombre: NotificationMessage.
 	- Categoria: Entity.
-	- Proposito: Notificar a los usuarios.
+	- Proposito: Almacenar las notificaciones del usuario.
 
 	- Atributos:
 
-| Nombre | Tipo de Dato | Visibilidad | Descripcion |
-|-----------|-----------|-----------|-----------|
-| id | Long| private | Id de entidad|
-| message| String | private | Mensaje|
-| recipients | List| private |Usuarios a los que se enviara la notificacion|
-| destiny| string| private |Destinatario|
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| id | int| private |
+| description| String | private |
+| messageCreationDate| Date| private |
+| title| string| private |
 
 Metodos:
 
@@ -1082,7 +1082,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTI2OTUyNSwtMTAzMzE0MTEzNiwxMj
-AzMDE1NzMzLDI1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1
-MzcxLDE2MDQwODY1NDUsNDUwODQxMTddfQ==
+eyJoaXN0b3J5IjpbNDY4NzUyNTUyLC0xMDMzMTQxMTM2LDEyMD
+MwMTU3MzMsMjU2MTA5MTIxLC0xNDAyNTk3OTAxLC01NTU3MDUz
+NzEsMTYwNDA4NjU0NSw0NTA4NDExN119
 -->
