@@ -1263,10 +1263,11 @@ Metodos:
 | getAllIsPaid| Task<IEnumerate<User>>| public|
 | remove| void| public|		
 - 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
-		
-			- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.6.6.2. Bounded Context Database Design Diagram.
+![Component Diagram](https://media.discordapp.net/attachments/1063259243727306824/1149592284308975657/image.png?width=811&height=608)
+	- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
+		- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
+			
+		- 4.2.6.6.2. Bounded Context Database Design Diagram.
 	- **4.2.7. Bounded Context: **
 		- 4.2.7.1. Domain Layer. 
 		- 4.2.7.2. Interface Layer. 
@@ -1313,7 +1314,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MjIzNzExLDE4ODAwMTUyMzcsMjA5OD
+eyJoaXN0b3J5IjpbNzE5NjU0MzU3LDE4ODAwMTUyMzcsMjA5OD
 c2NTM4LDE1OTc5MDQyMjUsLTEwMzMxNDExMzYsMTIwMzAxNTcz
 MywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNj
 A0MDg2NTQ1LDQ1MDg0MTE3XX0=
