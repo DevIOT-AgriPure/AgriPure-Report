@@ -969,7 +969,7 @@ Metodos:
    
 	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
 
-- 4.2.4.1. Domain Layer. 
+- 4.2.5.1. Domain Layer. 
 
 	- Nombre: Notificaciones.
 	- Categoria: Entity.
@@ -1125,6 +1125,28 @@ Atributos:
    El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
 	   
 	- 4.2.6.1. Domain Layer. 
+		- Nombre: Notificaciones.
+	- Categoria: Entity.
+	- Proposito: Notificar a los usuarios.
+
+	- Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | Long| private | Id de entidad|
+| message| String | private | Mensaje|
+| recipients | List| private |Usuarios a los que se enviara la notificacion|
+| destiny| string| private |Destinatario|
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de la entidad|
+| sendNotification| void | public | Envia una notificacion |
+| deleteNotification| void | public | Elimina una notificacion |
+| getAllNotifications| List | public | Obtiene todas las notificaciones |
+| configurePreferences | void | public | Permite configurar las notificaciones |
 		- 4.2.6.2. Interface Layer. 
 		- 4.2.6.3. Application Layer. 
 		- 4.2.6.4. Infrastructure Layer. 
@@ -1178,8 +1200,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDAxNTIzNywyMDk4NzY1MzgsMTU5Nz
-kwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEy
-MSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsND
-UwODQxMTddfQ==
+eyJoaXN0b3J5IjpbLTIwMDcxMDAyMjIsMTg4MDAxNTIzNywyMD
+k4NzY1MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1
+NzMzLDI1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLD
+E2MDQwODY1NDUsNDUwODQxMTddfQ==
 -->
