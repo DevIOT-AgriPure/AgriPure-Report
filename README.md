@@ -207,8 +207,8 @@ Ciclo:
 |-----------|-----------|-----------
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios. | ![Andres Reynoso](https://media.discordapp.net/attachments/912089666939916348/1149421487170801895/0540202010196.png?width=230&height=315)
 |Bruno Moisés Palomino Santa Cruz|Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
-|Diego Talledo Sanchez| Me llamo Diego, tengo 20 años, nací en japón sin embargo la mayor parte de mis vida fui criado en Perú. Escogí esta carrera debido a mi gran afinidad hacia la tecnología contemporánea. Entre mis principales habilidades se encuentra la capacidad de guardar información, la empatía, el ser resiliente y tengo conocimiento en los lenguajes de C++,C#, python,JS,Kotlin y en frameworks como vue y angular. | ![Diego Talledo](https://cdn.discordapp.com/attachments/800192500207190026/1149576905146781706/Imagen_de_WhatsApp_2023-04-28_a_las_21.56.47_-_copia.jpg?width=230&height=315)
-|Franchesco Alexis Soto Morales| Mi nombre es Franchesco Soto, tengo 22 años y estudio la carrera de Ingeniería de Software, puedo aportar mis conocimientos en desarrollo web y móvil para alcanzar los objetivos planteados. |  ![Franchesco Soto](https://media.discordapp.net/attachments/881196470844420159/1149556296111112333/WhatsApp_Image_2023-09-07_at_11.06.07_PM.jpeg?width=230&height=315)
+|Diego Talledo Sanchez| Me llamo Diego, tengo 20 años, nací en japón sin embargo la mayor parte de mis vida fui criado en Perú. Escogí esta carrera debido a mi gran afinidad hacia la tecnología contemporánea. Entre mis principales habilidades se encuentra la capacidad de guardar información, la empatía, el ser resiliente y tengo conocimiento en los lenguajes de C++,C#, python,JS,Kotlin y en frameworks como vue y angular. | ![Diego Talledo](https://cdn.discordapp.com/attachments/800192500207190026/1149576905146781706/Imagen_de_WhatsApp_2023-04-28_a_las_21.56.47_-_copia.jpg?width=&height=)
+|Franchesco Alexis Soto Morales| Mi nombre es Franchesco Soto, tengo 22 años y estudio la carrera de Ingeniería de Software, puedo aportar mis conocimientos en desarrollo web y móvil para alcanzar los objetivos planteados. |![Franchesco Soto](https://media.discordapp.net/attachments/881196470844420159/1149556296111112333/WhatsApp_Image_2023-09-07_at_11.06.07_PM.jpeg?width=230473&height=315)473) |
 |Frank Yamil Alva Cordova| Mi nombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.|![Franchesco Soto](https://cdn.discordapp.com/attachments/1063259243727306824/1149578749671645194/368702993_1380162125911127_1074457933449185880_n.jpg?width=230&height=315) |
 
 ### 1.2. Solution Profile
@@ -693,10 +693,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 	- External Systems:
 	![External Systems](https://cdn.discordapp.com/attachments/1149587894416183327/1149589665226170378/Eventstorming_6.jpg)
 	- Agregates:
-	![Agregates](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)
-		- 4.1.1.1 Candidate Context Discovery. 
+	![Agregates](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg
 		- Identificar candidatos de contexto implica descubrir áreas potenciales de enfoque en un sistema complejo. Esto implica analizar el sistema para identificar sus componentes esenciales y sus interacciones, agrupándolos en áreas lógicas para simplificar el proceso de diseño e implementación. El objetivo principal es mejorar la escalabilidad, el rendimiento y la facilidad de mantenimiento del sistema.
-		![Candidates context](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)
+		![Candidates context](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)	
+		- 4.1.1.1 Candidate Context Discovery. 
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
 			- El Bounded Context es un patrón de diseño en la arquitectura de software que divide un sistema en áreas de dominio separadas con lenguajes y límites claros. Esto facilita la administración y escalabilidad de sistemas complejos, ya que cada contexto acotado puede desarrollarse y mantenerse de manera independiente. Los Bounded Context Canvases, por otro lado, son herramientas visuales para el diseño de arquitecturas de software basadas en Bounded Contexts. Su objetivo es fomentar la colaboración entre equipos y garantizar la coherencia y la relación adecuada entre los diferentes contextos delimitados en el sistema.
@@ -1397,6 +1397,284 @@ Metodos:
 		![Class Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149592618334945340/image.png)	
 		- 4.2.6.6.2. Bounded Context Database Design Diagram.
 		![Class Diagram](https://media.discordapp.net/attachments/1063259243727306824/1149592735100190790/image.png)
+		- 4.1.3.2. Software Architecture Context Level Diagrams. 
+		- 4.1.3.2. Software Architecture Container Level Diagrams.
+		- 4.1.3.3. Software Architecture Deployment Diagrams. 
+
+- 4.2. Tactical-Level Domain-Driven Design.
+
+	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura. 
+	- **4.2.1. Bounded Context: **
+		- 4.2.1.1. Domain Layer. 
+		- 4.2.1.2. Interface Layer. 
+		- 4.2.1.3. Application Layer. 
+		- 4.2.1.4. Infrastructure Layer. 
+		- 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams. 
+		- 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams. 
+			- 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams. 
+			- 4.2.1.6.2. Bounded Context Database Design Diagram.
+	- **4.2.2. Bounded Context: **
+		- 4.2.3.1. Domain Layer. 
+		- 4.2.3.2. Interface Layer. 
+		- 4.2.3.3. Application Layer. 
+		- 4.2.3.4. Infrastructure Layer. 
+		- 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
+		-  4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
+				- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
+				- 4.2.3.6.2. Bounded Context Database Design Diagram.
+			
+	- **4.2.3. Bounded Context: Crop Management**
+
+El Bounded Context de Crop Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
+
+- 4.2.3.1. Domain Layer. 
+
+	- Nombre: Crop
+	- Categoria: Entity
+	- Proposito: El elemento principal de la aplicacion, siendo los cultivos
+
+Atributos:
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | int | private | Id del cultivo |
+| name | String | private | Nombre del cultivo |
+| cientific_name | String | private | Nombre cientifico del cultivo |
+| cycle | String | private | Informacion sobre el ciclo de cultivo |
+| watering | String | private | Informacion sobre el riego de cultivo |
+| sunlight | String | private | Informacion sobre la temperatura adecuada de cultivo |
+| image | String | private | Imagen del cultivo |
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de cultivo |
+| getPlant | void | public | Metodo para obtener la planta |
+
+- Nombre: CropList
+- Categoria: Entity
+- Proposito: Es la lista de cultivos del usuario
+
+Atributos:
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | int | private | Id de la lista |
+| Crop_id | Longint | private | Id del cultivo|
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de la lista |
+| getList | void | public | Metodo para obtener la lista |
+
+- 4.2.3.2. Interface Layer. 
+
+	- Nombre: CropController
+	- Categoria: Controller
+	- Proposito: Controlador de los cultivos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
+
+- 4.2.3.3. Application Layer. 
+
+	- Nombre: addplant.event
+	- Categoria: EventHandler
+	- Proposito: Gestiona la creacion del evento de agregar plantas
+	
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| handle| void | public |
+
+- Nombre: removeplant.event
+	- Categoria: EventHandler
+	- Proposito: Gestiona la creacion del evento de quitar plantas
+	
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| handle| void | public |
+
+- 4.2.3.4. Infrastructure Layer. 
+
+	- Nombre: CropRepository
+	- Categoria: Repository
+	- Proposito: Persistencia de cultivos
+	
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
+
+- 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
+
+![Component Diagram 3](https://media.discordapp.net/attachments/912089666939916348/1149456748999090336/Untitled_Diagram.drawio.png?width=664&height=669)
+-  4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
+
+	- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
+	
+![Class Diagram 3](https://media.discordapp.net/attachments/912089666939916348/1149504626194927677/image.png?width=1062&height=484)
+
+- 4.2.3.6.2. Bounded Context Database Design Diagram.
+
+![Database Diagram 3](https://cdn.discordapp.com/attachments/912089666939916348/1149490546893664357/image.png)
+
+- **4.2.4. Bounded Context: Knowledge Management**
+
+	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
+
+- 4.2.4.1. Domain Layer. 
+
+	- Nombre: Photo.
+	- Categoria: Entity.
+	- Proposito: Registro automatico de plantas por medio de fotos.
+
+	- Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | int | private | Id de la foto |
+| image | String | private | Imagen tomada por el usuario|
+| Crop_id | Longint | private | Id del cultivo|
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de la foto |
+| getPhoto | void | public | Metodo para obtener la foto |
+
+- Nombre: Crop
+- Categoria: Entity
+- Proposito: El elemento principal de la aplicacion, siendo los cultivos
+
+Atributos:
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | int | private | Id del cultivo |
+| name | String | private | Nombre del cultivo |
+| cientific_name | String | private | Nombre cientifico del cultivo |
+| cycle | String | private | Informacion sobre el ciclo de cultivo |
+| watering | String | private | Informacion sobre el riego de cultivo |
+| sunlight | String | private | Informacion sobre la temperatura adecuada de cultivo |
+| image | String | private | Imagen del cultivo |
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de cultivo |
+| getPlant | void | public | Metodo para obtener la planta |
+
+- 4.2.4.2. Interface Layer. 
+
+	- Nombre: PhotoController
+	- Categoria: Controller
+	- Proposito: Controlador de las fotos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List PhotoResource> | public |
+| GetById| PhotoResource | public |
+
+- Nombre: CropController
+	- Categoria: Controller
+	- Proposito: Controlador de los cultivos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
+
+- 4.2.4.3. Application Layer. 
+
+	- Nombre: matchphoto.event
+	- Categoria: EventHandler
+	- Proposito: Gestiona el reconocimiento de la foto con el cultivo
+	
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| handle| void | public |
+
+- 4.2.4.4. Infrastructure Layer. 
+
+	- Nombre: PhotoRepository
+	- Categoria: Repository
+	- Proposito: Repositorio de las fotos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List PhotoResource> | public |
+| GetById| PhotoResource | public |
+
+- Nombre: CropRepository
+	- Categoria: Repository
+	- Proposito: Repositorio de los cultivos
+
+Metodos:
+| Nombre | Tipo de Retorno | Visibilidad |
+|-----------|-----------|-----------|
+| GetAll| List CropResource> | public |
+| GetById| CropResource | public |
+| Add| AddCropResource | public |
+| Remove| void | public |
+| FindCropById| CropResource | public |
+
+- 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
+![Component Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149460248898326618/Untitled_Diagram.drawio_1.png?width=811&height=608)
+-  4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
+
+	- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
+	
+	![Class Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149509986356039811/image.png?width=1293&height=487)
+	
+	- 4.2.4.6.2. Bounded Context Database Design Diagram.
+
+![Database Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149491679057956934/image.png?width=703&height=506)
+
+- **4.2.5. Bounded Context: Notifications**
+   
+	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
+	
+	- 4.2.5.1. Domain Layer. 
+		- 4.2.5.2. Interface Layer. 
+		- 4.2.5.3. Application Layer. 
+		- 4.2.5.4. Infrastructure Layer. 
+		- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
+		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
+			- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
+			- 4.2.5.6.2. Bounded Context Database Design Diagram.
+	- **4.2.6. Bounded Context: Subscription and Payments**
+   
+   El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
+	   
+	- 4.2.6.1. Domain Layer. 
+		- 4.2.6.2. Interface Layer. 
+		- 4.2.6.3. Application Layer. 
+		- 4.2.6.4. Infrastructure Layer. 
+		- 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
+		- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
+			- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
+			- 4.2.6.6.2. Bounded Context Database Design Diagram.
 	- **4.2.7. Bounded Context: **
 		- 4.2.7.1. Domain Layer. 
 		- 4.2.7.2. Interface Layer. 
@@ -1443,9 +1721,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI3NTQyOTMsLTM2ODY1MjM5NSwxMD
-IxMjAzNjkzLC01NTIwNjU3OTIsMTg4MDAxNTIzNywyMDk4NzY1
-MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLD
-I1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQw
+eyJoaXN0b3J5IjpbLTExMjgzMTY3MzIsLTIwNzI3NTQyOTMsLT
+M2ODY1MjM5NSwxMDIxMjAzNjkzLC01NTIwNjU3OTIsMTg4MDAx
+NTIzNywyMDk4NzY1MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNi
+wxMjAzMDE1NzMzLDI1NjEwOTEyMSwtNTU1NzA1MzcxLDE2MDQw
 ODY1NDUsNDUwODQxMTddfQ==
 -->
