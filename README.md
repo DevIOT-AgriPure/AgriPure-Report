@@ -1136,22 +1136,22 @@ Atributos:
 | id | int| private | Id de entidad|
 | status| String | private | Mensaje|
 | type| string| private |Tipo de tarjeta|
-| price| long| private |Destinatario|
-| amount| double| private |Destinatario|
+| price| long| private |Precio de suscripción|
+| amount| double| private |Cantidad|
 | creditcard| long| private |Destinatario|
-| payment_id| int| private |Destinatario|
-| payment_date| Date| private |Destinatario|
-| deleted| int| private |Destinatario|
+| payment_id| int| private |Id del pago|
+| payment_date| Date| private |Fecha del pago|
+| deleted| int| private |Eliminar pago|
 
 Metodos:
 
 | Nombre | Tipo de Retorno | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| Constructor | void | public | Constructor de la entidad|
-| sendNotification| void | public | Envia una notificacion |
-| deleteNotification| void | public | Elimina una notificacion |
-| getAllNotifications| List | public | Obtiene todas las notificaciones |
-| configurePreferences | void | public | Permite configurar las notificaciones |
+| getStatus| void | public | Retorna el status del pago|
+| getId| void | public | Retorna el id del usuario |
+| getPrice| void | public | Obtiene el precio de la suscripción actual. |
+| getAmount| void | public | Obtiene la cantidad del pago |
+| getPaymentDate| void | public | Obtiene la fecha y hora del pago |
 		- 4.2.6.2. Interface Layer. 
 		- 4.2.6.3. Application Layer. 
 		- 4.2.6.4. Infrastructure Layer. 
@@ -1205,8 +1205,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDY4NTg4MCwxODgwMDE1MjM3LDIwOT
-g3NjUzOCwxNTk3OTA0MjI1LC0xMDMzMTQxMTM2LDEyMDMwMTU3
-MzMsMjU2MTA5MTIxLC0xNDAyNTk3OTAxLC01NTU3MDUzNzEsMT
-YwNDA4NjU0NSw0NTA4NDExN119
+eyJoaXN0b3J5IjpbLTE4OTY1MDA2MjUsMTg4MDAxNTIzNywyMD
+k4NzY1MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1
+NzMzLDI1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLD
+E2MDQwODY1NDUsNDUwODQxMTddfQ==
 -->
