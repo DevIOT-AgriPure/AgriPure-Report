@@ -212,7 +212,7 @@ Ciclo:
 |Frank Yamil Alva Cordova| Mi sombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.| 
 ![Frank Alva]
 (https://cdn.discordapp.com/attachments/1063259243727306824/1149578749671645194/368702993_1380162125911127_1074457933449185880_n.jpg?width=230&height=315) 
-
+|
 
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
@@ -1038,7 +1038,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDg1ODE2LDI1NjEwOTEyMSwtMTQwMj
-U5NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsNDUwODQxMTdd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMTE0MzE0MjQsMjU2MTA5MTIxLC0xND
+AyNTk3OTAxLC01NTU3MDUzNzEsMTYwNDA4NjU0NSw0NTA4NDEx
+N119
 -->
