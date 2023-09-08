@@ -488,7 +488,7 @@ Entrevista #1:
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201914974_upc_edu_pe/EVkAz7lh0g1IgLz4n2cgjoEB59n9RaSF-3ZVcqTBfRMVMg?e=wI5nBJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 Entrevista #2: 
-
+![Entrevista 3](https://cdn.discordapp.com/attachments/1063259243727306824/1149580605592449044/image.png?width=2138&height=700)
 
 - Nombre: Richard Romero 
 - Edad: 25 años
@@ -1035,7 +1035,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMxNDExMzYsMTIwMzAxNTczMywyNT
-YxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNjA0MDg2
-NTQ1LDQ1MDg0MTE3XX0=
+eyJoaXN0b3J5IjpbLTEzNTQyODk4NDksLTEwMzMxNDExMzYsMT
+IwMzAxNTczMywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcw
+NTM3MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3XX0=
 -->
