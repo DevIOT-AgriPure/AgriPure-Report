@@ -984,6 +984,40 @@ Metodos:
 | recipients | List| private |Usuarios a los que se enviara la notificacion|
 | destiny| string| private |Destinatario|
 
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de la entidad|
+| sendNotification| void | public | Envia una notificacion |
+| deleteNotification| void | public | Elimina una notificacion |
+| getAllNotifications| List | public | Obtiene todas las notificaciones |
+| configurePreferences | void | public | Permite configurar las notificaciones |
+
+	- Nombre: Notificaciones.
+	- Categoria: Entity.
+	- Proposito: Notificar a los usuarios.
+
+	- Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | Long| private | Id de entidad|
+| message| String | private | Mensaje|
+| recipients | List| private |Usuarios a los que se enviara la notificacion|
+| destiny| string| private |Destinatario|
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| Constructor | void | public | Constructor de la entidad|
+| sendNotification| void | public | Envia una notificacion |
+| deleteNotification| void | public | Elimina una notificacion |
+| getAllNotifications| List | public | Obtiene todas las notificaciones |
+| configurePreferences | void | public | Permite configurar las notificaciones |
+
+
 
 		- 4.2.5.2. Interface Layer. 
 		- 4.2.5.3. Application Layer. 
@@ -1050,7 +1084,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc0NDY4MzEsLTEwMzMxNDExMzYsMT
+eyJoaXN0b3J5IjpbLTExMTkyMDE5ODMsLTEwMzMxNDExMzYsMT
 IwMzAxNTczMywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcw
 NTM3MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3XX0=
 -->
