@@ -1099,7 +1099,20 @@ Atributos:
 | handle | void | public|
 
 - 4.2.5.4. Infrastructure Layer. 
-		
+	- Nombre: NotificationRepository.
+	- Categoria: Repository.
+	- Proposito: Persistir notificaciones.
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| ListAsync| Task<IEnumerate<Notications>>| public|
+| AddSync| Task<IActionResult>| public|
+| findByIdNotifications| Task<IEnumerate<Notifications>>| public|
+| findByFarmer| Task<IEnumerate<User>>**| public|
+| findByEspecialist| Task<IEnumerate<Especialist>>| public|
+| remove| void| public|		
 
 		- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
 		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
@@ -1163,7 +1176,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODc2NTM4LDE1OTc5MDQyMjUsLTEwMz
-MxNDExMzYsMTIwMzAxNTczMywyNTYxMDkxMjEsLTE0MDI1OTc5
-MDEsLTU1NTcwNTM3MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3XX0=
+eyJoaXN0b3J5IjpbLTg1NTcwMTQ4MCwyMDk4NzY1MzgsMTU5Nz
+kwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEy
+MSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsND
+UwODQxMTddfQ==
 -->
