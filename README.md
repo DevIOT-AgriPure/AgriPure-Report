@@ -1109,12 +1109,12 @@ Atributos:
 |-----------|-----------|-----------|
 | ListAsync| Task<IEnumerate<Notications>>| public|
 | AddSync| Task<IActionResult>| public|
-| findByIdNotifications| Task<IEnumerate<Notifications>>| public|
-| findByFarmer| Task<IEnumerate<User>>**| public|
-| findByEspecialist| Task<IEnumerate<Especialist>>| public|
+| findByUser| Task<IEnumerate<Notifications>>| public|
+| findByFarmer| Task<IEnumerate<User>>| public|
 | remove| void| public|		
 
-		- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
+- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
+![Component Diagram](https://media.discordapp.net/attachments/912089666939916348/1149460248898326618/Untitled_Diagram.drawio_1.png?width=811&height=608)
 		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
 			- 4.2.5.6.2. Bounded Context Database Design Diagram.
@@ -1176,8 +1176,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTcwMTQ4MCwyMDk4NzY1MzgsMTU5Nz
-kwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEy
-MSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsND
-UwODQxMTddfQ==
+eyJoaXN0b3J5IjpbLTIxMzA1MDA4MTUsMjA5ODc2NTM4LDE1OT
+c5MDQyMjUsLTEwMzMxNDExMzYsMTIwMzAxNTczMywyNTYxMDkx
+MjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNjA0MDg2NTQ1LD
+Q1MDg0MTE3XX0=
 -->
