@@ -1758,35 +1758,6 @@ Metodos:
 		![Class Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149592618334945340/image.png)	
 		- 4.2.6.6.2. Bounded Context Database Design Diagram.
 		![Class Diagram](https://media.discordapp.net/attachments/1063259243727306824/1149592735100190790/image.png)
-		- 4.1.3.2. Software Architecture Context Level Diagrams. 
-		- 4.1.3.2. Software Architecture Container Level Diagrams.
-		- 4.1.3.3. Software Architecture Deployment Diagrams. 
-
-- 4.2. Tactical-Level Domain-Driven Design.
-
-	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura. 
-	- **4.2.1. Bounded Context: **
-		- 4.2.1.1. Domain Layer. 
-		- 4.2.1.2. Interface Layer. 
-		- 4.2.1.3. Application Layer. 
-		- 4.2.1.4. Infrastructure Layer. 
-		- 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.1.6.2. Bounded Context Database Design Diagram.
-	- **4.2.2. Bounded Context: **
-		- 4.2.3.1. Domain Layer. 
-		- 4.2.3.2. Interface Layer. 
-		- 4.2.3.3. Application Layer. 
-		- 4.2.3.4. Infrastructure Layer. 
-		- 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
-		-  4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
-				- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
-				- 4.2.3.6.2. Bounded Context Database Design Diagram.
-			
-	- **4.2.3. Bounded Context: Crop Management**
-
-El Bounded Context de Crop Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
 
 - 4.2.3.1. Domain Layer. 
 
@@ -2012,58 +1983,6 @@ Metodos:
 
 ![Database Diagram 4](https://media.discordapp.net/attachments/912089666939916348/1149491679057956934/image.png?width=703&height=506)
 
-- **4.2.5. Bounded Context: Notifications**
-   
-	El Bounded Context de Notifications es un area que se enfoca en notificar a los usuarios y especialistas cuando surge algun evento dentro de la aplicacion.
-	
-	- 4.2.5.1. Domain Layer. 
-		- 4.2.5.2. Interface Layer. 
-		- 4.2.5.3. Application Layer. 
-		- 4.2.5.4. Infrastructure Layer. 
-		- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.5.6.2. Bounded Context Database Design Diagram.
-	- **4.2.6. Bounded Context: Subscription and Payments**
-   
-   El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
-	   
-	- 4.2.6.1. Domain Layer. 
-		- 4.2.6.2. Interface Layer. 
-		- 4.2.6.3. Application Layer. 
-		- 4.2.6.4. Infrastructure Layer. 
-		- 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.6.6.2. Bounded Context Database Design Diagram.
-	- **4.2.7. Bounded Context: **
-		- 4.2.7.1. Domain Layer. 
-		- 4.2.7.2. Interface Layer. 
-		- 4.2.7.3. Application Layer. 
-		- 4.2.7.4. Infrastructure Layer. 
-		- 4.2.7.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.7.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.7.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.7.6.2. Bounded Context Database Design Diagram.
-	- **4.2.8. Bounded Context: **
-		- 4.2.8.1. Domain Layer. 
-		- 4.2.8.2. Interface Layer. 
-		- 4.2.8.3. Application Layer. 
-		- 4.2.8.4. Infrastructure Layer. 
-		- 4.2.8.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.8.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.8.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.8.6.2. Bounded Context Database Design Diagram.
-	- **4.2.9. Bounded Context: **
-		- 4.2.9.1. Domain Layer. 
-		- 4.2.9.2. Interface Layer. 
-		- 4.2.9.3. Application Layer. 
-		- 4.2.9.4. Infrastructure Layer. 
-		- 4.2.9.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.9.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.9.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.9.6.2. Bounded Context Database Design Diagram.
-
 ## Conclusiones
 
 - La creación de repositorios en GitHub y su alojamiento en la nube permite que todos los miembros del equipo interactúen directamente con los avances desarrollados, lo que facilita la identificación de avances y futuras incorporaciones de programacion.
@@ -2082,5 +2001,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTEzOTQyNywzMjQzMDIyNzldfQ==
+eyJoaXN0b3J5IjpbMjEyMDQ5NTkxN119
 -->
