@@ -1117,8 +1117,9 @@ Atributos:
 ![Component Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149587376641953792/image.png?width=811&height=608)
 - 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
 	- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
-	
+	![Class Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149587757476368464/image.png?width=1293&height=487)
 	- 4.2.5.6.2. Bounded Context Database Design Diagram.
+	![Class Diagram](![](https://cdn.discordapp.com/attachments/1063259243727306824/1149588051673239652/image.png)?width=1293&height=487)
 	- **4.2.6. Bounded Context: Subscription and Payments**
    
    El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
@@ -1177,7 +1178,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTMzMzg2MiwyMDk4NzY1MzgsMTU5Nz
+eyJoaXN0b3J5IjpbMjAxMzE4Njg3OSwyMDk4NzY1MzgsMTU5Nz
 kwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEy
 MSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsND
 UwODQxMTddfQ==
