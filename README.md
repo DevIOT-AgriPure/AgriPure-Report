@@ -181,7 +181,7 @@ Ciclo:
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Diego Talledo (TB1):   | Fila 1    |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Diego Talledo (TB1):              Frank Alva (TB1): Para esta primera entrega definimos como equipo que secciones vamos a desarrollar dentro del proyecto, ademas aplica  | Fila 1    |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones.    | Fila 2    |
 
 
@@ -1331,9 +1331,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODY1MjM5NSwxMDIxMjAzNjkzLC01NT
-IwNjU3OTIsMTg4MDAxNTIzNywyMDk4NzY1MzgsMTU5NzkwNDIy
-NSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEyMSwtMT
-QwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsNDUwODQx
-MTddfQ==
+eyJoaXN0b3J5IjpbLTE0NjE1MzE0MzksLTM2ODY1MjM5NSwxMD
+IxMjAzNjkzLC01NTIwNjU3OTIsMTg4MDAxNTIzNywyMDk4NzY1
+MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLD
+I1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQw
+ODY1NDUsNDUwODQxMTddfQ==
 -->
