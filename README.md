@@ -710,10 +710,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 	El Context Mapping es una metodología empleada en el desarrollo de software para comprender y representar gráficamente las conexiones entre los usuarios, los conceptos y los equipos que forman parte de un proyecto.
 
 	- 4.1.3. Software Architecture. 
-		- 4.1.3.1. Software Architecture System Landscape Diagram. 
-		- 4.1.3.2. Software Architecture Context Level Diagrams. 
-		- 4.1.3.2. Software Architecture Container Level Diagrams.
-		- 4.1.3.3. Software Architecture Deployment Diagrams. 
+		- 4.1.3.1. Software Architecture System Landscape Diagram. ![Landscape Diagram](https://media.discordapp.net/attachments/1143666758042013892/1149092447788486677/landscape.drawio.png?width=1025&height=405) 
+		- 4.1.3.2. Software Architecture Context Level Diagrams. ![Context diagram](https://media.discordapp.net/attachments/1143666758042013892/1149089602737537094/Context.drawio.png?width=954&height=473)
+		- 4.1.3.2. Software Architecture Container Level Diagrams. ![Container DIagram](https://media.discordapp.net/attachments/1143666758042013892/1149106586892111892/container.drawio.png?width=454&height=473)
+		- 4.1.3.3. Software Architecture Deployment Diagrams. ![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473) 
 
 - 4.2. Tactical-Level Domain-Driven Design.
 
