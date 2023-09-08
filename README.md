@@ -734,128 +734,148 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 - 4.2. Tactical-Level Domain-Driven Design.
 
 	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura. 
-	- **4.2.1. Bounded Context: Specialist Contact**
-		- 4.2.1.1. Domain Layer.
-			- Nombre: Specialist
-			- Categoría: Entity
-			- Propósito: Persona encargada de orientar y asesorar al agricultor
-			- Atributos
+- **4.2.1. Bounded Context: Specialist Contact**
+	- 4.2.1.1. Domain Layer.
+		- Nombre: Specialist
+		- Categoría: Entity
+		- Propósito: Persona encargada de orientar y asesorar al agricultor
+		- Atributos
 
-|    Nombre   | Tipo de dato | Visibilidad | Descripción| 
-|:-----------:|-------------:|------------:|--------------------------------------|
-| id          | Long         | private     | id de identificación de especialista |
-| name        | String       | private     | nombre del especialista              |
-| cellphone   | Long         | private     | celular del especialista             |
-| email       | String       | private     | email del especialista               |
-| password    | String       | private     | contraseña del especialista          |
-| descripción | String       | private     | descripcion del especialista         |
+			|    Nombre   | Tipo de dato | Visibilidad | Descripción| 
+			|:-----------:|-------------:|------------:|--------------------------------------|
+			| id          | Long         | private     | id de identificación de especialista |
+			| name        | String       | private     | nombre del especialista              |
+			| cellphone   | Long         | private     | celular del especialista             |
+			| email       | String       | private     | email del especialista               |
+			| password    | String       | private     | contraseña del especialista          |
+			| descripción | String       | private     | descripcion del especialista         |
 
-			- Metodos:
+		- Metodos:
 
-|    Nombre   | Tipo de dato | Visibilidad | Descripción                          |
-|:-----------:|-------------:|------------:|--------------------------------------|
-| id          | Long         | private     | id de identificación de especialista |
-| name        | String       | private     | nombre del especialista              |
-| cellphone   | Long         | private     | celular del especialista             |
-| email       | String       | private     | email del especialista               |
-| password    | String       | private     | contraseña del especialista          |
-| descripción | String       | private     | descripcion del especialista         |
+			|    Nombre   | Tipo de dato | Visibilidad | Descripción                          |
+			|:-----------:|-------------:|------------:|--------------------------------------|
+			| id          | Long         | private     | id de identificación de especialista |
+			| name        | String       | private     | nombre del especialista              |
+			| cellphone   | Long         | private     | celular del especialista             |
+			| email       | String       | private     | email del especialista               |
+			| password    | String       | private     | contraseña del especialista          |
+			| descripción | String       | private     | descripcion del especialista         |
 
-			- Nombre: Chat
-			- Categoría: ENtity
-			- Propósito: Registrar los mensajes entre especialista y agricultor
-			- Atributos
+		- Nombre: Chat
+		- Categoría: ENtity
+		- Propósito: Registrar los mensajes entre especialista y agricultor
+		- Atributos
 
-|    Nombre   | Tipo de dato | Visibilidad | Descripción                          |
-|:-----------:|-------------:|------------:|--------------------------------------|
-| id          | Long         | private     | id de identificación de especialista |
-| name        | String       | private     | nombre del especialista              |
-| cellphone   | Long         | private     | celular del especialista             |
-| email       | String       | private     | email del especialista               |
-| password    | String       | private     | contraseña del especialista          |
-| descripción | String       | private     | descripcion del especialista         |
+			|    Nombre   | Tipo de dato | Visibilidad | Descripción                          |
+			|:-----------:|-------------:|------------:|--------------------------------------|
+			| id          | Long         | private     | id de identificación de especialista |
+			| name        | String       | private     | nombre del especialista              |
+			| cellphone   | Long         | private     | celular del especialista             |
+			| email       | String       | private     | email del especialista               |
+			| password    | String       | private     | contraseña del especialista          |
+			| descripción | String       | private     | descripcion del especialista         |
 
-			- Metodos:
+		- Metodos:
 
-|      Nombre     |  Tipo de dato | Visibilidad | Descripción                    |
-|:---------------:|--------------:|------------:|--------------------------------|
-| constructor     | void          | public      | Constructor de la clase        |
-| getChatName     | String        | public      | obtener el nombre del chat     |
-| getMessages     | List<Message> | public      | obtener los mensajes del chat  |
-| getParticipants | List<Users>   | public      | obtener participantes del chat |
+			|      Nombre     |  Tipo de dato | Visibilidad | Descripción                    |
+			|:---------------:|--------------:|------------:|--------------------------------|
+			| constructor     | void          | public      | Constructor de la clase        |
+			| getChatName     | String        | public      | obtener el nombre del chat     |
+			| getMessages     | List<Message> | public      | obtener los mensajes del chat  |
+			| getParticipants | List<Users>   | public      | obtener participantes del chat |
 
-			- Nombre: ContactRequest
-			- Categoría: Value Object
-			- Propósito: Petición de contacto para los especialistas
+		- Nombre: ContactRequest
+		- Categoría: Value Object
+		- Propósito: Petición de contacto para los especialistas
 
-			- Atributos
+		- Atributos
 
-|    Nombre    |  Tipo de dato | Visibilidad | Descripción                                    |
-|:------------:|--------------:|------------:|------------------------------------------------|
-| userId       | Long          | private     | Id del usuario que solicita contacto           |
-| specialistId | Long          | private     | Id del especialista al que se quiere contactar |
-| status       | StatusRequest | private     | Estado de la solicitud de contacto             |
-| message      | String        | private     | mensaje enviado al especialista                |
+			|    Nombre    |  Tipo de dato | Visibilidad | Descripción                                    |
+			|:------------:|--------------:|------------:|------------------------------------------------|
+			| userId       | Long          | private     | Id del usuario que solicita contacto           |
+			| specialistId | Long          | private     | Id del especialista al que se quiere contactar |
+			| status       | StatusRequest | private     | Estado de la solicitud de contacto             |
+			| message      | String        | private     | mensaje enviado al especialista                |
 
-				- Métodos:
-|     Nombre     |  Tipo de dato | Visibilidad | Descripción                        |
-|:--------------:|--------------:|------------:|------------------------------------|
-| ContactRequest | void          | public      | constructor de la clase            |
-| getMessage     | String        | public      | Obtener el mensaje enviado         |	
+		- Métodos:
+			|     Nombre     |  Tipo de dato | Visibilidad | Descripción                        |
+			|:--------------:|--------------:|------------:|------------------------------------|
+			| ContactRequest | void          | public      | constructor de la clase            |
+			| getMessage     | String        | public      | Obtener el mensaje enviado         |	
 
-			- Nombre: Message
-			- Value Object
-			- Propósito: Fuente de comunicación
-			- Atributos:
-|    Nombre   | Tipo de dato | Visibilidad | Descripción                         |
-|:-----------:|-------------:|------------:|-------------------------------------|
-| userId      | Long         | public     | Id del usuario que envio el mensaje |
-| content     | String       | public     | contenido del mensaje               |
+		- Nombre: Message
+		- Value Object
+		- Propósito: Fuente de comunicación
+		- Atributos:
+			|    Nombre   | Tipo de dato | Visibilidad | Descripción                         |
+			|:-----------:|-------------:|------------:|-------------------------------------|
+			| userId      | Long         | public     | Id del usuario que envio el mensaje |
+			| content     | String       | public     | contenido del mensaje               |
 			
-			- Nombre: StatusRequest
-			- Categoría: Enumeration
-			- Propósito: Indicador de estado de la solicitud
+		- Nombre: StatusRequest
+		- Categoría: Enumeration
+		- Propósito: Indicador de estado de la solicitud
 
-|    Nombre   | Tipo de dato | Visibilidad |
-|:-----------:|-------------:|------------:|
-| IN_WAIT     | String       | public      | 
-| ACCEPTED    | String       | public      |
-| REJECTED    | String       | public      |
+			|    Nombre   | Tipo de dato | Visibilidad |
+			|:-----------:|-------------:|------------:|
+			| IN_WAIT     | String       | public      | 
+			| ACCEPTED    | String       | public      |
+			| REJECTED    | String       | public      |
 
-			- Nombre: ISpecialistRepository
-			- Categoría: Repository
-			- Propósito: Persistir especialistas
-			- Metodos: 
-|     Nombre     |             Tipo de dato | Visibilidad |
-|:--------------:|-------------------------:|------------:|
-| ListSpecialist | List<SpecialistResource> | public      |
-| Add            | addSpecialistResource    | public      |
-| FindById       | SpecialistResource       | public      |
-| Update         | updateSpecialistResource | public      |
-| Remove         | removeSpecialistResource | public      |
-			- Nombre: IRequest Repository
-			- Categorìa: Repository
-			- Propòsito: Persistir solicitudes
-			- Mètodos: 
-|    Nombre    |          Tipo de dato | Visibilidad |
-|:------------:|----------------------:|------------:|
-| ListRequest  | List<RequestResource> | public      |
-| Add          | addRequestResource    | public      |
-| FindById     | RequestResource       | public      |
-| Update       | updateRequestResource | public      |
-| Remove       | removeRequestResource | public      |
-| FindByUserId | RequestResource       | public      |
+		- Nombre: ISpecialistRepository
+		- Categoría: Repository
+		- Propósito: Persistir especialistas
+		- Metodos: 
+			|     Nombre     |             Tipo de dato | Visibilidad |
+			|:--------------:|-------------------------:|------------:|
+			| ListSpecialist | List<SpecialistResource> | public      |
+			| Add            | addSpecialistResource    | public      |
+			| FindById       | SpecialistResource       | public      |
+			| Update         | updateSpecialistResource | public      |
+			| Remove         | removeSpecialistResource | public      |
+		- Nombre: IRequest Repository
+		- Categorìa: Repository
+		- Propòsito: Persistir solicitudes
+		- Mètodos: 
+			|    Nombre    |          Tipo de dato | Visibilidad |
+			|:------------:|----------------------:|------------:|
+			| ListRequest  | List<RequestResource> | public      |
+			| Add          | addRequestResource    | public      |
+			| FindById     | RequestResource       | public      |
+			| Update       | updateRequestResource | public      |
+			| Remove       | removeRequestResource | public      |
+			| FindByUserId | RequestResource       | public      |
 
 
-	- 4.2.1.2. Interface Layer. 
-		
-	- 4.2.1.3. Application Layer. 
-	- 4.2.1.4. Infrastructure Layer. 
-	- 4.2.1.5. Bounded Context Software ArchitectureComponent Level Diagrams. 
-	- 4.2.1.6. Bounded Context Software Architecture CodeLevel Diagrams. 
+- 4.2.1.2. Interface Layer. 
+	- Nombre: SPecialistController
+	- Categorìa: Controller
+	- Propòsito: Controlador de especialistas
+	|    Nombre    |             Tipo de dato | Visibilidad | 
+	|:------------:|-------------------------:|------------:|
+	| GetAll       | List<SpecialistResource  | public      |
+	| GetById      | SpecialistResource       | public      |
+	| Post         | addSpecialistResource    | public      |
+	| Put          | updateSpecialistResource | public      |
+	| Delete       | removeSpecialistResource | public      |
+	- Nombre: RequestController
+	- Categoría: Controller
+	- Propósito: Controlar las solicitudes
+		|    Nombre    |          Tipo de dato | Visibilidad | Descripción                     |
+		|:------------:|----------------------:|------------:|---------------------------------|
+		| GetAll       | List<RequestResource  | public      | constructor de la clase         |
+		| GetById      | RequestResource       | public      | Obtener el mensaje enviado      |
+		| Post         | addRequestResource    | public      | contenido del mensaje           |
+		| Put          | updateRequestResource | public      | mensaje enviado al especialista |
+		| Delete       | removeRequestResource | public      |
+- 4.2.1.3. Application Layer. 
+	
+- 4.2.1.4. Infrastructure Layer. 
+- 4.2.1.5. Bounded Context Software ArchitectureComponent Level Diagrams. 
+- 4.2.1.6. Bounded Context Software Architecture CodeLevel Diagrams. 
 		- 4.2.1.6.1. Bounded Context Domain Layer ClassDiagrams. 
 		- 4.2.1.6.2. Bounded Context Database DesignDiagram.
-- ** 4.2.2. Bounded Context: **
+- **4.2.2. Bounded Context: Project**
 	- 4.2.3.1. Domain Layer. 
 	- 4.2.3.2. Interface Layer. 
 	- 4.2.3.3. Application Layer. 
