@@ -1033,17 +1033,19 @@ Atributos:
 - 4.2.5.2. Interface Layer. 
 
 	- Nombre: NotificationController.
-	- Categoria: Entity.
-	- Proposito: Almacenar las notificaciones del usuario.
+	- Categoria: Controller.
+	- Proposito: Controlador de Notificaciones.
 
 - Atributos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
-| id | int| private |
-| description| String | private |
-| messageCreationDate| Date| private |
-| title| string| private |
+| getAllNotifications| Task<IEnumerate<Notications>>| public|
+| getByIdNotifications| Task<IActionResult>| public|
+| findByIdNotifications| Task<IEnumerate<Notifications>>| public|
+| findByIdFarmer| Task<IEnumerate<User>>**| public|
+| findByEspecialist| Task<IEnumerate<Especialist>>| public|
+| remove| void| public|
 
 Metodos:
 
@@ -1123,7 +1125,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDkyMjY4NywxNTk3OTA0MjI1LC0xMD
-MzMTQxMTM2LDEyMDMwMTU3MzMsMjU2MTA5MTIxLC0xNDAyNTk3
-OTAxLC01NTU3MDUzNzEsMTYwNDA4NjU0NSw0NTA4NDExN119
+eyJoaXN0b3J5IjpbLTEzNTkyNDU2NjYsMTU5NzkwNDIyNSwtMT
+AzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEyMSwtMTQwMjU5
+NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsNDUwODQxMTddfQ
+==
 -->
