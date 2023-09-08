@@ -1106,7 +1106,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 		![Diagram Class](https://media.discordapp.net/attachments/1149587894416183327/1149613134072512553/image.png?width=689&height=473)
 	- 4.2.2.6.2. Bounded Context Database DesignDiagram.
 		![Database diagram](https://media.discordapp.net/attachments/1143666758042013892/1149572172126376026/BoundedContexts-2023-09-07_23-29.png)
-
+- **4.2.3. Bounded Context: Project**
 	- 4.2.3.1. Domain Layer. 
 		- Nombre: Project
 		- Categoría: Entity
@@ -1226,11 +1226,11 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 		- 4.2.3.6.2. Bounded Context Database DesignDiagram.
 			![DB Diagram Project](https://cdn.discordapp.com/attachments/1143666758042013892/1149572172503842837/BC_ProjectManagement-2023-09-08_00-08.png)
 		
-- **4.2.3. Bounded Context: Crop Management**
+- **4.2.4. Bounded Context: Crop Management**
 
 El Bounded Context de Crop Management es un area que se enfoca en el registro y control de plantas, en donde el usuario podra registrar, eliminar y ver informacion sobre cierto cultivo.
 
-- 4.2.3.1. Domain Layer. 
+- 4.2.4.1. Domain Layer. 
 
 	- Nombre: Crop
 	- Categoria: Entity
@@ -1271,7 +1271,7 @@ Metodos:
 | Constructor | void | public | Constructor de la lista |
 | getList | void | public | Metodo para obtener la lista |
 
-- 4.2.3.2. Interface Layer. 
+- 4.2.4.2. Interface Layer. 
 
 	- Nombre: CropController
 	- Categoria: Controller
@@ -1286,7 +1286,7 @@ Metodos:
 | Remove| void | public |
 | FindCropById| CropResource | public |
 
-- 4.2.3.3. Application Layer. 
+- 4.2.4.3. Application Layer. 
 
 	- Nombre: addplant.event
 	- Categoria: EventHandler
@@ -1306,7 +1306,7 @@ Metodos:
 |-----------|-----------|-----------|
 | handle| void | public |
 
-- 4.2.3.4. Infrastructure Layer. 
+- 4.2.4.4. Infrastructure Layer. 
 
 	- Nombre: CropRepository
 	- Categoria: Repository
@@ -1321,18 +1321,18 @@ Metodos:
 | Remove| void | public |
 | FindCropById| CropResource | public |
 
-- 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams. 	
+- 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams. 	
 
 ![Component Diagram 3](https://media.discordapp.net/attachments/912089666939916348/1149456748999090336/Untitled_Diagram.drawio.png?width=664&height=669)
--  4.2.3.6. Bounded Context Software Architecture Code Level Diagrams. 
+-  4.2.4.6. Bounded Context Software Architecture Code Level Diagrams. 
 
-	- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
+	- 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams. 
 	
 		![Class Diagram 3](https://media.discordapp.net/attachments/912089666939916348/1149504626194927677/image.png?width=1062&height=484)
 
 - 4.2.3.6.2. Bounded Context Database Design Diagram.
 
-		![Database Diagram 3](https://cdn.discordapp.com/attachments/912089666939916348/1149490546893664357/image.png)
+	![Database Diagram 3](https://cdn.discordapp.com/attachments/912089666939916348/1149490546893664357/image.png)
 
 - **4.2.4. Bounded Context: Knowledge Management**
 
@@ -2082,5 +2082,5 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MDgyMzc2LDMyNDMwMjI3OV19
+eyJoaXN0b3J5IjpbMTAzMTEzOTQyNywzMjQzMDIyNzldfQ==
 -->
