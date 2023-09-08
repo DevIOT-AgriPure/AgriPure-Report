@@ -1163,21 +1163,20 @@ Atributos:
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
 | id | int| private | Id|
-| payment_id| int| private | Mensaje|
-| invoce_id| int| private |Tipo de tarjeta|
-| amount| double| private |Precio de suscripción|
-| create_datetime| Date| private |Cantidad|
+| payment_id| int| private | id del pago|
+| invoce_id| int| private |id del recibo|
+| amount| double| private |Monto del recibo|
+| create_datetime| Date| private |Fecha de pago|
 
 Metodos:
 
 | Nombre | Tipo de Retorno | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| getStatus| void | public | Retorna el status del pago|
 | getId| void | public | Retorna el id del usuario |
-| getPrice| void | public | Obtiene el precio de la suscripción actual. |
-| getAmount| void | public | Obtiene la cantidad del pago |
 | getPaymentId| void | public | Obtiene la cantidad del pago |
-| getPaymentDate| void | public | Obtiene la fecha y hora del pago |
+| getInvoceId| void | public | Retorna el id del recibo |
+| getAmount| void | public | Obtiene la cantidad del pago |
+| getDateTime| void | public | Obtiene la fecha del pago |
 
 - 4.2.6.2. Interface Layer. 
 
@@ -1233,7 +1232,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDkwNDg0LDE4ODAwMTUyMzcsMjA5OD
+eyJoaXN0b3J5IjpbMjQ1NzY4OTM2LDE4ODAwMTUyMzcsMjA5OD
 c2NTM4LDE1OTc5MDQyMjUsLTEwMzMxNDExMzYsMTIwMzAxNTcz
 MywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNj
 A0MDg2NTQ1LDQ1MDg0MTE3XX0=
