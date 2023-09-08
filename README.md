@@ -211,7 +211,8 @@ Ciclo:
 |Franchesco Alexis Soto Morales| Mi nombre es Franchesco Soto, tengo 22 años y estudio la carrera de Ingeniería de Software, puedo aportar mis conocimientos en desarrollo web y móvil para alcanzar los objetivos planteados. |  ![Franchesco Soto](https://media.discordapp.net/attachments/881196470844420159/1149556296111112333/WhatsApp_Image_2023-09-07_at_11.06.07_PM.jpeg?width=230&height=315)
 |Frank Yamil Alva Cordova| Mi sombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.| 
 ![Frank Alva](https://cdn.discordapp.com/attachments/1063259243727306824/1149578749671645194/368702993_1380162125911127_1074457933449185880_n.jpg?width=156&height=285)
-|
+
+| Frank Yamil Alva Cordova| Mi sombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.| 
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
 
@@ -1036,7 +1037,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzkzNTA4MywyNTYxMDkxMjEsLTE0MD
+eyJoaXN0b3J5IjpbMTc3ODY2Mjk2NSwyNTYxMDkxMjEsLTE0MD
 I1OTc5MDEsLTU1NTcwNTM3MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3
 XX0=
 -->
