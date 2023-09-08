@@ -1124,19 +1124,24 @@ Atributos:
    
    El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
 	   
-	- 4.2.6.1. Domain Layer. 
-		- Nombre: Notificaciones.
+- 4.2.6.1. Domain Layer. 
+	- Nombre: Payment.
 	- Categoria: Entity.
-	- Proposito: Notificar a los usuarios.
+	- Proposito: Informacion de las suscripciones y pagos.
 
-	- Atributos:
+Atributos:
 
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
-| id | Long| private | Id de entidad|
-| message| String | private | Mensaje|
-| recipients | List| private |Usuarios a los que se enviara la notificacion|
-| destiny| string| private |Destinatario|
+| id | int| private | Id de entidad|
+| status| String | private | Mensaje|
+| type| string| private |Tipo de tarjeta|
+| price| long| private |Destinatario|
+| amount| double| private |Destinatario|
+| creditcard| long| private |Destinatario|
+| payment_id| int| private |Destinatario|
+| payment_date| Date| private |Destinatario|
+| deleted| int| private |Destinatario|
 
 Metodos:
 
@@ -1200,8 +1205,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcxMDAyMjIsMTg4MDAxNTIzNywyMD
-k4NzY1MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1
-NzMzLDI1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLD
-E2MDQwODY1NDUsNDUwODQxMTddfQ==
+eyJoaXN0b3J5IjpbMTEyMDY4NTg4MCwxODgwMDE1MjM3LDIwOT
+g3NjUzOCwxNTk3OTA0MjI1LC0xMDMzMTQxMTM2LDEyMDMwMTU3
+MzMsMjU2MTA5MTIxLC0xNDAyNTk3OTAxLC01NTU3MDUzNzEsMT
+YwNDA4NjU0NSw0NTA4NDExN119
 -->
