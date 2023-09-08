@@ -981,7 +981,8 @@ Metodos:
 |-----------|-----------|-----------|-----------|
 | id | Long| private | Id de entidad|
 | message| String | private | Mensaje|
-| Recipi | Longint | private | Id del cultivo|
+| recipients | List| private |Usuarios a los que se enviara la notificacion|
+| destiny| string| private |Destinatario|
 
 
 		- 4.2.5.2. Interface Layer. 
@@ -1049,7 +1050,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM4NzU1MzEsLTEwMzMxNDExMzYsMT
+eyJoaXN0b3J5IjpbLTE5NDc0NDY4MzEsLTEwMzMxNDExMzYsMT
 IwMzAxNTczMywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcw
 NTM3MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3XX0=
 -->
