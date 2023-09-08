@@ -209,7 +209,8 @@ Ciclo:
 |Bruno Moisés Palomino Santa Cruz|Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.| ![Bruno Palomino](https://media.discordapp.net/attachments/1097570098631413841/1149556591423664201/image.png?width=156&height=285)
 
 |Diego Talledo Sanchez|  | |
-|Franchesco Alexis Soto Morales| Mi nombre es Franchesco Soto, tengo 22 años y estudio la carrera de Ingeniería de Software, puedo aportar mis conocimientos en desarrollo web y móvil para alcanzar los objetivos planteados. |![Franchesco Soto](https://media.discordapp.net/attachments/881196470844420159/1149556296111112333/WhatsApp_Image_2023-09-07_at_11.06.07_PM.jpeg?width=473&height=473) |
+|Franchesco Alexis Soto Morales| Mi nombre es Franchesco Soto, tengo 22 años y estudio la carrera de Ingeniería de Software, puedo aportar mis conocimientos en desarrollo web y móvil para alcanzar los objetivos planteados. | 
+![Franchesco Soto](https://media.discordapp.net/attachments/881196470844420159/1149556296111112333/WhatsApp_Image_2023-09-07_at_11.06.07_PM.jpeg?width=473&height=473)
 |Frank Yamil Alva Cordova| Mi sombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.| |
 
 ### 1.2. Solution Profile
@@ -1036,6 +1037,6 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTcwNTM3MSwxNjA0MDg2NTQ1LDQ1MD
-g0MTE3XX0=
+eyJoaXN0b3J5IjpbLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNj
+A0MDg2NTQ1LDQ1MDg0MTE3XX0=
 -->
