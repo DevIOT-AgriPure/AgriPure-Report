@@ -838,9 +838,9 @@ Metodos:
 
 	- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
 	
+![Class Diagram 3](https://media.discordapp.net/attachments/912089666939916348/1149504626194927677/image.png?width=1062&height=484)
 
-
-	- 4.2.3.6.2. Bounded Context Database Design Diagram.
+- 4.2.3.6.2. Bounded Context Database Design Diagram.
 
 ![Database Diagram 3](https://cdn.discordapp.com/attachments/912089666939916348/1149490546893664357/image.png)
 
@@ -1026,5 +1026,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTgwMDI2MF19
+eyJoaXN0b3J5IjpbLTYzMTc2MTUxNV19
 -->
