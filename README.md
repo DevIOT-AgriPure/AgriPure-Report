@@ -983,7 +983,7 @@ Metodos:
 
 - **4.2.5. Bounded Context: Notifications**
    
-	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
+	El Bounded Context de Notifications es un area que se enfoca en poder notificar al usuario sobre algun evento que esta ocurriendo dentro de la aplicacion.
 
 - 4.2.5.1. Domain Layer. 
 
@@ -1331,8 +1331,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTIwMzY5MywtNTUyMDY1NzkyLDE4OD
-AwMTUyMzcsMjA5ODc2NTM4LDE1OTc5MDQyMjUsLTEwMzMxNDEx
-MzYsMTIwMzAxNTczMywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLT
-U1NTcwNTM3MSwxNjA0MDg2NTQ1LDQ1MDg0MTE3XX0=
+eyJoaXN0b3J5IjpbLTE1MDcyNDg0ODcsMTAyMTIwMzY5MywtNT
+UyMDY1NzkyLDE4ODAwMTUyMzcsMjA5ODc2NTM4LDE1OTc5MDQy
+MjUsLTEwMzMxNDExMzYsMTIwMzAxNTczMywyNTYxMDkxMjEsLT
+E0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNjA0MDg2NTQ1LDQ1MDg0
+MTE3XX0=
 -->
