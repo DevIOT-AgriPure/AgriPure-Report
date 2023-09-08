@@ -1151,8 +1151,36 @@ Metodos:
 | getId| void | public | Retorna el id del usuario |
 | getPrice| void | public | Obtiene el precio de la suscripción actual. |
 | getAmount| void | public | Obtiene la cantidad del pago |
+| getPaymentId| void | public | Obtiene la cantidad del pago |
 | getPaymentDate| void | public | Obtiene la fecha y hora del pago |
-		- 4.2.6.2. Interface Layer. 
+
+- Nombre: Invoce.
+	- Categoria: Entity.
+	- Proposito: Recibo de pago.
+
+Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | int| private | Id|
+| payment_id| int| private | Mensaje|
+| invoce_id| int| private |Tipo de tarjeta|
+| amount| double| private |Precio de suscripción|
+| create_datetime| Date| private |Cantidad|
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| getStatus| void | public | Retorna el status del pago|
+| getId| void | public | Retorna el id del usuario |
+| getPrice| void | public | Obtiene el precio de la suscripción actual. |
+| getAmount| void | public | Obtiene la cantidad del pago |
+| getPaymentId| void | public | Obtiene la cantidad del pago |
+| getPaymentDate| void | public | Obtiene la fecha y hora del pago |
+
+- 4.2.6.2. Interface Layer. 
+
 		- 4.2.6.3. Application Layer. 
 		- 4.2.6.4. Infrastructure Layer. 
 		- 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
@@ -1205,8 +1233,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY1MDA2MjUsMTg4MDAxNTIzNywyMD
-k4NzY1MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1
-NzMzLDI1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLD
-E2MDQwODY1NDUsNDUwODQxMTddfQ==
+eyJoaXN0b3J5IjpbLTI1NDkwNDg0LDE4ODAwMTUyMzcsMjA5OD
+c2NTM4LDE1OTc5MDQyMjUsLTEwMzMxNDExMzYsMTIwMzAxNTcz
+MywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNj
+A0MDg2NTQ1LDQ1MDg0MTE3XX0=
 -->
