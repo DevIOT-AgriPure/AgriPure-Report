@@ -1016,6 +1016,20 @@ Metodos:
 | getCreationDate| Date| public |
 | getDescription| string| public |
 
+- Nombre: NotificationStatus.
+- Categoria: Enumeration.
+- Proposito: Manejo de valores de estado de las notificaciones.
+
+Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| CREATED | int| public|
+| SENDER| int| public |
+| IN_PROGRESS| int | public |
+| ABORTED| int | public |
+| FINISHED| int | public |
+
 - 4.2.5.2. Interface Layer. 
 		- 4.2.5.3. Application Layer. 
 		- 4.2.5.4. Infrastructure Layer. 
@@ -1081,7 +1095,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMj
-AzMDE1NzMzLDI1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1
-MzcxLDE2MDQwODY1NDUsNDUwODQxMTddfQ==
+eyJoaXN0b3J5IjpbMTAxMjkxNzM1OSwxNTk3OTA0MjI1LC0xMD
+MzMTQxMTM2LDEyMDMwMTU3MzMsMjU2MTA5MTIxLC0xNDAyNTk3
+OTAxLC01NTU3MDUzNzEsMTYwNDA4NjU0NSw0NTA4NDExN119
 -->
