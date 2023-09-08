@@ -206,10 +206,10 @@ Ciclo:
 | Nombre| Descripción| Foto |
 |-----------|-----------|-----------
 |Andres Christian Reynoso  | Mi nombre es Andres Christian Reynoso, tengo 20 años y estudio en la carrera de Ingenieria de Software, estoy dispuesto a apoyar a mis compañeros en los momentos que sean necesarios. | ![Andres Reynoso](https://media.discordapp.net/attachments/912089666939916348/1149421487170801895/0540202010196.png?width=230&height=315)
-|Bruno Moisés Palomino Santa Cruz|Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.|
-|Diego Talledo Sanchez|  |
-|Franchesco Alexis Soto Morales|  |
-|Frank Yamil Alva Cordova| Mi sombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.|
+|Bruno Moisés Palomino Santa Cruz|Mi nombre es Bruno Moises Palomino, tengo 20 años y estudio la carrera de Ingeniera de Software, me considero una persona colaborativa y proactiva en los proyectos asigandos.| |
+|Diego Talledo Sanchez|  | |
+|Franchesco Alexis Soto Morales|  | |
+|Frank Yamil Alva Cordova| Mi sombre es Frank Alva Cordova, tengo 20 años, estudio la carrera de Ingenieria de Software, soy una persona responsable y entusiasta. Considero que puedo aportar con el grupo con los conocimientos adquiridos en el curso.| |
 
 ### 1.2. Solution Profile
 - 1.2.1 Antecedentes y problemática
@@ -1030,5 +1030,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDk2Mzc2NV19
+eyJoaXN0b3J5IjpbLTY1OTQ0NjAyNywxMzA0OTYzNzY1XX0=
 -->
