@@ -182,7 +182,7 @@ Ciclo:
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Frank Alva (TB1): Para esta primera entrega definimos como equipo que secciones vamos a desarrollar dentro del proyecto, ademas aplicamos diversas metodologias para una eficacia y eficiencia dentro del proyecto. Diego Talledo (TB1):  | Fila 1    |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones.    | Fila 2    |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones. Frank Alva (TB1): Al analizar nuestros segmentos objetivos, competidores, desarrollar nuestros users stories y user persona pudimos conocer mejor el ambito empresarial del sector de     | Fila 2    |
 
 
 ## Capítulo I: Introducción
@@ -1331,7 +1331,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjE1NjM2MiwtMzY4NjUyMzk1LDEwMj
+eyJoaXN0b3J5IjpbLTQ5OTExOTc1MCwtMzY4NjUyMzk1LDEwMj
 EyMDM2OTMsLTU1MjA2NTc5MiwxODgwMDE1MjM3LDIwOTg3NjUz
 OCwxNTk3OTA0MjI1LC0xMDMzMTQxMTM2LDEyMDMwMTU3MzMsMj
 U2MTA5MTIxLC0xNDAyNTk3OTAxLC01NTU3MDUzNzEsMTYwNDA4
