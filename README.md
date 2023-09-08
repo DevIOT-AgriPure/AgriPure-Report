@@ -181,8 +181,8 @@ Ciclo:
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Diego Talledo:   | Fila 1    |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1):    | Fila 2    |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Diego Talledo (TB1):   | Fila 1    |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1):     | Fila 2    |
 
 
 ## Capítulo I: Introducción
@@ -1030,5 +1030,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzM3ODA5Nl19
+eyJoaXN0b3J5IjpbLTEyMTA2NTIwMDksMTk3MzM3ODA5Nl19
 -->
