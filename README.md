@@ -1991,6 +1991,7 @@ Metodos:
 
 ## Anexos
 
+
 **ANEXO A: Product Backlog**
 
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
@@ -2003,7 +2004,9 @@ https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hr
 https://miro.com/welcomeonboard/WHprVTI0dlZqQlRKa3JIOGVrRnZwb2RXcGRZWHlpcDQ3ejI2ZWx3T2IwWm9pNk04RzNrTnZFWEhiSURGUWIwZnwzNDU4NzY0NTIzMzUwNTAxMDQ1fDI=?share_link_id=579006095436
 https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBOamljTkwxbmdUMmVZSFM3RGRUMFkzek5SSTJkd3wzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=70682603501
 
-
+**ANEXO C: Video de exposiciones**
+| Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
+|-----------|-----------|
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIwODcyNTQyODldfQ==
 -->
