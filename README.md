@@ -851,13 +851,15 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 	- Nombre: SPecialistController
 	- Categorìa: Controller
 	- Propòsito: Controlador de especialistas
-	|    Nombre    |             Tipo de dato | Visibilidad | 
-	|:------------:|-------------------------:|------------:|
-	| GetAll       | List<SpecialistResource  | public      |
-	| GetById      | SpecialistResource       | public      |
-	| Post         | addSpecialistResource    | public      |
-	| Put          | updateSpecialistResource | public      |
-	| Delete       | removeSpecialistResource | public      |
+
+		|    Nombre    |             Tipo de dato | Visibilidad | 
+		|:------------:|-------------------------:|------------:|
+		| GetAll       | List<SpecialistResource  | public      |
+		| GetById      | SpecialistResource       | public      |
+		| Post         | addSpecialistResource    | public      |
+		| Put          | updateSpecialistResource | public      |
+		| Delete       | removeSpecialistResource | public      |
+
 	- Nombre: RequestController
 	- Categoría: Controller
 	- Propósito: Controlar las solicitudes
@@ -869,12 +871,42 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 		| Put          | updateRequestResource | public      | mensaje enviado al especialista |
 		| Delete       | removeRequestResource | public      |
 - 4.2.1.3. Application Layer. 
-	
+	- Nombre: specialist-requested.event
+	- Categoría: EventHandler
+	- Propósito: Gestiona la creacion de un evento
+	- Métodos: 
+
 - 4.2.1.4. Infrastructure Layer. 
-- 4.2.1.5. Bounded Context Software ArchitectureComponent Level Diagrams. 
+	- Nombre: SpecialistRepository
+	- Categoría: Repository
+	- Propósito: Persistencia de Especialistas
+	- Mètodos
+		|     Nombre     |             Tipo de dato | Visibilidad |
+		|:--------------:|-------------------------:|------------:|	
+		| ListSpecialist | List<SpecialistResource> | public      | 
+		| Add            | addSpecialistResource    | public      | 
+		| FindById       | SpecialistResource       | public      | 
+		| Update         | updateSpecialistResource | public      | 
+		| Remove         | removeSpecialistResource | public      |
+	- Nombre: RequestRepository
+	- Categoría: Repository
+	- Propósito: Persistencia de las solicitudes
+	- Mètodos
+		|    Nombre    |          Tipo de dato | Visibilidad |
+		|:------------:|----------------------:|------------:|
+		| ListRequest  | List<RequestResource> | public      |
+		| Add          | addRequestResource    | public      |
+		| FindById     | RequestResource       | public      |
+		| Update       | updateRequestResource | public      |
+		| Remove       | removeRequestResource | public      |
+		| FindByUserId | RequestResource       | public      |
+- 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams. 
+	![Component DIagram Specialist](https://media.discordapp.net/attachments/1149587894416183327/1149614507656740926/image.png?width=964&height=473)
 - 4.2.1.6. Bounded Context Software Architecture CodeLevel Diagrams. 
-		- 4.2.1.6.1. Bounded Context Domain Layer ClassDiagrams. 
-		- 4.2.1.6.2. Bounded Context Database DesignDiagram.
+	- 4.2.1.6.1. Bounded Context Domain Layer ClassDiagrams. 
+		![Diagram Class](https://media.discordapp.net/attachments/1149587894416183327/1149613134072512553/image.png?width=689&height=473)
+	- 4.2.1.6.2. Bounded Context Database DesignDiagram.
+		![Database diagram](https://media.discordapp.net/attachments/1143666758042013892/1149572172126376026/BoundedContexts-2023-09-07_23-29.png)
 - **4.2.2. Bounded Context: Project**
 	- 4.2.3.1. Domain Layer. 
 	- 4.2.3.2. Interface Layer. 
@@ -987,11 +1019,11 @@ Metodos:
 
 	- 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams. 
 	
-![Class Diagram 3](https://media.discordapp.net/attachments/912089666939916348/1149504626194927677/image.png?width=1062&height=484)
+		![Class Diagram 3](https://media.discordapp.net/attachments/912089666939916348/1149504626194927677/image.png?width=1062&height=484)
 
 - 4.2.3.6.2. Bounded Context Database Design Diagram.
 
-![Database Diagram 3](https://cdn.discordapp.com/attachments/912089666939916348/1149490546893664357/image.png)
+		![Database Diagram 3](https://cdn.discordapp.com/attachments/912089666939916348/1149490546893664357/image.png)
 
 - **4.2.4. Bounded Context: Knowledge Management**
 
