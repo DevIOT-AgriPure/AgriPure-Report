@@ -733,7 +733,205 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 - 4.2. Tactical-Level Domain-Driven Design.
 
-	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura. 
+	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
+	- **4.2.1. Bounded Context: IOT DeviceManager**
+		- 4.2.1.1. Domain Layer. 
+
+-----------------------------------------------------------
+|**Nombre:** Device|
+------------------
+
+|**Categoría:** Entity|
+------------------
+
+|**Propósito:** Almacenar información del dispositivo IoT|
+------------------
+
+### Atributos
+------------------
+
+| Nombre    | Tipo de Dato | Visibilidad | Descripción                |
+|-----------|--------------|-------------|----------------------------|
+| id        | Long         | private     | Id de entidad              |
+| name      | String       | private     | Nombre de entidad          |
+| type      | String       | private     | Tipo de entidad            |
+| status    | DeviceStatus | private     | Estado del dispositivo     |
+| cropId    | Long         | private     | Id del cultivo relacionado |
+| location  | Location     | private     | Ubicación del dispositivo  |
+
+### Métodos
+------------------
+
+| Nombre    | Tipo de Retorno | Visibilidad | Descripción                          |
+|-----------|------------------|-------------|--------------------------------------|
+| Device    | void             | public      | Constructor de la entidad           |
+| getMagnitude | Double        | public      | Método para obtener la magnitud     |
+| getStatus | bool             | public      | Método para obtener el estado       |
+
+**Nombre:** Device
+------------------
+
+**Categoría:** Entity
+------------------
+
+**Propósito:** Almacenar información del dispositivo IoT
+------------------
+
+### Atributos
+
+
+| Nombre    | Tipo de Dato | Visibilidad | Descripción                |
+|-----------|--------------|-------------|----------------------------|
+| id        | Long         | private     | Id de entidad              |
+| name      | String       | private     | Nombre de entidad          |
+| type      | String       | private     | Tipo de entidad            |
+| status    | DeviceStatus | private     | Estado del dispositivo     |
+| cropId    | Long         | private     | Id del cultivo relacionado |
+| location  | Location     | private     | Ubicación del dispositivo  |
+
+### Métodos
+
+| Nombre    | Tipo de Retorno | Visibilidad | Descripción                          |
+|-----------|------------------|-------------|--------------------------------------|
+| Device    | void             | public      | Constructor de la entidad           |
+| getMagnitude | Double        | public      | Método para obtener la magnitud     |
+| getStatus | bool             | public      | Método para obtener el estado       |
+
+
+**Nombre:** Location
+------------------
+
+**Categoría:** Value Object
+------------------
+
+**Propósito:** Obtener la ubicación del dispositivo IoT
+------------------
+
+### Atributos
+------------------
+
+| Nombre    | Tipo de Dato | Visibilidad | Descripción         |
+|-----------|--------------|-------------|---------------------|
+| country   | String       | public      | País ubicado        |
+| city      | String       | public      | Ciudad ubicada      |
+| latitude  | Double       | public      | Latitud ubicada     |
+| longitude | Double       | public      | Longitud ubicada    |
+
+### Métodos
+------------------
+
+| Nombre       | Tipo de Retorno | Visibilidad | Descripción                  |
+|--------------|------------------|-------------|------------------------------|
+| Constructor  | void             | public      | Constructor de la entidad   |
+| getCountry   | String           | public      | Método para obtener el país  |
+| getCity      | String           | public      | Método para obtener la ciudad|
+| getLongitude | Double           | public      | Método para obtener la longitud|
+| getLatitude  | Double           | public      | Método para obtener la latitud|
+
+
+### DeviceStatus Enumeration
+------------------
+
+| Nombre    | DeviceStatus |
+|-----------|--------------|
+| Categoría | Enumeration  |
+| Propósito | Estado de disponibilidad del dispositivo |
+
+#### Atributos
+
+| Nombre | Tipo de Dato | Visibilidad | Descripción     |
+|--------|--------------|-------------|-----------------|
+| value  | Bool         | private     | Valor de entidad |
+
+### IIotDeviceRepository Repository
+------------------
+
+| Nombre | IIotDeviceRepository |
+|--------|----------------------|
+| Categoría | Repository         |
+| Propósito | Persistir dispositivos IoT |
+------------------
+
+#### Métodos
+------------------
+
+| Nombre         | Tipo de Retorno  | Visibilidad | Descripción             |
+|----------------|------------------|-------------|-------------------------|
+| ListByUserId   | List<IoTResource> | public      | Listar por ID de usuario |
+| ListByProyectId | List<IoTResource> | public      | Listar por ID de proyecto |
+| Add            | addIoTResource   | public      | Agregar recurso IoT     |
+| GetById        | IoTResource      | public      | Obtener por ID          |
+| Delete         | deleteIoTResource | public      | Eliminar recurso IoT    |
+
+		- 4.2.1.2. Interface Layer. 
+		
+| Nombre              | Categoría   | Propósito                        |
+|---------------------|-------------|----------------------------------|
+| IoTDeviceController | Controller  | Controlador de dispositivos IoT |
+
+### Métodos
+
+| Nombre       | Tipo de Retorno     | Visibilidad | Descripción                            |
+|--------------|---------------------|-------------|----------------------------------------|
+| GetAll       | List<IoTResource>  | public      | Obtener todos los recursos IoT        |
+| GetById      | IoTResource         | public      | Obtener un recurso IoT por ID          |
+| Add          | AddShipmentResource | public      | Agregar un recurso de envío            |
+| Remove       | void                | public      | Eliminar un recurso IoT                |
+| FindByCropId | ShipmentResource    | public      | Encontrar recursos por ID de cultivo  |
+
+		- 4.2.1.3. Application Layer. 
+
+| Nombre               | Categoría    | Propósito                           |
+|----------------------|--------------|-------------------------------------|
+| device-linked.event  | EventHandler | Gestiona la creación de un evento  |
+
+### Métodos
+
+| Nombre  | Tipo de Retorno | Visibilidad | Descripción                        |
+|---------|-----------------|-------------|------------------------------------|
+| handle  | void            | public      | Maneja la creación del evento     |
+
+| Nombre                  | Categoría    | Propósito                           |
+|-------------------------|--------------|-------------------------------------|
+| device-unlinked.event   | EventHandler | Gestiona la creación de un evento  |
+
+### Métodos
+
+| Nombre  | Tipo de Retorno | Visibilidad | Descripción                        |
+|---------|-----------------|-------------|------------------------------------|
+| handle  | void            | public      | Maneja la creación del evento     |
+
+
+		- 4.2.1.4. Infrastructure Layer. 
+
+| Nombre              | Categoría  | Propósito                    |
+|---------------------|------------|------------------------------|
+| IoTDeviceRepository | Repository | Persistencia de dispositivos |
+
+
+### Métodos
+
+| Nombre        | Tipo de Retorno    | Visibilidad | Descripción                       |
+|---------------|--------------------|-------------|-----------------------------------|
+| GetAll        | List<IoTResource>  | public      | Obtiene todos los recursos IoT    |
+| GetById       | IoTResource         | public      | Obtiene un recurso IoT por ID     |
+| Add           | AddShipmentResource | public      | Agrega un recurso de envío        |
+| Remove        | void               | public      | Elimina un recurso IoT             |
+| FindByCropId  | ShipmentResource   | public      | Encuentra recursos por ID de cultivo |
+
+- 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams. 
+- El diagrama de componentes C4 es una herramienta de modelado arquitectónico que facilita la visualización de la estructura de un sistema de software a través de la representación de componentes como bloques y las relaciones entre ellos mediante flechas. El Diagrama de Componentes de Shipments proporciona una visión más clara de la estructura prevista para este Bounded Context.
+-Software Architecture Component Level Diagrams IOT Device Manager
+![IOT Device Manager](https://cdn.discordapp.com/attachments/1149587894416183327/1149607182556483604/Untitled.drawio1.png?width=810&height=669)
+- 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams. 
+- Los diagramas de código en arquitectura de software visualizan la estructura interna de un sistema, incluyendo clases, métodos y relaciones. Ayudan a comprender las conexiones y la implementación de funciones a nivel de código.
+	- 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams. 
+	- Los diagramas de capas de dominio representan la estructura de las capas de la arquitectura de software a nivel de dominio de negocio, utilizando bloques para cada capa y flechas para mostrar las relaciones entre ellas.
+	![IOT Device Manager](https://cdn.discordapp.com/attachments/1149587894416183327/1149610457930408007/Specialist_Contact.png?width=810&height=669)
+
+	- 4.2.1.6.2. Bounded Context Database Design Diagram.
+	- Un diagrama de base de datos visualiza la estructura de una base de datos y muestra cómo se relacionan sus tablas. En este caso, muestra la relación entre las tablas Shipments y Comments.
+	![IOT Device Manager](https://media.discordapp.net/attachments/1143666758042013892/1149572171857936505/BC_DeviceManager-2023-09-07_23-57.png?width=480&height=262)
 - **4.2.1. Bounded Context: Specialist Contact**
 	- 4.2.1.1. Domain Layer.
 		- Nombre: Specialist
