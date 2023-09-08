@@ -1164,9 +1164,12 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			| Update      | updateProyectResource | public      |
 			| Remove      | removeProyectResource | public      |
 	- 4.2.3.5. Bounded Context Software ArchitectureComponent Level Diagrams. 	
+		![Component Diagram Project](https://cdn.discordapp.com/attachments/1149587894416183327/1149619291151417365/Untitled.drawio2.png)
 	-  4.2.3.6. Bounded Context Software ArchitectureCode Level Diagrams. 
-			- 4.2.3.6.1. Bounded Context Domain LayerClass Diagrams. 
-			- 4.2.3.6.2. Bounded Context Database DesignDiagram.
+		- 4.2.3.6.1. Bounded Context Domain LayerClass Diagrams. 
+			![Class Diagram Project](https://cdn.discordapp.com/attachments/1149587894416183327/1149619637609304116/image.png)
+		- 4.2.3.6.2. Bounded Context Database DesignDiagram.
+			![DB Diagram Project](https://cdn.discordapp.com/attachments/1143666758042013892/1149572172503842837/BC_ProjectManagement-2023-09-08_00-08.png)
 		
 - **4.2.3. Bounded Context: Crop Management**
 
