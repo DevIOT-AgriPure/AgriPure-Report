@@ -1149,8 +1149,62 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			| IN_PROCESS      | String            | public      |
 			| FAIL            | String            | public      |
 			| SUCCESFUL       | String            | public      |
-	- 4.2.3.2. Interface Layer. 
-	- 4.2.3.3. Application Layer. 
+	- 4.2.3.2. Interface Layer.
+   	
+	| Nombre           | Categoría  | Propósito               |
+	|------------------|------------|-------------------------|
+	| ProyectController| Controller | Controlar los proyectos |
+
+	## Métodos
+
+	| Nombre       | Tipo de Retorno    | Visibilidad | Descripción             |
+	|--------------|--------------------|-------------|------------------------|
+	| GetAll       | List<IoTResource>  | public      | Obtiene recursos IoT    |
+	| GetById      | IoTResource        | public      | Obtiene recurso por ID  |
+	| Add          | AddShipmentResource| public      | Agrega recurso de envío |
+	| Remove       | void               | public      | Elimina recurso IoT     |
+	| FindByCropId | ShipmentResource  | public      | Encuentra recursos por ID de cultivo |
+	- 4.2.3.3. Application Layer.
+   	| Nombre                | Categoría    | Propósito                     |
+	|-----------------------|--------------|-------------------------------|
+	| proyect-started.event | EventHandler | Gestiona la creación de un evento |
+
+	### Métodos
+
+	| Nombre | Tipo de Retorno | Visibilidad | Descripción              |
+	|--------|-----------------|-------------|--------------------------|
+	| handle | void            | public      | Maneja la creación del evento |
+
+	| Nombre                | Categoría    | Propósito                     |
+	|-----------------------|--------------|-------------------------------|
+	| proyect-ended.event   | EventHandler | Gestiona la creación de un evento |
+
+	### Métodos
+
+	| Nombre | Tipo de Retorno | Visibilidad | Descripción              |
+	|--------|-----------------|-------------|--------------------------|
+	| handle | void            | public      | Maneja la creación del evento |
+
+	| Nombre                   | Categoría    | Propósito                     |
+	|--------------------------|--------------|-------------------------------|
+	| proyect-cancelled.event  | EventHandler | Gestiona la creación de un evento |
+
+	### Métodos
+
+	| Nombre | Tipo de Retorno | Visibilidad | Descripción              |
+	|--------|-----------------|-------------|--------------------------|
+	| handle | void            | public      | Maneja la creación del evento |
+
+	| Nombre                   | Categoría    | Propósito                     |
+	|--------------------------|--------------|-------------------------------|
+	| proyect-paused.event     | EventHandler | Gestiona la creación de un evento |
+
+	### Métodos
+
+	| Nombre | Tipo de Retorno | Visibilidad | Descripción              |
+	|--------|-----------------|-------------|--------------------------|
+	| handle | void            | public      | Maneja la creación del evento |
+
 	- 4.2.3.4. Infrastructure Layer. 
 		- Nombre: ProjectRepository
 		- Categoría: Repository
