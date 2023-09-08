@@ -679,8 +679,24 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Domain-Driven Design. 
-	- 4.1.1. EventStorming. 	
+	- 4.1.1. EventStorming. 
+	- Timelines:	
+	![Timelines](https://cdn.discordapp.com/attachments/1149587894416183327/1149588737613889566/Eventstorming_2.jpg)
+	- Pivotal Points:	
+	![Paint Points](https://cdn.discordapp.com/attachments/1149587894416183327/1149588075333296148/Eventstorming_1.jpg)
+	- Comands:	
+	![Comands](https://cdn.discordapp.com/attachments/1149587894416183327/1149589014064660481/Eventstorming_3.jpg)
+	- Policies:	
+	![Policies](https://cdn.discordapp.com/attachments/1149587894416183327/1149589239965683782/Eventstorming_4.jpg)
+	- Read Models:	
+	![Read Models](https://cdn.discordapp.com/attachments/1149587894416183327/1149589444786139137/Eventstorming_5.jpg)
+	- External Systems:
+	![External Systems](https://cdn.discordapp.com/attachments/1149587894416183327/1149589665226170378/Eventstorming_6.jpg)
+	- Agregates:
+	![Agregates](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)
 		- 4.1.1.1 Candidate Context Discovery. 
+		- Identificar candidatos de contexto implica descubrir áreas potenciales de enfoque en un sistema complejo. Esto implica analizar el sistema para identificar sus componentes esenciales y sus interacciones, agrupándolos en áreas lógicas para simplificar el proceso de diseño e implementación. El objetivo principal es mejorar la escalabilidad, el rendimiento y la facilidad de mantenimiento del sistema.
+		![Candidates context](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
 			- El Bounded Context es un patrón de diseño en la arquitectura de software que divide un sistema en áreas de dominio separadas con lenguajes y límites claros. Esto facilita la administración y escalabilidad de sistemas complejos, ya que cada contexto acotado puede desarrollarse y mantenerse de manera independiente. Los Bounded Context Canvases, por otro lado, son herramientas visuales para el diseño de arquitecturas de software basadas en Bounded Contexts. Su objetivo es fomentar la colaboración entre equipos y garantizar la coherencia y la relación adecuada entre los diferentes contextos delimitados en el sistema.
