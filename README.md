@@ -1107,6 +1107,48 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 		![Database diagram](https://media.discordapp.net/attachments/1143666758042013892/1149572172126376026/BoundedContexts-2023-09-07_23-29.png)
 - **4.2.2. Bounded Context: Project**
 	- 4.2.3.1. Domain Layer. 
+		- Nombre: Project
+		- Categoría: Entity
+		- Propósito: Gestor de proyecto de cultivo
+		- Atributos: 
+			|    Nombre    | Tipo de dato | Visibilidad | Descripción                                 |
+			|:------------:|-------------:|------------:|---------------------------------------------|
+			| id           | Long         | private     | Id del proyecto                             |
+			| farmerId     | Long         | private     | Id del farmer relacionado                   |
+			| specialistId | Long         | private     | Id del especialista asignado                |
+			| cropId       | Long         | private     | Id del cultivo asignado                     |
+			| instructions | Instructions | private     | Instrucciones asignadas por el especialista |
+			| etapa        | Etapa        | private     |                                             |
+		- Métodos: 
+			|      Nombre     |      Tipo de dato | Visibilidad | Descripción                               |
+			|:---------------:|------------------:|------------:|-------------------------------------------|
+			| Project         | void              | private     | constructor                               |
+			| getFarmerId     | long              | private     | obtener el identificador del agricultor   |
+			| getSpecialistId | long              | private     | obtener el identificador del especialista |
+			| getCropId       | long              | private     | obtener el identificador del cultivo      |
+			| getInstructions | List<Instruction> | private     | obtener las instrucciones                 |
+		
+		- Nombre: Instruction
+		- Categoría: Value Object
+		- Propósito: Encargado de brindar los requisrimientos necesarios
+		- Atributos: 
+			|      Nombre     |      Tipo de dato | Visibilidad | Descripción                          |
+			|:---------------:|------------------:|------------:|--------------------------------------|
+			| id              | Long              | private     | identificador                        |
+			| Title           | String            | public      | titulo de la instruccion             |
+			| Steps           | String            | public      | pasos de la instruccion              |
+			| getCropId       | long              | private     | obtener el identificador del cultivo |
+
+		- Nombre: Etapa
+		- Categoría: Enumeration
+		- Propósito: Indica la etapa del proyecto
+		- Atributos:
+		 	|      Nombre     |      Tipo de dato | Visibilidad |
+			|:---------------:|------------------:|------------:|
+			| STARTED         | String            | public      |
+			| IN_PROCESS      | String            | public      |
+			| FAIL            | String            | public      |
+			| SUCCESFUL       | String            | public      |
 	- 4.2.3.2. Interface Layer. 
 	- 4.2.3.3. Application Layer. 
 	- 4.2.3.4. Infrastructure Layer. 
