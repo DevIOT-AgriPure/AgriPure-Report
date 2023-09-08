@@ -1152,6 +1152,17 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 	- 4.2.3.2. Interface Layer. 
 	- 4.2.3.3. Application Layer. 
 	- 4.2.3.4. Infrastructure Layer. 
+		- Nombre: ProjectRepository
+		- Categoría: Repository
+		- Propósito: Persistencia de los proyectos
+		- Métodos: 
+			|    Nombre   |          Tipo de dato | Visibilidad |
+			|:-----------:|----------------------:|------------:|
+			| ListProyect | List<ProyectResource> | public      |
+			| Add         | addProyectResource    | public      |
+			| FindById    | ProyectResource       | public      |
+			| Update      | updateProyectResource | public      |
+			| Remove      | removeProyectResource | public      |
 	- 4.2.3.5. Bounded Context Software ArchitectureComponent Level Diagrams. 	
 	-  4.2.3.6. Bounded Context Software ArchitectureCode Level Diagrams. 
 			- 4.2.3.6.1. Bounded Context Domain LayerClass Diagrams. 
