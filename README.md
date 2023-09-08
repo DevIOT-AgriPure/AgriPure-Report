@@ -181,8 +181,8 @@ Ciclo:
 
 | Criterio Especifico | Acciones Realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Diego Talledo (TB1):   | Fila 1    |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones.    | Fila 2    |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.   | Andres Reynoso (TB1): Para este entregable hemos definido en equipo el desarrollo de nuestra startup utilizando multiples metodos aprendidos como entrevistas, lean ux, etc. Frank Alva (TB1): Para esta primera entrega definimos como equipo que secciones vamos a desarrollar dentro del proyecto, ademas aplicamos diversas metodologias para una eficacia y eficiencia dentro del proyecto. Diego Talledo (TB1):  | Fila 1    |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.    | Andres Reynoso (TB1): Con la ayuda de las entrevistas, pudimos entender como trabajan nuestros segmentos objetivos, siendo capaces de ponernos en sus zapatos y analizar sus metas y preocupaciones. Frank Alva (TB1): Al analizar nuestros segmentos objetivos, entrevistas y desarrollando nuestros user persona pudimos conocer mejor el ambito empresarial del transporte.    | Fila 2    |
 
 
 ## Capítulo I: Introducción
@@ -1443,9 +1443,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwODc1MjM2LDEwMjEyMDM2OTMsLTU1Mj
-A2NTc5MiwxODgwMDE1MjM3LDIwOTg3NjUzOCwxNTk3OTA0MjI1
-LC0xMDMzMTQxMTM2LDEyMDMwMTU3MzMsMjU2MTA5MTIxLC0xND
-AyNTk3OTAxLC01NTU3MDUzNzEsMTYwNDA4NjU0NSw0NTA4NDEx
-N119
+eyJoaXN0b3J5IjpbLTIwNzI3NTQyOTMsLTM2ODY1MjM5NSwxMD
+IxMjAzNjkzLC01NTIwNjU3OTIsMTg4MDAxNTIzNywyMDk4NzY1
+MzgsMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLD
+I1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1MzcxLDE2MDQw
+ODY1NDUsNDUwODQxMTddfQ==
 -->
