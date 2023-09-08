@@ -1056,7 +1056,28 @@ Atributos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
-| getAllNotifications| Task<IEnumerate<Notications>>| public|
+| handle | void | public|
+
+	- Nombre: notification-send.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+	- Nombre: notification-send.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
 
 		- 4.2.5.4. Infrastructure Layer. 
 		- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
@@ -1121,7 +1142,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDU2MzUyMTgsMTU5NzkwNDIyNSwtMT
+eyJoaXN0b3J5IjpbLTExMzY2NjI3MDgsMTU5NzkwNDIyNSwtMT
 AzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEyMSwtMTQwMjU5
 NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsNDUwODQxMTddfQ
 ==
