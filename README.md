@@ -991,7 +991,7 @@ Metodos:
 	- Categoria: Entity.
 	- Proposito: Notificar a los usuarios.
 
-	- Atributos:
+Atributos:
 
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
@@ -1331,9 +1331,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcyNDg0ODcsMTAyMTIwMzY5MywtNT
-UyMDY1NzkyLDE4ODAwMTUyMzcsMjA5ODc2NTM4LDE1OTc5MDQy
-MjUsLTEwMzMxNDExMzYsMTIwMzAxNTczMywyNTYxMDkxMjEsLT
-E0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNjA0MDg2NTQ1LDQ1MDg0
-MTE3XX0=
+eyJoaXN0b3J5IjpbMjgwODc1MjM2LDEwMjEyMDM2OTMsLTU1Mj
+A2NTc5MiwxODgwMDE1MjM3LDIwOTg3NjUzOCwxNTk3OTA0MjI1
+LC0xMDMzMTQxMTM2LDEyMDMwMTU3MzMsMjU2MTA5MTIxLC0xND
+AyNTk3OTAxLC01NTU3MDUzNzEsMTYwNDA4NjU0NSw0NTA4NDEx
+N119
 -->
