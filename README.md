@@ -1199,54 +1199,68 @@ Metodos:
 	- Categoria: Event Handler
 	- Proposito: Gestiona la creación de un evento
 
-- Metodos:
+Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
 | handle | void | public|
 
-	- Nombre: payment-received.handle
+- Nombre: payment-received.handle
 	- Categoria: Event Handler
 	- Proposito: Gestiona la creación de un evento
 
-- Metodos:
+Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
 | handle | void | public|
 
-	- Nombre: payment-fraud.handle
+- Nombre: payment-fraud.handle
 	- Categoria: Event Handler
 	- Proposito: Gestiona la creación de un evento
 
-- Metodos:
+Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
 | handle | void | public|
 
-	- Nombre: payment-send.handle
+- Nombre: payment-send.handle
 	- Categoria: Event Handler
 	- Proposito: Gestiona la creación de un evento
 
-- Metodos:
+Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
 | handle | void | public|
 
-	- Nombre: payment-refused.handle
+ - Nombre: payment-refused.handle
 	- Categoria: Event Handler
 	- Proposito: Gestiona la creación de un evento
 
-- Metodos:
+Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
 | handle | void | public|
 
 
-		- 4.2.6.4. Infrastructure Layer. 
+- 4.2.6.4. Infrastructure Layer. 
+	- Nombre: PaymentRepository.
+	- Categoria: Repository.
+	- Proposito: Persistir pagos.
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| ListAsync| Task<IEnumerate<Notications>>| public|
+| AddSync| Task<IActionResult>| public|
+| findByUser| Task<IEnumerate<Notifications>>| public|
+| findByFarmer| Task<IEnumerate<User>>| public|
+| findByCreditCard| Task<IEnumerate<User>>| public|
+| remove| void| public|		
 		- 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
 		- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
 			- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
@@ -1297,8 +1311,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NDI3NzQzLDE4ODAwMTUyMzcsMjA5OD
-c2NTM4LDE1OTc5MDQyMjUsLTEwMzMxNDExMzYsMTIwMzAxNTcz
-MywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNj
-A0MDg2NTQ1LDQ1MDg0MTE3XX0=
+eyJoaXN0b3J5IjpbLTM4NzgzNTExOSwxODgwMDE1MjM3LDIwOT
+g3NjUzOCwxNTk3OTA0MjI1LC0xMDMzMTQxMTM2LDEyMDMwMTU3
+MzMsMjU2MTA5MTIxLC0xNDAyNTk3OTAxLC01NTU3MDUzNzEsMT
+YwNDA4NjU0NSw0NTA4NDExN119
 -->
