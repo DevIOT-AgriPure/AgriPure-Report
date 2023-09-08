@@ -48,6 +48,8 @@ Ciclo:
 
 **Enlace del Project Report:** [https://github.com/DevIOT-AgriPure/AgriPure-Report.git](https://github.com/DevIOT-AgriPure/AgriPure-Report.git)
 
+![Commits](https://media.discordapp.net/attachments/1149587894416183327/1149608443334885467/image.png?width=1230&height=669)
+
 ## Contenido
 - [Tabla de contenidos](#tabla-de-contenidos)
 - Capítulo I: Introducción 
@@ -2081,9 +2083,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQyMTM2ODgsLTExMjgzMTY3MzIsLT
-IwNzI3NTQyOTMsLTM2ODY1MjM5NSwxMDIxMjAzNjkzLC01NTIw
-NjU3OTIsMTg4MDAxNTIzNywyMDk4NzY1MzgsMTU5NzkwNDIyNS
-wtMTAzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEyMSwtNTU1
-NzA1MzcxLDE2MDQwODY1NDUsNDUwODQxMTddfQ==
+eyJoaXN0b3J5IjpbMjAzMDI1MjM4MywtMTEyODMxNjczMiwtMj
+A3Mjc1NDI5MywtMzY4NjUyMzk1LDEwMjEyMDM2OTMsLTU1MjA2
+NTc5MiwxODgwMDE1MjM3LDIwOTg3NjUzOCwxNTk3OTA0MjI1LC
+0xMDMzMTQxMTM2LDEyMDMwMTU3MzMsMjU2MTA5MTIxLC01NTU3
+MDUzNzEsMTYwNDA4NjU0NSw0NTA4NDExN119
 -->
