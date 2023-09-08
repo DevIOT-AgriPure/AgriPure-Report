@@ -1179,8 +1179,22 @@ Metodos:
 | getDateTime| void | public | Obtiene la fecha del pago |
 
 - 4.2.6.2. Interface Layer. 
+	- Nombre: PaymentController.
+	- Categoria: Controller.
+	- Proposito: Controlador de pagos.
 
-		- 4.2.6.3. Application Layer. 
+Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| getAllNotifications| Task<IEnumerate<Notications>>| public|
+| getByIdNotifications| Task<IActionResult>| public|
+| findByIdNotifications| Task<IEnumerate<Notifications>>| public|
+| findByIdFarmer| Task<IEnumerate<User>>**| public|
+| findByEspecialist| Task<IEnumerate<Especialist>>| public|
+| remove| void| public|
+
+- 4.2.6.3. Application Layer. 
 		- 4.2.6.4. Infrastructure Layer. 
 		- 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
 		- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
@@ -1232,8 +1246,8 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1NzY4OTM2LDE4ODAwMTUyMzcsMjA5OD
-c2NTM4LDE1OTc5MDQyMjUsLTEwMzMxNDExMzYsMTIwMzAxNTcz
-MywyNTYxMDkxMjEsLTE0MDI1OTc5MDEsLTU1NTcwNTM3MSwxNj
-A0MDg2NTQ1LDQ1MDg0MTE3XX0=
+eyJoaXN0b3J5IjpbMTE2NzA4MTQwMywxODgwMDE1MjM3LDIwOT
+g3NjUzOCwxNTk3OTA0MjI1LC0xMDMzMTQxMTM2LDEyMDMwMTU3
+MzMsMjU2MTA5MTIxLC0xNDAyNTk3OTAxLC01NTU3MDUzNzEsMT
+YwNDA4NjU0NSw0NTA4NDExN119
 -->
