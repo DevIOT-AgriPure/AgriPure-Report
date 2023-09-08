@@ -679,8 +679,24 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 ## Capítulo IV: Solution Software Design 
 - 4.1. Strategic-Level Domain-Driven Design. 
-	- 4.1.1. EventStorming. 	
+	- 4.1.1. EventStorming. 
+	- Timelines:	
+	![Timelines](https://cdn.discordapp.com/attachments/1149587894416183327/1149588737613889566/Eventstorming_2.jpg)
+	- Pivotal Points:	
+	![Paint Points](https://cdn.discordapp.com/attachments/1149587894416183327/1149588075333296148/Eventstorming_1.jpg)
+	- Comands:	
+	![Comands](https://cdn.discordapp.com/attachments/1149587894416183327/1149589014064660481/Eventstorming_3.jpg)
+	- Policies:	
+	![Policies](https://cdn.discordapp.com/attachments/1149587894416183327/1149589239965683782/Eventstorming_4.jpg)
+	- Read Models:	
+	![Read Models](https://cdn.discordapp.com/attachments/1149587894416183327/1149589444786139137/Eventstorming_5.jpg)
+	- External Systems:
+	![External Systems](https://cdn.discordapp.com/attachments/1149587894416183327/1149589665226170378/Eventstorming_6.jpg)
+	- Agregates:
+	![Agregates](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)
 		- 4.1.1.1 Candidate Context Discovery. 
+		- Identificar candidatos de contexto implica descubrir áreas potenciales de enfoque en un sistema complejo. Esto implica analizar el sistema para identificar sus componentes esenciales y sus interacciones, agrupándolos en áreas lógicas para simplificar el proceso de diseño e implementación. El objetivo principal es mejorar la escalabilidad, el rendimiento y la facilidad de mantenimiento del sistema.
+		![Candidates context](https://cdn.discordapp.com/attachments/1149587894416183327/1149589993363361792/Eventstorming_7.jpg)
 		- 4.1.1.2 Domain Message Flows Modeling. 
 		- 4.1.1.3 Bounded Context Canvases. 
 			- El Bounded Context es un patrón de diseño en la arquitectura de software que divide un sistema en áreas de dominio separadas con lenguajes y límites claros. Esto facilita la administración y escalabilidad de sistemas complejos, ya que cada contexto acotado puede desarrollarse y mantenerse de manera independiente. Los Bounded Context Canvases, por otro lado, son herramientas visuales para el diseño de arquitecturas de software basadas en Bounded Contexts. Su objetivo es fomentar la colaboración entre equipos y garantizar la coherencia y la relación adecuada entre los diferentes contextos delimitados en el sistema.
@@ -967,15 +983,15 @@ Metodos:
 
 - **4.2.5. Bounded Context: Notifications**
    
-	El Bounded Context de Knowledge Management es un area que se enfoca en cuando el usuario toma una foto de sus cultivos, haciendo que el sistema reconozca automaticamente cierto cultivo.
+	El Bounded Context de Notifications es un area que se enfoca en poder notificar al usuario sobre algun evento que esta ocurriendo dentro de la aplicacion.
 
-- 4.2.4.1. Domain Layer. 
+- 4.2.5.1. Domain Layer. 
 
 	- Nombre: Notificaciones.
 	- Categoria: Entity.
 	- Proposito: Notificar a los usuarios.
 
-	- Atributos:
+Atributos:
 
 | Nombre | Tipo de Dato | Visibilidad | Descripcion |
 |-----------|-----------|-----------|-----------|
@@ -1016,25 +1032,259 @@ Metodos:
 | getCreationDate| Date| public |
 | getDescription| string| public |
 
+- Nombre: NotificationStatus.
+- Categoria: Enumeration.
+- Proposito: Manejo de valores de estado de las notificaciones.
+
+Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| CREATED | int| public|
+| SENDER| int| public |
+| IN_PROGRESS| int | public |
+| ABORTED| int | public |
+| FINISHED| int | public |
+
 - 4.2.5.2. Interface Layer. 
-		- 4.2.5.3. Application Layer. 
-		- 4.2.5.4. Infrastructure Layer. 
-		- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.5.6.2. Bounded Context Database Design Diagram.
+
+	- Nombre: NotificationController.
+	- Categoria: Controller.
+	- Proposito: Controlador de Notificaciones.
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| getAllNotifications| Task<IEnumerate<Notications>>| public|
+| getByIdNotifications| Task<IActionResult>| public|
+| findByIdNotifications| Task<IEnumerate<Notifications>>| public|
+| findByIdFarmer| Task<IEnumerate<User>>**| public|
+| findByEspecialist| Task<IEnumerate<Especialist>>| public|
+| remove| void| public|
+
+- 4.2.5.3. Application Layer. 
+	- Nombre: notification-send.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- Nombre: notification-send.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- Nombre: notification-received.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- Nombre: notification-read.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- Nombre: notification-view.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- 4.2.5.4. Infrastructure Layer. 
+	- Nombre: NotificationRepository.
+	- Categoria: Repository.
+	- Proposito: Persistir notificaciones.
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| ListAsync| Task<IEnumerate<Notications>>| public|
+| AddSync| Task<IActionResult>| public|
+| findByUser| Task<IEnumerate<Notifications>>| public|
+| findByFarmer| Task<IEnumerate<User>>| public|
+| remove| void| public|		
+
+- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
+![Component Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149587376641953792/image.png?width=811&height=608)
+- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
+	- 4.2.5.6.1. Bounded Context Domain Layer Class Diagrams. 
+	![Class Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149587757476368464/image.png?width=1293&height=487)
+	- 4.2.5.6.2. Bounded Context Database Design Diagram.
+	![Class Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149588051673239652/image.png?width=1293&height=487)
 	- **4.2.6. Bounded Context: Subscription and Payments**
    
    El Bounded Context de Subscription and Payments es un area que se enfoca en la realizacion de pagos, en donde el usuario adquiere una su suscripcion dentro la plataforma.
 	   
-	- 4.2.6.1. Domain Layer. 
-		- 4.2.6.2. Interface Layer. 
-		- 4.2.6.3. Application Layer. 
-		- 4.2.6.4. Infrastructure Layer. 
-		- 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
-		- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
-			- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
-			- 4.2.6.6.2. Bounded Context Database Design Diagram.
+- 4.2.6.1. Domain Layer. 
+	- Nombre: Payment.
+	- Categoria: Entity.
+	- Proposito: Informacion de las suscripciones y pagos.
+
+Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | int| private | Id de entidad|
+| status| String | private | Mensaje|
+| type| string| private |Tipo de tarjeta|
+| price| long| private |Precio de suscripción|
+| amount| double| private |Cantidad|
+| creditcard| long| private |Destinatario|
+| payment_id| int| private |Id del pago|
+| payment_date| Date| private |Fecha del pago|
+| deleted| int| private |Eliminar pago|
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| getStatus| void | public | Retorna el status del pago|
+| getId| void | public | Retorna el id del usuario |
+| getPrice| void | public | Obtiene el precio de la suscripción actual. |
+| getAmount| void | public | Obtiene la cantidad del pago |
+| getPaymentId| void | public | Obtiene la cantidad del pago |
+| getPaymentDate| void | public | Obtiene la fecha y hora del pago |
+
+- Nombre: Invoce.
+	- Categoria: Entity.
+	- Proposito: Recibo de pago.
+
+Atributos:
+
+| Nombre | Tipo de Dato | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| id | int| private | Id|
+| payment_id| int| private | id del pago|
+| invoce_id| int| private |id del recibo|
+| amount| double| private |Monto del recibo|
+| create_datetime| Date| private |Fecha de pago|
+
+Metodos:
+
+| Nombre | Tipo de Retorno | Visibilidad | Descripcion |
+|-----------|-----------|-----------|-----------|
+| getId| void | public | Retorna el id del usuario |
+| getPaymentId| void | public | Obtiene la cantidad del pago |
+| getInvoceId| void | public | Retorna el id del recibo |
+| getAmount| void | public | Obtiene la cantidad del pago |
+| getDateTime| void | public | Obtiene la fecha del pago |
+
+- 4.2.6.2. Interface Layer. 
+	- Nombre: PaymentController.
+	- Categoria: Controller.
+	- Proposito: Controlador de pagos.
+
+Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| getAllUsers| Task<IEnumerate<User>>| public|
+| getByIdPayment| Task<IActionResult>| public|
+| findIsPaid| Task<IEnumerate<User>>| public|
+| findByDate| Task<IEnumerate<User>>| public|
+| findByCreditCard| Task<IEnumerate<User>>| public|
+| remove| void| public|
+
+- 4.2.6.3. Application Layer. 
+	- Nombre: payment-notification.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- Nombre: payment-received.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- Nombre: payment-fraud.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+- Nombre: payment-send.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+ - Nombre: payment-refused.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
+
+Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| handle | void | public|
+
+
+- 4.2.6.4. Infrastructure Layer. 
+	- Nombre: PaymentRepository.
+	- Categoria: Repository.
+	- Proposito: Persistir pagos.
+
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
+|-----------|-----------|-----------|
+| ListAsync| Task<IEnumerate<Notications>>| public|
+| AddSync| Task<IActionResult>| public|
+| findByUser| Task<IEnumerate<User>>| public|
+| findByFarmer| Task<IEnumerate<User>>| public|
+| findByCreditCard| Task<IEnumerate<User>>| public|
+| getAllIsPaid| Task<IEnumerate<User>>| public|
+| remove| void| public|		
+- 4.2.6.5. Bounded Context Software Architecture Component Level Diagrams. 
+![Component Diagram](https://media.discordapp.net/attachments/1063259243727306824/1149592284308975657/image.png?width=811&height=608)
+	- 4.2.6.6. Bounded Context Software Architecture Code Level Diagrams. 
+		- 4.2.6.6.1. Bounded Context Domain Layer Class Diagrams. 
+		![Class Diagram](https://cdn.discordapp.com/attachments/1063259243727306824/1149592618334945340/image.png)	
+		- 4.2.6.6.2. Bounded Context Database Design Diagram.
+		![Class Diagram](https://media.discordapp.net/attachments/1063259243727306824/1149592735100190790/image.png)
 	- **4.2.7. Bounded Context: **
 		- 4.2.7.1. Domain Layer. 
 		- 4.2.7.2. Interface Layer. 
@@ -1081,7 +1331,9 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzkwNDIyNSwtMTAzMzE0MTEzNiwxMj
-AzMDE1NzMzLDI1NjEwOTEyMSwtMTQwMjU5NzkwMSwtNTU1NzA1
-MzcxLDE2MDQwODY1NDUsNDUwODQxMTddfQ==
+eyJoaXN0b3J5IjpbMjgwODc1MjM2LDEwMjEyMDM2OTMsLTU1Mj
+A2NTc5MiwxODgwMDE1MjM3LDIwOTg3NjUzOCwxNTk3OTA0MjI1
+LC0xMDMzMTQxMTM2LDEyMDMwMTU3MzMsMjU2MTA5MTIxLC0xND
+AyNTk3OTAxLC01NTU3MDUzNzEsMTYwNDA4NjU0NSw0NTA4NDEx
+N119
 -->
