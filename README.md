@@ -1036,7 +1036,7 @@ Atributos:
 	- Categoria: Controller.
 	- Proposito: Controlador de Notificaciones.
 
-- Atributos:
+- Metodos:
 
 | Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
@@ -1047,21 +1047,17 @@ Atributos:
 | findByEspecialist| Task<IEnumerate<Especialist>>| public|
 | remove| void| public|
 
-Metodos:
+- 4.2.5.3. Application Layer. 
+	- Nombre: notification-send.handle
+	- Categoria: Event Handler
+	- Proposito: Gestiona la creación de un evento
 
-| Nombre | Tipo de Retorno | Visibilidad |
+- Metodos:
+
+| Nombre | Tipo de Dato | Visibilidad |
 |-----------|-----------|-----------|
-| Constructor | void | public |
-| getTitle| string| public |
-| getCreationDate| Date| public |
-| getDescription| string| public |
+| getAllNotifications| Task<IEnumerate<Notications>>| public|
 
-- Nombre: NotificationStatus.
-- Categoria: Enumeration.
-- Proposito: Manejo de valores de estado de las notificaciones.
-
-- 
-		- 4.2.5.3. Application Layer. 
 		- 4.2.5.4. Infrastructure Layer. 
 		- 4.2.5.5. Bounded Context Software Architecture Component Level Diagrams. 
 		- 4.2.5.6. Bounded Context Software Architecture Code Level Diagrams. 
@@ -1125,7 +1121,7 @@ Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4
 Enlace:
 https://miro.com/welcomeonboard/YXhFY2NQZVQ3MlJ0aVVnNEF6TGUxbXRiQXBLTWNXVlhyR0hrQm9sZnFQUjc2ZFMwY0JlNUV1YmZydk1tVW9LRHwzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=146686378593
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTkyNDU2NjYsMTU5NzkwNDIyNSwtMT
+eyJoaXN0b3J5IjpbLTE2NDU2MzUyMTgsMTU5NzkwNDIyNSwtMT
 AzMzE0MTEzNiwxMjAzMDE1NzMzLDI1NjEwOTEyMSwtMTQwMjU5
 NzkwMSwtNTU1NzA1MzcxLDE2MDQwODY1NDUsNDUwODQxMTddfQ
 ==
