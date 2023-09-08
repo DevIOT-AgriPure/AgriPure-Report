@@ -46,7 +46,8 @@ Ciclo:
 
 ## Project Report Collaboration Insights
 
-**Enlace del Project Report: [https://github.com/DevIOT-AgriPure/AgriPure-Report.git](https://github.com/DevIOT-AgriPure/AgriPure-Report.git)**
+**Enlace del Project Report:** [https://github.com/DevIOT-AgriPure/AgriPure-Report.git](https://github.com/DevIOT-AgriPure/AgriPure-Report.git)
+
 ## Contenido
 - [Tabla de contenidos](#tabla-de-contenidos)
 - Capítulo I: Introducción 
@@ -1029,5 +1030,5 @@ Metodos:
 ![Product Backlog](https://media.discordapp.net/attachments/912089666939916348/1149418234802622464/image.png?width=1306&height=669)
 Enlace: https://trello.com/invite/b/oTLh9oXS/ATTI39f0ae187751211de6180c67b390cc4c45405B6D/agripure-2023-2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTg4MTMyNV19
+eyJoaXN0b3J5IjpbLTE2NTE0MDQ2MDldfQ==
 -->
