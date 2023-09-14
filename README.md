@@ -733,13 +733,140 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 		- 4.1.3.2. Software Architecture Container Level Diagrams. ![Container DIagram](https://media.discordapp.net/attachments/1143666758042013892/1149106586892111892/container.drawio.png?width=454&height=473)
 		- 4.1.3.3. Software Architecture Deployment Diagrams. ![Deployment Diagram](https://media.discordapp.net/attachments/1149587894416183327/1149594351039684608/C4-Deployme.drawio_1.png?width=702&height=473) 
 
-- 4.2. Tactical-Level Domain-Driven Design.
+- **4.2. Tactical-Level Domain-Driven Design.**
 
 	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
-	- **4.2.1. Bounded Context: IOT DeviceManager**
+	- **4.2.1. Bounded Context: User Acount Manager**
 		- 4.2.1.1. Domain Layer. 
+			- Nombre: User
+			- Categoria: Entity
+			- Propósito: Almacenar datos de nuestros usuarios
+			- Atributos :
 
------------------------------------------------------------
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| id        | int          | private     | Id de identidad                              |
+				| firstName | string       | private     | Almacena el nombre del usuario               |
+				| lastName  | string       | private     | Almacena el apellido del usuario             |
+				| email     | string       | private     | Almacena el email del usuario                |
+				| password  | string       | private     | Almacena la contraseña de acceso del usuario |
+				| userType  | UserType     | private     | Almacena el tipo de usuario                  |
+			- Métodos:
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| User         | void         | public      | Constructor de la identidad                   |
+				| getFullName  | string       | public      | Obtiene el nombre completo del usuario        |
+				| getType      | string       | public      | Retorna el tipo de usuario                    |
+
+			- Nombre: UserType
+			- Categorìa: Enum
+			- Propòsito: Proveer los tipos de usuario
+			- Atributos: 
+				| Nombre       | Tipo de dato | Visibilidad |
+				|--------------|--------------|-------------|
+				| FARMER       | string       | public      |
+				| SPECIALIST   | string       | public      |
+				| ADM          | string       | public      |
+			- Nombre: IUserRepository
+			- Categoorìa: Repository
+			- Propòsito: Persistir usuarios
+		- 4.2.1.2 Interface layer
+			- Nombre: Users.controller
+			- Categorìa: Controller
+			- Propòsito: Controlar registro de usuarios
+			- Mètodos:
+				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+				|------------|--------------|-------------|-----------------------------------------|
+				| Register   | Promise      | public      | Registra un usuario nuevo               |
+				| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
+				| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
+				| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
+		- 4.2.1.3 Application Layer
+			- Nombre: CreateUser.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para registrar un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| CreateUser.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite registrar al usuario |	
+
+			- Nombre: CreateUser.command
+			- Categorìa: Command
+			- Propòsito: Command para registrar un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| CreateUser.command | void         | public      | Constructor          	|
+
+			- Nombre: LogIn.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para logear un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| LogIn.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite iniciar sesiòn al usuario |	
+
+			- Nombre: LogIn.command
+			- Categorìa: Command
+			- Propòsito: Command para logear un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| LogIn.command | void         | public      | Constructor          	|
+			
+			- Nombre: ModifyUser.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para modificar un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| ModifyUser.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite modificar datos del usuario |	
+
+			- Nombre: ModifiUser.command
+			- Categorìa: Command
+			- Propòsito: Command para modificar un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| ModifyUser.command | void         | public      | Constructor          	|
+			
+			- Nombre: DeleteUser.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para eliminar un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| DeleteUser.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite elminar datos del usuario |	
+
+			- Nombre: ModifiUser.command
+			- Categorìa: Command
+			- Propòsito: Command para modificar un usuario
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| DeleteUser.command | void         | public      | Constructor          	|
+			
+		- Infrastructure Layer
+			- Nombre: UserRepository
+			- Categorìa: Repository
+			- Propòsito: Obtener datos del usuario
+			- Mètodos: 
+				| Nombre  | Tipo de dato       | Visibilidad | Descripción                                   |
+				|---------|--------------------|-------------|-----------------------------------------------|
+				| getById | getUserResource    | public      | Devuelve los datos necesarios de un usuario   |
+				| getAll  | array              | public      | Devuelve todos los objetos en un arreglo      |
+				| create  | createUserResource | public      | Crea un nuevo objeto                          |
+				| update  | updateUserResource | public      | Actualiza o modifica los valores de un objeto |
+				| delete  | void               | public      | Elimina un objeto                             |
+
+				
+				
+
+
 |**Nombre:** Device|
 ------------------
 
