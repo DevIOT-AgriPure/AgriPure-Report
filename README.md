@@ -850,7 +850,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				|----------|--------------|-------------|-----------------------------------|
 				| DeleteUser.command | void         | public      | Constructor          	|
 			
-		- Infrastructure Layer
+		- 4.2.1.4 Infrastructure Layer
 			- Nombre: UserRepository
 			- Categorìa: Repository
 			- Propòsito: Obtener datos del usuario
@@ -862,6 +862,9 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				| create  | createUserResource | public      | Crea un nuevo objeto                          |
 				| update  | updateUserResource | public      | Actualiza o modifica los valores de un objeto |
 				| delete  | void               | public      | Elimina un objeto                             |
+		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://cdn.discordapp.com/attachments/1143666758042013890/1152020288670814288/image.png)
+
 
 				
 				
