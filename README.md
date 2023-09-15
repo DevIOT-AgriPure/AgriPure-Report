@@ -748,6 +748,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				| id        | int          | private     | Id de identidad                              |
 				| firstName | string       | private     | Almacena el nombre del usuario               |
 				| lastName  | string       | private     | Almacena el apellido del usuario             |
+				| cellphone  | string       | private     | Almacena el número telefónico del usuario        |
 				| email     | string       | private     | Almacena el email del usuario                |
 				| password  | string       | private     | Almacena la contraseña de acceso del usuario |
 				| userType  | UserType     | private     | Almacena el tipo de usuario                  |
@@ -864,9 +865,10 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				| delete  | void               | public      | Elimina un objeto                             |
 		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
 			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://cdn.discordapp.com/attachments/1143666758042013890/1152020288670814288/image.png)
+		- **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
 
 
-				
+		
 				
 
 
