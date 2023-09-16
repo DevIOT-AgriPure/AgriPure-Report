@@ -874,116 +874,121 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- **4.2.1.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 	- **4.2.2. Bounded Context: Suscripcion and Payments**
-		- **4.2.2.1. Plan.** 
-			- Nombre: Plan
-			- Categoria: Value Object
-			- Propósito: Almacenar datos de los planes del servicio
+		- **4.2.2.1. Domain Layer.** 
+			- Nombre: Plant
+			- Categoria: Entity
+			- Propósito: Almacenar datos de las plantas
 			- Atributos :
 
 				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
 				|-----------|--------------|-------------|----------------------------------------------|
-				| planType | PlanType       | private     | Almacena el tipo de plan               |
-				| costoMes        | double          | private     | Costo del plan                          |
+				| id | int       | private     | Id de identidad               |
+				| plantName        | string          | private     | Nombre de la planta                         |
+				| plantDescription        | string          | private     | Descripción de la planta         |
 
 			- Métodos:
 				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 				|--------------|--------------|-------------|-----------------------------------------------|
-				| Plan       | void         | public      | Constructor de la identidad                   |
-				| getType  | string       | public      | Obtiene el tipo de plan       |
-				| getCosto      | double       | public      | Retorna el costo del plan                 |
+				| Plant       | void         | public      | Constructor de la identidad                   |
+				| getPlantName  | string       | public      | Obtiene el nombre de la planta       |
+				| getDescription      | string       | public      | Retorna la desripción                 |
 
-			- Nombre: PlanType
-			- Categorìa: Enum
-			- Propòsito: Proveer los tipos de planes
-			- Atributos: 
-				| Nombre       | Tipo de dato | Visibilidad |
-				|--------------|--------------|-------------|
-				| FREE       | string       | public      |
-				| MONTHLY   | string       | public      |
-				| ANUAL          | string       | public      |
-			
-			- Nombre: Suscription
-			- Categoría: Entity
-			- Proósito: Almacenar los datos de la suscripción del usuario
-			- Atributos: 
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| id        | int          | private     | Id de identidad                              |
-				| planId | int       | private     | Almacena el Id del plan               |
-				| dayPay      | date        | private     |    Día de pago                       |
-			- Métodos:
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| Suscription       | Suscription       | public     | Constructor de clase                   |
-				| getPlanId | int       | public     | Devuelve el tipo de plan               |
-				| getDayPay      | date        | public     |    Devuelve el dia de pago                      |
-			- Métodos:
-			- Nombre: ISuscriptionRepository
+		
+			- Nombre: IPlantRepository
 			- Categoría: Repository
-			- Propósito: Persistir las suscripciones
+			- Propósito: Persistir las plantas
 			- Métodos: 
 				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 				|--------------|--------------|-------------|-----------------------------------------------|
-				| ISuscriptionRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
-				| add  | void       | public      | Crear una suscripción      |
-				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
-				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
-				|	deletePlan|void|public|Permite eliminar planes|
+				| IPlantRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Crear una planta      |
+				| updatePlant     | void       | public      |Permite actualizar los datos de una planta|
+				|deletePlant|void|public|Permite eliminar una planta|
+				| ListPlants|array|public|Devuelve una lista de todas las plantas|
+				|FindByName|promise<PlantResource>|public|Devuelve una planta por el nombre|
+				|FindById|promise<PlantResource|publicDevuelve una planta por el Id|
 		
 
 		- **4.2.2.2 Interface layer**
-			- Nombre: Suscription.controller
+			- Nombre: Plant.controller
 			- Categorìa: Controller
 			- Propòsito: Controlar registro de suscripciones
 			- Mètodos:
 				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
 				|------------|--------------|-------------|-----------------------------------------|
-				| Register   | Promise      | public      | Registra un nuevo plan               |
-				| ModifyPayDay | Promise      | public      | Permite modificar los datos del usuario |
-				|ModifyPlan|Promise|public|Permite modificar el plan|
-				| DeleteSuscription | Promise      | public      | Permite eliminar una suscripción             |
+				| Post   | Promise      | public      | Registra una nueva planta              |
+				| GetAll | Promise      | public      | Devuelve todas las plantas |
+				|GetByName|Promise|public|Devuelve una plata por su nombre|
+				|GetById|Promise|public|Devuelve una planta por su id|
+				|deleteById|Promise|Elimina una planta|
+
 		- **4.2.2.3 Application Layer**
-			- Nombre: AssignSuscription.handler
+			- Nombre: RegisterPlant.handler
 			- Categorìa: Handler
-			- Propòsito: Handler para asignar una suscripcion
+			- Propòsito: Handler para registrar una planta
 			- Mètodos: 
 				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
 				|----------|--------------|-------------|-----------------------------------|
-				| AssignSuscription.handler | void         | public      | Constructor             |
-				| execute  | void         | public      | Permite registrar al usuario |	
+				| RegisterPlant.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite registrar una planta |	
 
-			- Nombre: AssignSuscription.command
+			- Nombre: RegisterPlant.command
 			- Categorìa: Command
-			- Propòsito: Command para asignar una suscripción
+			- Propòsito: Command para registrar una planta
 			- Mètodos: 
 				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
 				|----------|--------------|-------------|-----------------------------------|
-				| AssignSuscriptionr.command | void         | public      | Constructor          	|
+				| RegisterPlant.command | void         | public      | Constructor          	|
 
+			- Nombre: SearchPlant.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para buscar una planta
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| SearchPlant.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite buscar una planta |	
+
+			- Nombre: SearchPlant.command
+			- Categorìa: Command
+			- Propòsito: Command para registrar una planta
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| SearchPlant.command | void         | public      | Constructor          	|
+
+			- Nombre: IdentifyPlant.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para identificar una planta
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| IdentifyPlant.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite identificar una planta |	
+
+			- Nombre: IdentifyPlant.command
+			- Categorìa: Command
+			- Propòsito: Command para identificar una planta
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| IdentifyPlant.command | void         | public      | Constructor          	|
 			
 			
 		- **4.2.2.4 Infrastructure Layer**
-			- Nombre: SuscriptionRepository
+			- Nombre: PlantRepository
 			- Categoría: Repository
-			- Propósito: Persistir las suscripciones
+			- Propósito: Persistir las plantas
 			- Métodos: 
 				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 				|--------------|--------------|-------------|-----------------------------------------------|
-				| SuscriptionRepository       | SuscriptionRepository         | public      | Constructor de la identidad                   |
-				| add  | void       | public      | Crear una suscripción      |
-				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
-				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
-				|	deletePlan|void|public|Permite eliminar planes|
-			
-			- Nombre: PlanRepository
-			- Categoría: Repository
-			- Propósito: Persistir los planes
-			- Métodos: 
-				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
-				|--------------|--------------|-------------|-----------------------------------------------|
-				| PlanRepository      | PlanRepository         | public      | Constructor de la identidad                   |
-				| add  | void       | public      | Crear un plan      |
-				| delete | void |public|Eliminar un plan|
+				| PlantRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Crear una planta      |
+				| updatePlant     | void       | public      |Permite actualizar los datos de una planta|
+				|deletePlant|void|public|Permite eliminar una planta|
+				| ListPlants|array|public|Devuelve una lista de todas las plantas|
+				|FindByName|promise<PlantResource>|public|Devuelve una planta por el nombre|
+				|FindById|promise<PlantResource|publicDevuelve una planta por el Id|
 				
 		- **4.2.2.5. Bounded Context Software Architecture Component Level Diagrams**
 			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
@@ -995,7 +1000,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- **4.2.2.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
-	- **4.2.2. Bounded Context: Suscripcion and Payments**
+	- **4.2.2. Bounded Context: Knowledge Management**
 		- **4.2.2.1. Plan.** 
 			- Nombre: Plan
 			- Categoria: Value Object
