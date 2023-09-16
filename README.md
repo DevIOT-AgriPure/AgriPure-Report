@@ -1135,107 +1135,180 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				| userId        | int          | private     | Id del usuario al que pertenece         |
 				|plantId|int|private|Id de planta que se está cultivando|
 				|createAt|date|private|Fecha de creación|
-				
-
+				|updateAt|date|private|Última fecha de actualización|
+				|imageSrc|string|private|Enlace a la imagen del cultivo|
 			- Métodos:
 				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 				|--------------|--------------|-------------|-----------------------------------------------|
-				| Plan       | void         | public      | Constructor de la identidad                   |
-				| getType  | string       | public      | Obtiene el tipo de plan       |
-				| getCosto      | double       | public      | Retorna el costo del plan                 |
+				| Crop       | Crop         | public      | Constructor de la identidad                   |
+				| addReport  | void       | public      | Añade un reporte al cultivo       |
+				| getReport      | String       | public      | Retorna un reporte del cultivo  |
+				| ModifyLastUpdate|void|private|Modifica la última fecha de actualización|
 
-			- Nombre: PlanType
-			- Categorìa: Enum
-			- Propòsito: Proveer los tipos de planes
-			- Atributos: 
-				| Nombre       | Tipo de dato | Visibilidad |
-				|--------------|--------------|-------------|
-				| FREE       | string       | public      |
-				| MONTHLY   | string       | public      |
-				| ANUAL          | string       | public      |
-			
-			- Nombre: Suscription
+			- Nombre: Report
 			- Categoría: Entity
-			- Proósito: Almacenar los datos de la suscripción del usuario
+			- Propósito: Almacenar los reportes de los cultivos
+			- Atributos:
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| Id | int       | private     | Id de identidad               |
+				| createAt|date|private|Fecha de creacion|
+				| imageSrc|string|private|Enlace a la imagen del cultivo al momento de crear el reporte|
+				|Description|string|private|Descripción de como se encuentra el cultivo al momento de generar el reporte|
+			- Nombre: IoTDevice
+			- Categoría: Entity
+			- Propósito: Almacenar datos de los dispositivos IoT
+			- Atributos:
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| Id | int       | private     | Id de identidad               |
+				| deviceName        | string          | private     | Nombre del dispositivo  |
+				|status|Status|private|Estado del dispositivo|
+				|registerAt|date|private|Fecha de creación|
+			- Nombre: Status
+			- Categoría: Enum
+			- Propósito: Almacenar los estados de un dispositivo IoT
 			- Atributos: 
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| id        | int          | private     | Id de identidad                              |
-				| planId | int       | private     | Almacena el Id del plan               |
-				| dayPay      | date        | private     |    Día de pago                       |
-			- Métodos:
-				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
-				|-----------|--------------|-------------|----------------------------------------------|
-				| Suscription       | Suscription       | public     | Constructor de clase                   |
-				| getPlanId | int       | public     | Devuelve el tipo de plan               |
-				| getDayPay      | date        | public     |    Devuelve el dia de pago                      |
-			- Métodos:
-			- Nombre: ISuscriptionRepository
-			- Categoría: Repository
-			- Propósito: Persistir las suscripciones
-			- Métodos: 
-				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
-				|--------------|--------------|-------------|-----------------------------------------------|
-				| ISuscriptionRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
-				| add  | void       | public      | Crear una suscripción      |
-				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
-				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
-				|	deletePlan|void|public|Permite eliminar planes|
-		
+				| Nombre    | Tipo de dato | Visibilidad |
+				|-----------|--------------|-------------|
+				| ON | string       | public    |
+				| OFF  | string          | public     |
 
-		- **4.2.1.2 Interface layer**
-			- Nombre: Suscription.controller
+
+		- **4.2.4.2 Interface layer**
+			- Nombre: Crop.controller
 			- Categorìa: Controller
-			- Propòsito: Controlar registro de suscripciones
+			- Propòsito: Controlar registro de cultivos
 			- Mètodos:
 				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
 				|------------|--------------|-------------|-----------------------------------------|
-				| Register   | Promise      | public      | Registra un nuevo plan               |
-				| ModifyPayDay | Promise      | public      | Permite modificar los datos del usuario |
-				|ModifyPlan|Promise|public|Permite modificar el plan|
-				| DeleteSuscription | Promise      | public      | Permite eliminar una suscripción             |
+				| Register   | Promise      | public      | Registra un nuevo cultivo               |
+				| Modify | Promise      | public      | Permite modificar cultivo de un usuario |
+				| GetCropById|Promise|public|Permite obtener un cultivo|
+				| GetCropsByUserId|Promise|public|Permite obtener una lista de los cultivos de un usuario|
+				| DeleteCrop | Promise      | public      | Permite eliminar un cultivo  |
+			- Nombre: IoT.controller
+			- Categorìa: Controller
+			- Propòsito: Controlar registro de dispositivos IoT
+			- Mètodos:
+				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+				|------------|--------------|-------------|-----------------------------------------|
+				| Register   | Promise      | public      | Registra un nuevo dispositivo IoT               |
+				| Modify | Promise      | public      | Permite modificar dispositivo IoT |
+				| GetIoTByOd|Promise|public|Permite obtener un dispositivo IoT|
+				| GetIoTByUserId|Promise|public|Permite obtener una lista de los dispositivos de un usuario|
+				| DeleteIoT | Promise      | public      | Permite eliminar un dispositivo  |
 		- **4.2.1.3 Application Layer**
-			- Nombre: AssignSuscription.handler
+			- Nombre: RegisterCrop.handler
 			- Categorìa: Handler
-			- Propòsito: Handler para asignar una suscripcion
+			- Propòsito: Handler para registrar un cultivo
 			- Mètodos: 
 				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
 				|----------|--------------|-------------|-----------------------------------|
-				| AssignSuscription.handler | void         | public      | Constructor             |
-				| execute  | void         | public      | Permite registrar al usuario |	
+				| RegisterCrop.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite registrar un cultivo |	
 
-			- Nombre: AssignSuscription.command
+			- Nombre: RegisterCrop.command
 			- Categorìa: Command
 			- Propòsito: Command para asignar una suscripción
 			- Mètodos: 
 				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
 				|----------|--------------|-------------|-----------------------------------|
-				| AssignSuscriptionr.command | void         | public      | Constructor          	|
+				| RegisterCrop.command | void         | public      | Constructor          	|
+
+
+			- Nombre: AddReport.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para registrar un reporte de cultivo
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| AddReport.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite registrar un cultivo |	
+
+			- Nombre: AddReport.command
+			- Categorìa: Command
+			- Propòsito: Command para asignar una suscripción
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| AddReport.command | void         | public      | Constructor          	|
+
+			- Nombre: ActivateMonitoring.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para activar el monitoreo de un cultivo
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| ActivateMonitoring.handler | void         | public      | Constructor     |
+				| execute  | void         | public      | Permite activar el monitoreo |	
+
+			- Nombre: ActivateMonitoring.command
+			- Categorìa: Command
+			- Propòsito: Command para activar el monitoreo de un cultivo
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| ActivateMonitoring.command | void         | public      | Constructor      |
+			
+			- Nombre: DisplayInformation.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para mostrar la información del cultivo en tiempo real
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| DisplayInformation.handler | void         | public      | Constructor     |
+				| execute  | void         | public      | Permite mostrar información en tiempo real |	
+
+			- Nombre: DisplayInformation.command
+			- Categorìa: Command
+			- Propòsito: Command para mostrar la información del cultivo en tiempo real
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| DisplayInformation.command | void         | public      | Constructor      |
+			
+			- Nombre: DeleteCrop.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para eliminar un cultivo
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| DeleteCrop.handler | void         | public      | Constructor     |
+				| execute  | void         | public      | Permite mostrar información en tiempo real |	
+
+			- Nombre: DeleteCrop.command
+			- Categorìa: Command
+			- Propòsito: Command para mostrar la información del cultivo en tiempo real
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| DeleteCrop.command | void         | public      | Constructor      |
 
 			
-			
 		- **4.2.1.4 Infrastructure Layer**
-			- Nombre: SuscriptionRepository
+			- Nombre: CropRepository
 			- Categoría: Repository
-			- Propósito: Persistir las suscripciones
+			- Propósito: Persistir los cultivos
 			- Métodos: 
 				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 				|--------------|--------------|-------------|-----------------------------------------------|
-				| SuscriptionRepository       | SuscriptionRepository         | public      | Constructor de la identidad                   |
-				| add  | void       | public      | Crear una suscripción      |
-				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
-				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
-				|	deletePlan|void|public|Permite eliminar planes|
+				| CropRepository       | CropRepository         | public      | Constructor de la identidad |
+				| add  | void       | public      | Crear un cultivo     |
+				| AddReport      | void       | public      | Permite actualizar un reporte al cultivo|
+				| DeleteCrip|void|public|Permite eliminar un cultivo|
 			
-			- Nombre: PlanRepository
+			- Nombre: IoTRepository
 			- Categoría: Repository
-			- Propósito: Persistir los planes
+			- Propósito: Persistir los dispositivos
 			- Métodos: 
 				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
 				|--------------|--------------|-------------|-----------------------------------------------|
-				| PlanRepository      | PlanRepository         | public      | Constructor de la identidad                   |
-				| add  | void       | public      | Crear un plan      |
-				| delete | void |public|Eliminar un plan|
+				| IoTRepository      | IoTRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Registrar un dispositivo      |
+				| FinByUserId  | array       | public      | Devuelve una lista de dispositivos IoT por Id del usuario |
+				| FinById  | IoTResource       | public      | Devuelve un IoT device |
+				| delete | void |public|Eliminar un dispositivo|
 				
 		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
 			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
