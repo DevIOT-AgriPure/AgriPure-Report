@@ -873,7 +873,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				![Diagrama clases User](https://cdn.discordapp.com/attachments/1143666758042013890/1152420088914391070/image.png)
 			- **4.2.1.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
-	- **4.2.2. Bounded Context: Suscripcion and Payments**
+	- **4.2.2. Bounded Context: Plant Management**
 		- **4.2.2.1. Domain Layer.** 
 			- Nombre: Plant
 			- Categoria: Entity
@@ -1000,7 +1000,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- **4.2.2.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
-	- **4.2.2. Bounded Context: Knowledge Management**
+	- **4.2.2. Bounded Context: Suscription Management**
 		- **4.2.2.1. Plan.** 
 			- Nombre: Plan
 			- Categoria: Value Object
@@ -1122,202 +1122,130 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- **4.2.1.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 		
+		- **4.2.2. Bounded Context: Suscription Management**
+		- **4.2.2.1. Plan.** 
+			- Nombre: Plan
+			- Categoria: Value Object
+			- Propósito: Almacenar datos de los planes del servicio
+			- Atributos :
+
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| planType | PlanType       | private     | Almacena el tipo de plan               |
+				| costoMes        | double          | private     | Costo del plan                          |
+
+			- Métodos:
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| Plan       | void         | public      | Constructor de la identidad                   |
+				| getType  | string       | public      | Obtiene el tipo de plan       |
+				| getCosto      | double       | public      | Retorna el costo del plan                 |
+
+			- Nombre: PlanType
+			- Categorìa: Enum
+			- Propòsito: Proveer los tipos de planes
+			- Atributos: 
+				| Nombre       | Tipo de dato | Visibilidad |
+				|--------------|--------------|-------------|
+				| FREE       | string       | public      |
+				| MONTHLY   | string       | public      |
+				| ANUAL          | string       | public      |
+			
+			- Nombre: Suscription
+			- Categoría: Entity
+			- Proósito: Almacenar los datos de la suscripción del usuario
+			- Atributos: 
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| id        | int          | private     | Id de identidad                              |
+				| planId | int       | private     | Almacena el Id del plan               |
+				| dayPay      | date        | private     |    Día de pago                       |
+			- Métodos:
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| Suscription       | Suscription       | public     | Constructor de clase                   |
+				| getPlanId | int       | public     | Devuelve el tipo de plan               |
+				| getDayPay      | date        | public     |    Devuelve el dia de pago                      |
+			- Métodos:
+			- Nombre: ISuscriptionRepository
+			- Categoría: Repository
+			- Propósito: Persistir las suscripciones
+			- Métodos: 
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| ISuscriptionRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Crear una suscripción      |
+				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
+				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
+				|	deletePlan|void|public|Permite eliminar planes|
+		
+
+		- **4.2.1.2 Interface layer**
+			- Nombre: Suscription.controller
+			- Categorìa: Controller
+			- Propòsito: Controlar registro de suscripciones
+			- Mètodos:
+				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+				|------------|--------------|-------------|-----------------------------------------|
+				| Register   | Promise      | public      | Registra un nuevo plan               |
+				| ModifyPayDay | Promise      | public      | Permite modificar los datos del usuario |
+				|ModifyPlan|Promise|public|Permite modificar el plan|
+				| DeleteSuscription | Promise      | public      | Permite eliminar una suscripción             |
+		- **4.2.1.3 Application Layer**
+			- Nombre: AssignSuscription.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para asignar una suscripcion
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| AssignSuscription.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite registrar al usuario |	
+
+			- Nombre: AssignSuscription.command
+			- Categorìa: Command
+			- Propòsito: Command para asignar una suscripción
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| AssignSuscriptionr.command | void         | public      | Constructor          	|
+
+			
+			
+		- **4.2.1.4 Infrastructure Layer**
+			- Nombre: SuscriptionRepository
+			- Categoría: Repository
+			- Propósito: Persistir las suscripciones
+			- Métodos: 
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| SuscriptionRepository       | SuscriptionRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Crear una suscripción      |
+				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
+				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
+				|	deletePlan|void|public|Permite eliminar planes|
+			
+			- Nombre: PlanRepository
+			- Categoría: Repository
+			- Propósito: Persistir los planes
+			- Métodos: 
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| PlanRepository      | PlanRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Crear un plan      |
+				| delete | void |public|Eliminar un plan|
+				
+		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
+		- **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+			Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+			- **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+				Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+				![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
+			- **4.2.1.6.2 Bounded Context Database Diagrams**
+				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 				
 
 
-|**Nombre:** Device|
-------------------
-
-|**Categoría:** Entity|
-------------------
-
-|**Propósito:** Almacenar información del dispositivo IoT|
-------------------
-
-### Atributos
-------------------
-
-| Nombre    | Tipo de Dato | Visibilidad | Descripción                |
-|-----------|--------------|-------------|----------------------------|
-| id        | Long         | private     | Id de entidad              |
-| name      | String       | private     | Nombre de entidad          |
-| type      | String       | private     | Tipo de entidad            |
-| status    | DeviceStatus | private     | Estado del dispositivo     |
-| cropId    | Long         | private     | Id del cultivo relacionado |
-| location  | Location     | private     | Ubicación del dispositivo  |
-
-### Métodos
-------------------
-
-| Nombre    | Tipo de Retorno | Visibilidad | Descripción                          |
-|-----------|------------------|-------------|--------------------------------------|
-| Device    | void             | public      | Constructor de la entidad           |
-| getMagnitude | Double        | public      | Método para obtener la magnitud     |
-| getStatus | bool             | public      | Método para obtener el estado       |
-
-**Nombre:** Device
-------------------
-
-**Categoría:** Entity
-------------------
-
-**Propósito:** Almacenar información del dispositivo IoT
-------------------
-
-### Atributos
-
-
-| Nombre    | Tipo de Dato | Visibilidad | Descripción                |
-|-----------|--------------|-------------|----------------------------|
-| id        | Long         | private     | Id de entidad              |
-| name      | String       | private     | Nombre de entidad          |
-| type      | String       | private     | Tipo de entidad            |
-| status    | DeviceStatus | private     | Estado del dispositivo     |
-| cropId    | Long         | private     | Id del cultivo relacionado |
-| location  | Location     | private     | Ubicación del dispositivo  |
-
-### Métodos
-
-| Nombre    | Tipo de Retorno | Visibilidad | Descripción                          |
-|-----------|------------------|-------------|--------------------------------------|
-| Device    | void             | public      | Constructor de la entidad           |
-| getMagnitude | Double        | public      | Método para obtener la magnitud     |
-| getStatus | bool             | public      | Método para obtener el estado       |
-
-
-**Nombre:** Location
-
-
-**Categoría:** Value Object
-
-
-**Propósito:** Obtener la ubicación del dispositivo IoT
-
-### Atributos
-------------------
-
-| Nombre    | Tipo de Dato | Visibilidad | Descripción         |
-|-----------|--------------|-------------|---------------------|
-| country   | String       | public      | País ubicado        |
-| city      | String       | public      | Ciudad ubicada      |
-| latitude  | Double       | public      | Latitud ubicada     |
-| longitude | Double       | public      | Longitud ubicada    |
-
-### Métodos
-------------------
-
-| Nombre       | Tipo de Retorno | Visibilidad | Descripción                  |
-|--------------|------------------|-------------|------------------------------|
-| Constructor  | void             | public      | Constructor de la entidad   |
-| getCountry   | String           | public      | Método para obtener el país  |
-| getCity      | String           | public      | Método para obtener la ciudad|
-| getLongitude | Double           | public      | Método para obtener la longitud|
-| getLatitude  | Double           | public      | Método para obtener la latitud|
-
-
-### DeviceStatus Enumeration
-------------------
-
-| Nombre    | DeviceStatus |
-|-----------|--------------|
-| Categoría | Enumeration  |
-| Propósito | Estado de disponibilidad del dispositivo |
-
-#### Atributos
-
-| Nombre | Tipo de Dato | Visibilidad | Descripción     |
-|--------|--------------|-------------|-----------------|
-| value  | Bool         | private     | Valor de entidad |
-
-### IIotDeviceRepository Repository
-------------------
-
-| Nombre | IIotDeviceRepository |
-|--------|----------------------|
-| Categoría | Repository         |
-| Propósito | Persistir dispositivos IoT |
-------------------
-
-#### Métodos
-------------------
-
-| Nombre         | Tipo de Retorno  | Visibilidad | Descripción             |
-|----------------|------------------|-------------|-------------------------|
-| ListByUserId   | List<IoTResource> | public      | Listar por ID de usuario |
-| ListByProyectId | List<IoTResource> | public      | Listar por ID de proyecto |
-| Add            | addIoTResource   | public      | Agregar recurso IoT     |
-| GetById        | IoTResource      | public      | Obtener por ID          |
-| Delete         | deleteIoTResource | public      | Eliminar recurso IoT    |
-
-		- 4.2.1.2. Interface Layer. 
-		
-| Nombre              | Categoría   | Propósito                        |
-|---------------------|-------------|----------------------------------|
-| IoTDeviceController | Controller  | Controlador de dispositivos IoT |
-
-### Métodos
-
-| Nombre       | Tipo de Retorno     | Visibilidad | Descripción                            |
-|--------------|---------------------|-------------|----------------------------------------|
-| GetAll       | List<IoTResource>  | public      | Obtener todos los recursos IoT        |
-| GetById      | IoTResource         | public      | Obtener un recurso IoT por ID          |
-| Add          | AddShipmentResource | public      | Agregar un recurso de envío            |
-| Remove       | void                | public      | Eliminar un recurso IoT                |
-| FindByCropId | ShipmentResource    | public      | Encontrar recursos por ID de cultivo  |
-
-		- 4.2.1.3. Application Layer. 
-
-| Nombre               | Categoría    | Propósito                           |
-|----------------------|--------------|-------------------------------------|
-| device-linked.event  | EventHandler | Gestiona la creación de un evento  |
-
-### Métodos
-
-| Nombre  | Tipo de Retorno | Visibilidad | Descripción                        |
-|---------|-----------------|-------------|------------------------------------|
-| handle  | void            | public      | Maneja la creación del evento     |
-
-| Nombre                  | Categoría    | Propósito                           |
-|-------------------------|--------------|-------------------------------------|
-| device-unlinked.event   | EventHandler | Gestiona la creación de un evento  |
-
-### Métodos
-
-| Nombre  | Tipo de Retorno | Visibilidad | Descripción                        |
-|---------|-----------------|-------------|------------------------------------|
-| handle  | void            | public      | Maneja la creación del evento     |
-
-
-- 4.2.1.4. Infrastructure Layer. 
-
-| Nombre              | Categoría  | Propósito                    |
-|---------------------|------------|------------------------------|
-| IoTDeviceRepository | Repository | Persistencia de dispositivos |
-
-
-### Métodos
-
-| Nombre        | Tipo de Retorno    | Visibilidad | Descripción                       |
-|---------------|--------------------|-------------|-----------------------------------|
-| GetAll        | List<IoTResource>  | public      | Obtiene todos los recursos IoT    |
-| GetById       | IoTResource         | public      | Obtiene un recurso IoT por ID     |
-| Add           | AddShipmentResource | public      | Agrega un recurso de envío        |
-| Remove        | void               | public      | Elimina un recurso IoT             |
-| FindByCropId  | ShipmentResource   | public      | Encuentra recursos por ID de cultivo |
-
-- 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams. 
-- El diagrama de componentes C4 es una herramienta de modelado arquitectónico que facilita la visualización de la estructura de un sistema de software a través de la representación de componentes como bloques y las relaciones entre ellos mediante flechas. El Diagrama de Componentes de Shipments proporciona una visión más clara de la estructura prevista para este Bounded Context.
--Software Architecture Component Level Diagrams IOT Device Manager
-![IOT Device Manager](https://cdn.discordapp.com/attachments/1149587894416183327/1149607182556483604/Untitled.drawio1.png?width=810&height=669)
-- 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams. 
-- Los diagramas de código en arquitectura de software visualizan la estructura interna de un sistema, incluyendo clases, métodos y relaciones. Ayudan a comprender las conexiones y la implementación de funciones a nivel de código.
-	- 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams. 
-	- Los diagramas de capas de dominio representan la estructura de las capas de la arquitectura de software a nivel de dominio de negocio, utilizando bloques para cada capa y flechas para mostrar las relaciones entre ellas.
-	![IOT Device Manager](https://cdn.discordapp.com/attachments/1149587894416183327/1149610457930408007/Specialist_Contact.png?width=810&height=669)
-
-	- 4.2.1.6.2. Bounded Context Database Design Diagram.
-	- Un diagrama de base de datos visualiza la estructura de una base de datos y muestra cómo se relacionan sus tablas. En este caso, muestra la relación entre las tablas Shipments y Comments.
-	![IOT Device Manager](https://media.discordapp.net/attachments/1143666758042013892/1149572171857936505/BC_DeviceManager-2023-09-07_23-57.png?width=480&height=262)
 - **4.2.2. Bounded Context: Specialist Contact**
 	- 4.2.2.1. Domain Layer.
 		- Nombre: Specialist
