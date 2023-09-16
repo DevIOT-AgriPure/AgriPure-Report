@@ -737,7 +737,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 
 	El Tactical-Level Domain-Driven Design es una metodología de diseño de software que se enfoca en la representación del dominio y la estructuración de objetos en niveles específicos, que abarcan desde la lógica empresarial hasta la aplicación y la infraestructura.
 	- **4.2.1. Bounded Context: User Acount Manager**
-		- 4.2.1.1. Domain Layer. 
+		- **4.2.1.1. Domain Layer.** 
 			- Nombre: User
 			- Categoria: Entity
 			- Propósito: Almacenar datos de nuestros usuarios
@@ -746,6 +746,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
 				|-----------|--------------|-------------|----------------------------------------------|
 				| id        | int          | private     | Id de identidad                              |
+				| suscripcionId        | int          | private     | Id del la suscripcion             |
 				| firstName | string       | private     | Almacena el nombre del usuario               |
 				| lastName  | string       | private     | Almacena el apellido del usuario             |
 				| cellphone  | string       | private     | Almacena el número telefónico del usuario        |
@@ -771,7 +772,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 			- Nombre: IUserRepository
 			- Categoorìa: Repository
 			- Propòsito: Persistir usuarios
-		- 4.2.1.2 Interface layer
+		- **4.2.1.2 Interface layer**
 			- Nombre: Users.controller
 			- Categorìa: Controller
 			- Propòsito: Controlar registro de usuarios
@@ -782,7 +783,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				| Log In     | Promise      | public      | Permite iniciar sesiòn al usuario       |
 				| ModifyUser | Promise      | public      | Permite modificar los datos del usuario |
 				| DeleteUser | Promise      | public      | Permite eliminar un usuario             |
-		- 4.2.1.3 Application Layer
+		- **4.2.1.3 Application Layer**
 			- Nombre: CreateUser.handler
 			- Categorìa: Handler
 			- Propòsito: Handler para registrar un usuario
@@ -851,7 +852,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				|----------|--------------|-------------|-----------------------------------|
 				| DeleteUser.command | void         | public      | Constructor          	|
 			
-		- 4.2.1.4 Infrastructure Layer
+		- **4.2.1.4 Infrastructure Layer**
 			- Nombre: UserRepository
 			- Categorìa: Repository
 			- Propòsito: Obtener datos del usuario
@@ -872,7 +873,109 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				![Diagrama clases User](https://cdn.discordapp.com/attachments/1143666758042013890/1152420088914391070/image.png)
 			- **4.2.1.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+	- **4.2.2. Bounded Context: Suscripcion and Payments**
+		- **4.2.2.1. Plan.** 
+			- Nombre: Plan
+			- Categoria: Entity
+			- Propósito: Almacenar datos de los planes del servicio
+			- Atributos :
 
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| id        | int          | private     | Id de identidad                              |
+				| planType | PlanType       | private     | Almacena el tipo de plan               |
+				| costoMes        | double          | private     | Costo del plan                          |
+
+			- Métodos:
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| Plan       | void         | public      | Constructor de la identidad                   |
+				| getType  | string       | public      | Obtiene el tipo de plan       |
+				| getCosto      | double       | public      | Retorna el costo del plan                 |
+
+			- Nombre: PlanType
+			- Categorìa: Enum
+			- Propòsito: Proveer los tipos de planes
+			- Atributos: 
+				| Nombre       | Tipo de dato | Visibilidad |
+				|--------------|--------------|-------------|
+				| FREE       | string       | public      |
+				| MONTHLY   | string       | public      |
+				| ANUAL          | string       | public      |
+			- Nombre: Suscription
+			- Categoría: Entity
+			- Proósito: Almacenar los datos de la suscripción del usuario
+			- Atributos: 
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| id        | int          | private     | Id de identidad                              |
+				| planId | int       | private     | Almacena el Id del plan               |
+				| dayPay      | date        | private     |    Día de pago                       |
+			- Nombre: ISuscriptionRepository
+			- Categoría: Repository
+			- Propósito: Persistir las suscripciones
+			- Métodos: 
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| ISuscriptionRepository       | ISuscriptionRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Crear una suscripción      |
+				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
+				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
+				|	deletePlan|void|public|Permite eliminar planes|
+		
+
+		- **4.2.1.2 Interface layer**
+			- Nombre: Suscription.controller
+			- Categorìa: Controller
+			- Propòsito: Controlar registro de suscripciones
+			- Mètodos:
+				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+				|------------|--------------|-------------|-----------------------------------------|
+				| Register   | Promise      | public      | Registra un nuevo plan               |
+				| ModifyPayDay | Promise      | public      | Permite modificar los datos del usuario |
+				|ModifyPlan|Promise|public|Permite modificar el plan|
+				| DeleteSuscription | Promise      | public      | Permite eliminar una suscripción             |
+		- **4.2.1.3 Application Layer**
+			- Nombre: AssignSuscription.handler
+			- Categorìa: Handler
+			- Propòsito: Handler para asignar una suscripcion
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| AssignSuscription.handler | void         | public      | Constructor             |
+				| execute  | void         | public      | Permite registrar al usuario |	
+
+			- Nombre: AssignSuscription.command
+			- Categorìa: Command
+			- Propòsito: Command para asignar una suscripción
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| AssignSuscriptionr.command | void         | public      | Constructor          	|
+
+			
+			
+		- **4.2.1.4 Infrastructure Layer**
+			- Nombre: SuscriptionRepository
+			- Categoría: Repository
+			- Propósito: Persistir las suscripciones
+			- Métodos: 
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| ISuscriptionRepository       | SuscriptionRepository         | public      | Constructor de la identidad                   |
+				| add  | void       | public      | Crear una suscripción      |
+				| updateDayPay      | void       | public      | Permite actualizar la fecha de pago de la suscripción                |
+				| updatePlan|Plan|public|Permite actualizar el tipo de plan de la suscripción|
+				|	deletePlan|void|public|Permite eliminar planes|
+		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes User](https://cdn.discordapp.com/attachments/1143666758042013890/1152020288670814288/image.png)
+		- **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+			Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+			- **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+				Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+				![Diagrama clases Suscription](enlace al diagrama)
+			- **4.2.1.6.2 Bounded Context Database Diagrams**
+				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
 
 		
 				
