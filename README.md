@@ -1426,7 +1426,97 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 				![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
 			- **4.2.1.6.2 Bounded Context Database Diagrams**
 				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.
+	- **4.2.4. Bounded Context: Notification**
+		- **4.2.4.1. Domain Layer.** 
+			- Nombre: Notification
+			- Categoria: Entity
+			- Propósito: Almacenar los datos de las notificaciones
+			- Atributos :
+
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| Id | int       | private     | Id de identidad               |
+				| userId        | int          | private     | Id del usuario         |
+				|createAt|date|private|Fecha de creación|
+				|importance|NotificationImportane|private|Importancia de la notificación|
+				|title|string|private|Título de la notificación|
+				|body|string|private|Cuerpo de la notificación|
+				
+			- Métodos:
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| Notification       | Constructor        | public      | Constructor de la identidad                   |
+				| getTitle  | string   | public      | Obtiene el titulo de la notificacion |
+				|getBody|string|public|Obtiene el cuerpo de la notificación|
 			
+			- Nombre: NotificationImportance
+			- Categoría: Entity
+			- Propósito: Almacenar los pasos de un proyecto
+			- Atributos:
+				| Nombre    | Tipo de dato | Visibilidad | Descripción                                  |
+				|-----------|--------------|-------------|----------------------------------------------|
+				| Id | int       | private     | Id de identidad               |
+				|orderStep|int|private|Número de orden|
+				|title|string|private|Título del paso|
+				|description|string|private|Título|
+				|status|StepStatus|string|private|Estado del paso|
+				|deadLine|date|string|Fecha límite para cumplir el paso|
+			
+			- Nombre: NotificationImportance
+			- Categoría: Enum
+			- Propósito: Almacenar la importancia de cada notificación
+			- Atributos: 
+				| Nombre    | Tipo de dato | Visibilidad |
+				|-----------|--------------|-------------|
+				| LOW | int       | public    | 
+				|URGENT|int|public|
+				|MEDIUM|string|public|
+		
+		- **4.2.4.2 Interface layer**
+			- Nombre: Notification.controller
+			- Categorìa: Controller
+			- Propòsito: Controlar registro de notificaciones
+			- Mètodos:
+				| Nombre     | Tipo de dato | Visibilidad | Descripción                             |
+				|------------|--------------|-------------|-----------------------------------------|
+				| Register   | Promise      | public      | Registra un nuevo proyecto     |
+				| Modify | Promise      | public      | Permite modificar proyecto de un cultivo |
+				| GetNotificationById|Promise|public|Permite obtener un cultivo|
+				| GetNotificationsUserId|Promise|public|Permite obtener una lista de los proyecto de un usuario|
+				| DeleteProject | Promise      | public      | Permite eliminar un proyecto  |
+
+		- **4.2.4.3 Application Layer**
+			- Nombre: NotificationSendeed.event-handler
+			- Categorìa: Event Handler
+			- Propòsito: Gestionar el envío de una notificación
+			- Mètodos: 
+				| Nombre   | Tipo de dato | Visibilidad | Descripción                       |
+				|----------|--------------|-------------|-----------------------------------|
+				| handle | void         | public      | Constructor             |
+
+
+			
+		- **4.2.4.4 Infrastructure Layer**
+			- Nombre: NotificationRepository
+			- Categoría: Repository
+			- Propósito: Persistir las notificaciones
+			- Métodos: 
+				| Nombre       | Tipo de dato | Visibilidad | Descripción                                   |
+				|--------------|--------------|-------------|-----------------------------------------------|
+				| NotificationRepository       | CropRepository         | public      | Constructor de la identidad |
+				| add  | void       | public      | Crear una notificación     |
+				| DeleteProyect|void|public|Permite eliminar un proyecto|
+
+				
+		- **4.2.1.5. Bounded Context Software Architecture Component Level Diagrams**
+			El diagrama de componentes C4 nos permite visualizar como se estructura un sistema basàndonos en sus componentesy relaciones. Los componentes son representados por bloques y las relaciones mediante flechas. ![Diagrama de componentes sUSCRIPTION](https://cdn.discordapp.com/attachments/1143666758042013890/1152477663966011422/image.png)
+		- **4.2.1.6 Bounded Context Software Architecture Code Level Diagrams**
+			Los diagramas de nivel de código en la arquitectura de software son una herramienta de representación utilizada para mostrar la estructura interna de un sistema de software con un alto grado de detalle, abarcando clases, métodos y sus interconexiones. Estos esquemas resultan beneficiosos para adquirir una comprensión de cómo se vinculan las diversas componentes de un sistema de software y cómo se lleva a cabo la implementación de las funciones a nivel de código				
+			- **4.2.1.6.1 Bounded Context Domain Layer Class Diagrams**
+				Los diagramas de estratificación de dominio facilitan la representación visual de la disposición de las capas dentro de la arquitectura de software en el ámbito del negocio. Cada capa de dominio se ilustra como un bloque, y las conexiones entre estas capas se indican mediante flechas o líneas.
+				![Diagrama clases Suscription](https://cdn.discordapp.com/attachments/1143666758042013890/1152481306656120885/image.png)
+			- **4.2.1.6.2 Bounded Context Database Diagrams**
+				Un diagrama de base de datos es una representación visual de la estructura de una base de datos. Son útiles para entender la estructura de una base de datos y para visualizar cómo se relacionan las diferentes tablas de una base de datos. Este diagrama muestra la relación entre la tabla Shipments y la tabla Comments.		
 
 
 
