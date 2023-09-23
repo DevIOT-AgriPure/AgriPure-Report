@@ -2008,5 +2008,6 @@ https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBO
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
 |-----------|-----------|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Nzc3MzE0NSwtMjA4NzI1NDI4OV19
+eyJoaXN0b3J5IjpbLTEyNzc4NDg4OCwtNTU3NzczMTQ1LC0yMD
+g3MjU0Mjg5XX0=
 -->
