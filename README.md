@@ -2022,6 +2022,6 @@ https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBO
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
 |-----------|-----------|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc4NDg4OCwtNTU3NzczMTQ1LC0yMD
-g3MjU0Mjg5XX0=
+eyJoaXN0b3J5IjpbLTg0MzgzOTA2NiwtMTI3Nzg0ODg4LC01NT
+c3NzMxNDUsLTIwODcyNTQyODldfQ==
 -->
