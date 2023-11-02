@@ -49,7 +49,7 @@ Ciclo:
 **Enlace del Project Report:** [https://github.com/DevIOT-AgriPure/AgriPure-Report.git](https://github.com/DevIOT-AgriPure/AgriPure-Report.git)
 
 ![Commits](https://media.discordapp.net/attachments/1149587894416183327/1149608443334885467/image.png?width=1230&height=669)
-
+**
 ## Contenido
 - [Tabla de contenidos](#tabla-de-contenidos)
 - Capítulo I: Introducción 
@@ -383,10 +383,86 @@ Desarrollaremos el Competitive Analysis Landscape:
 		Somos plenamente conscientes de que el auge de la tecnología y el aumento en el uso de computadoras y smartphones han dado lugar a una creciente demanda de servicios de gestión y asesoramiento agrícola. Por lo tanto, nos dirigimos exclusivamente a todas aquellas personas involucradas o interesadas en la agricultura que requieran un software que los asista en el cultivo adecuado de árboles frutales y vegetales.
 
 	- Táctica de expansión:
-		A pesar de que nuestra aplicación opera de manera gratuita, no planeamos saturarla con anuncios en cada acción que realicen los usuarios. Nuestra estrategia de expansión se fundamenta en la obtención de valoraciones positivas por parte de los usuarios y en la promoción efectiva de la aplicación.
+		A pesar de que nuestra aplicación opera de manera gratuita, no planeamos saturarla con anuncios en cada acción que realicen los usuarios. Nuestra estrategia de expansión se fundamenta en la obtención de valoraciones positivas por parte de los usuarios y en la promoción efectiva de la aplicación.		- 4.2.X. Bounded Context: 
+			- 4.2.X.1. Domain Layer. 
+			- 4.2.X.2. Interface Layer. 
+			- 4.2.X.3. Application Layer. 
+			- 4.2.X.4. Infrastructure Layer. 
+			- 4.2.X.6. Bounded Context Software Architecture Component Level Diagrams. 
+			- 4.2.X.7. Bounded Context Software Architecture Code Level Diagrams. 
+				- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
+				- 4.2.X.7.2. Bounded Context Database Design Diagram.
+
+# Student Outcome
+
+## Capítulo I: Introducción
+### 1.1. Startup Profile
+- 1.1.1. Descripción de la Startup
+
+	Hoy en día, uno de los pilares fundamentales en nuestra sociedad que adquiere una importancia trascendental es el sector agrícola. En especial en el contexto peruano, los agricultores desempeñan un papel crucial al impulsar la economía del país. Sin embargo, es evidente que a menudo enfrentan obstáculos significativos, careciendo de las oportunidades y herramientas tecnológicas necesarias para maximizar sus ganancias y optimizar la producción.
+
+	Es ante esta coyuntura de carencias que afectan a miles de agricultores que emerge una solución innovadora: la Startup denominada "AGRIPURE". Esta iniciativa surge con el objetivo de cerrar las brechas existentes y ofrecer un apoyo sustancial a la comunidad agrícola.
+
+	AGRIPURE se presenta como una solución revolucionaria que se materializa a través de una aplicación móvil. Esta aplicación no solo actúa como una asistencia en línea para los agricultores, sino que también proporciona una serie de alternativas, guías y consejos que apuntan a elevar los estándares de la agricultura y, en consecuencia, incrementar la eficiencia y las ganancias de los agricultores.
+
+	Uno de los aspectos destacados de AGRIPURE es su capacidad para unir al agricultor con el mundo exterior, superando las barreras geográficas y facilitando un acceso fluido a información relevante y servicios de alta calidad. A través de su presencia en una Aplicación Móvil, AGRIPURE pone al alcance de los agricultores una plataforma rica en contenido y herramientas que respaldan el desarrollo y el éxito de cada usuario.
+
+	En línea con su misión, AGRIPURE tiene como propósito fundamental asistir a las personas en su empeño por llevar a cabo una siembra eficiente, ya sea en gran escala o incluso en entornos domésticos. Esto se logra a través de una plataforma segura que proporciona recomendaciones y guías adaptadas a las necesidades individuales de cada agricultor.
+
+	Mirando hacia el futuro, AGRIPURE persigue una visión audaz: convertirse en una empresa líder que desempeñe un 				papel esencial en la reducción de la prevalencia de alimentos transgénicos. Esta visión se materializa al ofrecer una plataforma fiable y accesible que permite a cualquier persona involucrarse en la creación y el cultivo de su propio alimento. Al mismo tiempo, AGRIPURE busca contribuir al mejoramiento de los cultivos a gran escala, propiciando la producción de alimentos de mayor calidad y valor nutricional.
+	
+- 1.1.2. Perfiles de integrantes del equipo
+
+| Nombre| Descripción| 
+|-----------|-----------|
+|Andres Christian Reynoso  | |
+|Bruno Moisés Palomino Santa Cruz|  |
+|Diego Talledo Sanchez|  |
+|Franchesco Alexis Soto Morales|  |
+|Frank Yamil Alva Cordova|  |
+
+### 1.2. Solution Profile
+- 1.2.1 Antecedentes y problemática
+
+- 1.2.2 Lean UX Process.
+  - 1.2.2.1. Lean UX Problem Statements.
+  
+  **Problem Statement 1:**
+  En nuestro contexto, se hace necesario el acceso a datos relacionados con la siembra, las condiciones climáticas y el tipo de terreno en el que se pretende llevar a cabo la actividad agrícola. Gracias a la información proporcionada por el usuario, es posible mostrar las condiciones a las que están expuestas sus cosechas y, además, suministrar las indicaciones esenciales para llevar a cabo los procesos de cultivo adecuados para cada especie de planta.
+
+	Hemos encontrado un factor crítico que tiene un impacto significativo en los resultados finales generados por el sistema. Este factor radica en la introducción de datos inexactos o que no se ajustan a los valores correctos relativos al terreno, el clima y la siembra.
+
+	¿Cómo podemos garantizar que el sistema pueda operar con información más precisa para ofrecer resultados favorables al agricultor?  
+
+  **Problem Statement 2:**
+  En nuestro contexto,
+
+	Hemos encontrado
+	
+
+  - 1.2.2.2. Lean UX Assumptions.
+  - 1.2.2.3. Lean UX Hypothesis Statements.
+  - 1.2.2.4. Lean UX Canvas.
+  
+  
+
+### 1.3. Segmentos objetivo.
+
+En nuestro proyecto se hacen presente dos segmentos objetivos:
+
+- Agricultores: Son nuestro principal segmento objetivo
+- Asesores: 
+
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores.
+
+Presentamos 3 competidores, los cuales son: 
+- 2.1.1. Análisis competitivo.
+- 2.1.2. Estrategias y tácticas frente a competidores.
+
 ### 2.2. Entrevistas.
  - 2.2.1. Diseño de entrevistas.
-
+			
 	Cuestionario para Entrevistas
 
 	¡Saludos y buen día! Permítame introducirme y compartir un poco sobre mi proyecto. Soy [...], un estudiante de Ingeniería de 		Software.
@@ -432,7 +508,15 @@ En relación al grupo de agricultores a los que apuntamos:
 		i. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
 		j. ¿Esta familiarizado con el uso de dispositivos que monitorean sus cultivos?
 		k. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
-		l. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos?
+		l. ¿Estaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivoEstaria dispuesto a invertir en dispositivos IOT para mejorar la calidad de sus cultivos?
+		e. ¿Cómo decide la distancia adecuada entre las plantas que siembra? ¿Conoce métodos para establecer la separación y profundidad ideales para el desarrollo de las plantas?
+		f. ¿Cómo calificaría la calidad de su conexión a internet en el área donde cultiva?
+		g. ¿Ha identificado cuándo es necesario utilizar fertilizantes o métodos de control de plagas para diferentes tipos de plantas?
+		h. ¿Dispone de conocimiento sobre los fertilizantes, repelentes y pesticidas adecuados para cada tipo de planta?
+		i. ¿Tiene en cuenta la necesidad de podar las plantas que cultiva? ¿Con qué frecuencia considera que es necesario realizar la poda?
+		j. ¿Está al tanto de los climas propicios para cultivar un tipo específico de cultivo? ¿O encuentra dificultades en esta área?
+		k. ¿Esta familiarizado con el uso de dispositivos que monitorean sus cultivos?
+		l. ¿Cuenta con un espacio extenso, como un jardín, para sus cultivos, o se trata de áreas más limitadas, como macetas?
 		m. ¿Considera que una aplicación móvil que le ayude a visualizar su área de cultivo podría ser beneficiosa en su actividad?
    
 ***Preguntas para Segmento 2: Especialistas***
@@ -643,7 +727,7 @@ En resumen, las entrevistas muestran que los agricultores entrevistados valoran 
 | US022 | Establecer horarios de disponibilidad | Como especialista me gustaria establecer mis horarios en mi perfil para que los agricultores puedan ver mi disponibilidad | **Escenario: El especialista establece su disponibilidad.** Dado que el especialista quiere establecer su disponibilidad, cuando va a la opción de establecer horarios, entonces puede marcar las horas en las que está libre o no para que pueda ser contactado. | EP002 Opciones relacionadas a la cuenta del usuario |
 | US023 | Modificar mi perfil de especialista | Como especialista me gustaria modificar mi perfil para que pueda mostrar mas informacion mia, al igual que enlaces a mis otros contactos. | **Escenario: El especialista modifiqua su perfil.** Dado que el especialista quiere modificar su perfil, cuando va a la configuración de su perfil, entonces es capaz de modificar libremente su descripción, foto de perfil y enlaces. **Escenario: El especialista no puede modificar su perfil** Dado que el especialista desea modificar su perfil para mostrar más información, cuando intenta acceder a la configuración de su perfil, entonces la aplicación muestra un mensaje de error indicando que debido a problemas técnicos, no es posible realizar cambios en el perfil en ese momento. | EP002 Opciones relacionadas a la cuenta del usuario |
 | TS001 | Implementación de Seguridad | Para proteger los datos y recursos del sistema contra accesos no autorizados, el equipo de desarrollo debe implementar medidas de seguridad, incluyendo autenticación de usuarios. | **Escenario: Autenticación de Usuarios.** Los usuarios deben proporcionar credenciales válidas (nombre de usuario y contraseña) para iniciar sesión. **Escenario: Registro de Usuarios.** Los usuarios deben proporcionar información de registro, como nombre, dirección de correo electrónico y contraseña. **Escenario: Restricción de Acceso No Autorizado.** Los usuarios autenticados deben tener acceso solo a las áreas y funcionalidades para las que están autorizados.| EP006 Gestión de Datos y Comunicación Backend|
-| TS002 | Creación de API Restful | Con el objetivo de permitir la comunicación eficiente entre el frontend y el backend, el equipo de desarrollo debe diseñar y crear endpoints API RESTful que sigan las mejores prácticas de diseño de APIs. | **Escenario: Diseño de Endpoints API** Se debe realizar un diseño detallado de los endpoints de la API RESTful, identificando los recursos y las operaciones que se expondrán a través de la API. **Escenario: Implementación de Endpoints API** Los endpoints deben ser funcionales y capaces de realizar las operaciones definidas, como lectura, escritura, actualización y eliminación de datos. | EP006 Gestión de Datos y Comunicación Backend
+| TS002 | Creación de API Restful | Con el objetivo de permitir la comunicación eficiente entre el frontend y el backend, el equipo de desarrollo debe diseñar y crear endpoints API RESTful que sigan las mejores prácticas de diseño de APIs. | **Escenario: Diseño de Endpoints API** Se debe realizar un diseño detallado de los endpoints de la API RESTful, identificando los recursos y las operaciones que se expondrán a través de la API. **Escenario: Implementación de Endpoints API** Los endpoints deben ser funcionales y capaces de realizar las operaciones definidas, como lectura, escritura, actualización y eliminación de datos. | EP006 Gestión de Datos y Comunicación Backend|
 | TS003 | Integración de Servicios Externos | Para habilitar características como sistemas de reconocimiento de imagen, el equipo de desarrollo debe integrar servicios externos a través de API o SDK. | **Escenario: Selección de Servicios Externos** Se debe investigar y seleccionar los servicios externos adecuados para la integración, específicamente aquellos que permitan el reconocimiento de imágenes. **Escenario: Integración de API o SDK** Debe establecerse una conexión funcional con los servicios externos seleccionados utilizando la API o el SDK proporcionado por el proveedor del servicio. | EP006 Gestión de Datos y Comunicación Backend|
 | TS004 |  Programación Asíncrona | Con el objetivo de gestionar tareas que requieren tiempo y recursos, el equipo de desarrollo debe implementar programación asíncrona utilizando bibliotecas adecuadas. |**Escenario:  Identificación de Tareas Asíncronas** Se debe identificar y documentar las tareas específicas en la aplicación que requieren programación asíncrona debido a su naturaleza que consume tiempo y recursos. **Escenario: Manejo de Errores Asíncronos** Deben implementarse mecanismos de manejo de errores para abordar posibles problemas que puedan surgir durante la ejecución de tareas asíncronas. | EP006 Gestión de Datos y Comunicación Backend|
 | TS005 |  Integración de Dispositivos IoT | Con el fin de permitir a los usuarios monitorear sus plantas de manera efectiva, el equipo de desarrollo debe implementar la integración de dispositivos IoT. Esto incluye la capacidad de vincular y configurar dispositivos IoT. |**Escenario: Vinculación de Dispositivos IoT** Los usuarios deben poder iniciar el proceso de vinculación de dispositivos IoT desde la aplicación. **Escenario: Registro de Dispositivos Vinculados** La aplicación debe mantener un registro de los dispositivos IoT vinculados por cada usuario. |EP005 Integración de Dispositivos IoT|
@@ -2020,8 +2104,45 @@ https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBO
 
 **ANEXO C: Video de exposiciones**
 | Vídeo exposición TB1 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u201821078_upc_edu_pe/EXG7BcmLZahBr3EtoKdVHCQB5luzGlKXm8nJXA3kiT_ATA?e=X9hc8I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 | 
-|-----------|-----------|
+|-----------|-----------|- 2.2.3. Análisis de entrevistas.
+
+### 2.3. Needfinding.
+- 2.3.1. User Personas.
+- 2.3.2. User Task Matrix.
+- 2.3.3. User Journey Mapping.
+- 2.3.4. Empathy Mapping.
+- 2.3.5. As-is Scenario Mapping.
+
+## Capítulo III: Requirements Specification
+- 3.1. To-Be Scenario Mapping.
+- 3.2. User Stories.
+- 3.3. Impact Mapping.
+- 3.4. Product Backlog.
+
+## Capítulo IV: Solution Software Design 
+- 4.1. Strategic-Level Domain-Driven Design. 
+	- 4.1.1. EventStorming. 
+			Enlace de Miro para el desarrollo de Event Storming: https://miro.com/welcomeonboard/aHBvTVNKeFh6SGF4elVQYmtXM0FjTmkxcGYzOGN0VjdONVBOamljTkwxbmdUMmVZSFM3RGRUMFkzek5SSTJkd3wzMDc0NDU3MzQ4MzE3NTkyMDkwfDI=?share_link_id=426406113622		
+			- 4.1.1.1 Candidate Context Discovery. 
+		- 4.1.1.2 Domain Message Flows Modeling. 
+		- 4.1.1.3 Bounded Context Canvases. 
+	- 4.1.2. Context Mapping. 
+	- 4.1.3. Software Architecture. 
+		- 4.1.3.1. Software Architecture System Landscape Diagram. 
+		- 4.1.3.2. Software Architecture Context Level Diagrams. 
+		- 4.1.3.2. Software Architecture Container Level Diagrams.
+		- 4.1.3.3. Software Architecture Deployment Diagrams. 
+- 4.2. Tactical-Level Domain-Driven Design 
+	- 4.2.X. Bounded Context: 
+		- 4.2.X.1. Domain Layer. 
+		- 4.2.X.2. Interface Layer. 
+		- 4.2.X.3. Application Layer. 
+		- 4.2.X.4. Infrastructure Layer. 
+		- 4.2.X.6. Bounded Context Software Architecture Component Level Diagrams. 
+		- 4.2.X.7. Bounded Context Software Architecture Code Level Diagrams. 
+			- 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams. 
+			- 4.2.X.7.2. Bounded Context Database Design Diagram.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzgzOTA2NiwtMTI3Nzg0ODg4LC01NT
-c3NzMxNDUsLTIwODcyNTQyODldfQ==
+eyJoaXN0b3J5IjpbLTEzNDUwODcyODQsLTg0MzgzOTA2NiwtMT
+I3Nzg0ODg4LC01NTc3NzMxNDUsLTIwODcyNTQyODldfQ==
 -->
